@@ -23,7 +23,7 @@ def main
     parts = castka.split("\u00A0")
     res['mnozstvi'] = parts[0].tr(',', '.').to_f
     res['mena'] = parts[1]
-    res['id'] = Digest::SHA256.hexdigest(res.inspect.to_s)
+    res['id'] = Digest::SHA256.hexdigest(JSON.pretty_generate(res))
     res
   end
 
