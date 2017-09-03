@@ -20,7 +20,7 @@ def main
     end
     castka = res['castka']
     parts = castka.split("\u00A0")
-    res['mnozstvi'] = parts[0].to_f
+    res['mnozstvi'] = parts[0].tr(',', '.').to_f
     res['mena'] = parts[1]
     res
   end
