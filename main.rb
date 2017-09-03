@@ -15,9 +15,7 @@ def main
   page = Nokogiri::HTML(open(URL))
 
   data = page.css('div.content > table > tbody > tr').map do |element|
-    res = {
-        id: nil
-    }
+    res = {}
 
     FIELDS.each_with_index do |name, idx|
       res[name] = element.css("td[#{idx + 1}]").text.strip
