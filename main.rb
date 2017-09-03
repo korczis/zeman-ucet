@@ -3,6 +3,7 @@
 # encoding: utf-8
 
 require 'csv'
+require 'digest'
 require 'nokogiri'
 require 'open-uri'
 require 'json'
@@ -11,7 +12,7 @@ URL = 'https://www.fio.cz/ib2/transparent?a=2501277007'.freeze
 FIELDS = %w(datum castka typ protiucet zprava ks vs ss poznamka).freeze
 
 def main
-  page = Nokogiri::HTML(open(URL), nil, 'UTF-8')
+  page = Nokogiri::HTML(open(URL))
 
   data = page.css('div.content > table > tbody > tr').map do |element|
     res = Hash.new(0)
@@ -22,6 +23,7 @@ def main
     parts = castka.split("\u00A0")
     res['mnozstvi'] = parts[0].tr(',', '.').to_f
     res['mena'] = parts[1]
+    res['id'] = Digest::SHA256.hexdigest(res.inspect.to_s)
     res
   end
 
@@ -30,6 +32,7 @@ def main
   CSV.open('data/data.csv', 'wb') do |csv|
     csv << data.first.keys # adds the attributes name on the first line
     data.each do |hash|
+      puts hash.inspect
       csv << hash.values
     end
   end
