@@ -9,7 +9,7 @@ corpus <- Corpus(VectorSource(words$msg))
 # corpus <- tm_map(corpus, PlainTextDocument)
 
 corpus <- tm_map(corpus, removePunctuation)
-corpus <- tm_map(corpus, removeWords, stopwords('cs_CZ'))
+# corpus <- tm_map(corpus, removeWords, stopwords('russian'))
 
 corpus <- tm_map(corpus, stemDocument)
 
