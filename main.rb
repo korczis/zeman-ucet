@@ -8,7 +8,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'json'
 
-URL = 'https://www.fio.cz/ib2/transparent?a=2501277007'.freeze
+URL = 'https://www.fio.cz/ib2/transparent?a=2501277007&f=01.08.2017&t=01.08.2018'.freeze
 FIELDS = %w(datum castka typ protiucet zprava ks vs ss poznamka).freeze
 
 def main
