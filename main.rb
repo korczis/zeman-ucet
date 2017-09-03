@@ -15,12 +15,16 @@ def main
   page = Nokogiri::HTML(open(URL))
 
   data = page.css('div.content > table > tbody > tr').map do |element|
-    res = Hash.new(0)
+    res = {
+        id: nil
+    }
+
     FIELDS.each_with_index do |name, idx|
       res[name] = element.css("td[#{idx + 1}]").text.strip
     end
     castka = res['castka']
     parts = castka.split("\u00A0")
+    res['datum'] = Date.strptime(res['datum'], '%d.%m.%Y').iso8601
     res['mnozstvi'] = parts[0].tr(',', '.').to_f
     res['mena'] = parts[1]
     res['id'] = Digest::SHA256.hexdigest(JSON.pretty_generate(res))
