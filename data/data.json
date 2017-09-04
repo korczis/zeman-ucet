@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sloupenský, Michal",
+    "zprava": "Prodám novou, menší  rohovou sedací soupravu, 5990,- AKCE (barvy hnědá  a šedá)!! odběr Olomouc, doprava po dohodě možná..608319960",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám novou, menší  rohovou sedací soupravu, 5990,- AKCE (barvy hnědá  a šedá)!! odběr Olomouc, doprava po dohodě možná..608319960",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6d888d18e214c037b0a4f05e05715df1ba2e9ccad0c6a3f54035bdca57b7399b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "RNDr. Mach, Václav CSc.",
