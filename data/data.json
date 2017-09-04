@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zouhar, Tomáš",
+    "zprava": "Treba Bahnaka?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Treba Bahnaka?",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "68daf7b0f500ae932b8b586b805267f6a0fffebea174cfc640ce2911f2759ae9"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "21,39 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Pěcháček, Václav",
