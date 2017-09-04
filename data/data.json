@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Gajdečka, Tomáš",
+    "zprava": "www.akvarko.eu děkujeme odejděte",
+    "ks": "0308",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.akvarko.eu děkujeme odejděte",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "52e2ac927ae8d9ced20e0cd4f6d0abed1c5e06d3d4125e8e32efd09838c829fc"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "30,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Večeřa, Tomáš Pavel",
