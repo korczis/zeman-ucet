@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SVOBODA TIMOTHEUS",
+    "zprava": "Stokrat vice bude nenavideti nemoudry moudreho nez moudry nemoudreho.",
+    "ks": "0559",
+    "vs": "9",
+    "ss": "",
+    "poznamka": "SVOBODA TIMOTHEUS",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "91d60747c47255d037f6a015e5790e094eec90967978e12950335d371b7ce595"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "WINIARCZYK PETR",
