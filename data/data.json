@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "RNDr. Mach, Václav CSc.",
+    "zprava": "Váš bývalý nevolič",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Váš bývalý nevolič",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "254af267a4ac236159173a99e3485f2e9ff1ab383f004c9e612e6a0fbccbab74"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bui, Khac Nhat",
