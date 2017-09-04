@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "30,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Večeřa, Tomáš Pavel",
+    "zprava": "na úklid u korunovačních klenotů",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na úklid u korunovačních klenotů",
+    "mnozstvi": 30.0,
+    "mena": "CZK",
+    "id": "bb9400c1d90e89b65a5843371cd29b41ee931fce3cc3f6c2a51948f65dfad693"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Stabilmont s.r.o.",
