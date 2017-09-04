@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kasa, Martin",
+    "zprava": "TEST",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "TEST",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "549a21843b8f70c3a0fc0d55bf2a83a2389281271e869b3a226f5cdaae1456d7"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Komrsková, Anna",
