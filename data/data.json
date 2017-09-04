@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "Miloši, poslední zhasíná.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloši, poslední zhasíná.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6b52e7c76e083a0e0a1c387f144b86d5af0b57f2632c53a550e3497e0c8bbc5e"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vyhnánek, Petr",
+    "zprava": "Nějaká nadržená klisnička na středeční bukkake party? Pičín a okolí.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nějaká nadržená klisnička na středeční bukkake party? Pičín a okolí.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3d2e2568307a417e3026102e29e59c601dfccc4f38e1a485ec5e1c157eea987c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "25,45 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dlasková, Karolína",
