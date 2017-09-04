@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Musil, Petr",
+    "zprava": "MILOŠ z hradu!!! Ovčáček na pracák!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MILOŠ z hradu!!! Ovčáček na pracák!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2fe1d044098d7eca874523f0166e89f1cdf38a8b05ca49800fd633619ff33461"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,03 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vostrčil, Radomír",
