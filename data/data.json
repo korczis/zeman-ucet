@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "12,34 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čerňanský, Petr",
+    "zprava": "Sleva 50 Kč a k tomu doprava zdarma na www.rybizak.cz - Rybízové, višňové a jahodové víno. Jen pro 20 nejrychlejších. Slevový kód: 41965963",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Sleva 50 Kč a k tomu doprava zdarma na www.rybizak.cz - Rybízové, višňové a jahodové víno. Jen pro 20 nejrychlejších. Slevový kód: 41965963",
+    "mnozstvi": 12.34,
+    "mena": "CZK",
+    "id": "d0301660b2c7f8fd64ffb2c7526fb8ebd013839376cb034d308406726b2dec6c"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cooling systems s.r.o.",
+    "zprava": "www.mrazicidesky.cz stroje na rolovanou zmrzku vzkazují: umíme ovarovou zmrzku pro pana prezidenta a zmrzku bez chuti pro pana mluvčáčka.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.mrazicidesky.cz stroje na rolovanou zmrzku vzkazují: umíme ovarovou zmrzku pro pana prezidenta a zmrzku bez chuti pro pana mluvčáčka.",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "44d38948e7354dc3a68779f073ed9d8b89bd14c3d48db30e75a78e3c69dc2ecd"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Jé, já se spletl !! Všichni co jste se také spletli, pojďte podat reklamaci za omylem poslanou transakci a nechat si ji vrátit.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jé, já se spletl !! Všichni co jste se také spletli, pojďte podat reklamaci za omylem poslanou transakci a nechat si ji vrátit.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "33d9a4d75e71a229ece1f25d5556a2ec77ad82c561f4ea1e97e376b9bfcce2f4"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Málková, Klára",
