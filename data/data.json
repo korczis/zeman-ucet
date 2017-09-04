@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PETR DVOŘÁK",
+    "zprava": "Jezevcovi s láskou",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "PETR DVOŘÁK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "906bc93eccafe0058acaa61e49fc4a7f5d08cb0d9e7629e8d4abdd9e168c7f2e"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ING. VERONIKA GOTTES",
