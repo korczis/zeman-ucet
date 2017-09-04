@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "25,45 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dlasková, Karolína",
+    "zprava": "https://www.youtube.com/watch?v=gAmsgyh2WB8",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "https://www.youtube.com/watch?v=gAmsgyh2WB8",
+    "mnozstvi": 25.45,
+    "mena": "CZK",
+    "id": "d8967b0dd8e1ce1c54a4e3d260ae330c59f4a5bc732729940ef1570f816cae7c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šlechta, Vojtěch",
