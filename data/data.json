@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CHLUM MARTIN",
+    "zprava": "POSÍLÁM KORUNU, KUP ZA NÍ ZPĚTIPB ,  NENÍ URČENO NA KAMPAŇ",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "CHLUM MARTIN",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "a7fe5d5ad02fce77234f62f0ee464dca808db9f8e7d7abc0ace1bfd97ae9a480"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Javor, Hynek",
