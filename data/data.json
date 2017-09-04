@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOMAREK JAKUB",
+    "zprava": "Na letenku do Moskvy i s celoubandou",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOMAREK JAKUB",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3047ddca994f7a6da2327311902a77c0f77cc9b47471c41b791db5f23580962f"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,38 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HORAKOVA MARIE",
+    "zprava": "Long live His Holiness Dalai Lama!At zije jeho svatost dalajlama!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HORAKOVA MARIE",
+    "mnozstvi": 0.38,
+    "mena": "CZK",
+    "id": "d604bc60aa04457de35778bd393f3d63326044fa3a616da7b0aa23432c1fe9ac"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "JIRA KRISTIAN",
+    "zprava": "Ploretari vsech zemi, vylizte siprdel!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "JIRA KRISTIAN",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "248c8a424c288a6ef306ed2d70e488c7178c7994e8e6cc5b10b4e6fb0175b1e7"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Petrušková Michaela",
