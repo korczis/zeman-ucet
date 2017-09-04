@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vojíř, Jan",
+    "zprava": "",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "0b64c6c576bcf57dcb7ce863ae37a941af9dfb3e10bb9169e2ae93c3395198ea"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pastucha, Zdeněk",
