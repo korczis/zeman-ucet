@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,49 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MLAZOVSKY VLADIMIR",
+    "zprava": "Jestli Vam je z toho uz spatnenavstivte www.toiletmafia.coma najdete si nejblizsi zachod :D",
+    "ks": "",
+    "vs": "2017",
+    "ss": "",
+    "poznamka": "MLAZOVSKY VLADIMIR",
+    "mnozstvi": 0.49,
+    "mena": "CZK",
+    "id": "bd11d6432ea09fa653ce39232d9c3d8f9ae8f81c4c32815cd14427bec3f44cfc"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MATĚJKA KAREL",
