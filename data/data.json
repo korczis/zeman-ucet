@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Suchý, Jan",
+    "zprava": "1) Na hledani článku od F.Peroutky 2) Na fet pro Jindru F.",
+    "ks": "",
+    "vs": "123456789",
+    "ss": "987654321",
+    "poznamka": "1) Na hledani článku od F.Peroutky 2) Na fet pro Jindru F.",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "23ea95c795cc9b36c434c35da19b7382a61029d3fcae30390cb6f35cbe0d937d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
