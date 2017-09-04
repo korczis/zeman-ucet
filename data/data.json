@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Centizio s.r.o.",
+    "zprava": "Miloši, tady najdeš dětské porno:  MilosovaMrdacka.cz , TY VYCHLASTANÉ a ÚCHYLNÉ PRASE !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloši, tady najdeš dětské porno:  MilosovaMrdacka.cz , TY VYCHLASTANÉ a ÚCHYLNÉ PRASE !!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b71471d6ca018ba476cc6f6b0638513c4739b0d9fe3973c6ee8c119a311f6d0a"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Auerswaldová, Klára",
+    "zprava": "na Becherovku, na žal..",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na Becherovku, na žal..",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2c0b443cd172dd3ac75196737341f254f1e65da256ca1e5999134315d1eb2c40"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šleger, Vladimír",
