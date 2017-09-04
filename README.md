@@ -2,6 +2,8 @@
 
 Zpravy pro prijemce ze Zemanova transparentniho uctu na predvolebni kampan
 
+![Milos Zeman](/img/milos-zeman.jpg?raw=true "Milos Zeman")
+
 ### Tabulka
 
 Pekna tabulka (CSV) s [daty](https://github.com/korczis/zeman-ucet/blob/master/data/data.csv)
