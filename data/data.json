@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Blažek, David",
+    "zprava": "Pro soudem uznaneho lhare",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro soudem uznaneho lhare",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7a892247d21a3584f8e4a893c3f21523bf18e033942e3c9f741d3decfe528b17"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ČIHÁKOVÁ DOBROMILA",
     "zprava": "Styďte se za lži, ostudu kterou nám po světě děláte, vulgarismy,  podněcování k nenávisti.....za manipulaci s důvěřivými lidmi...odejděte!",
