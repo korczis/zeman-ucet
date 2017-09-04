@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Plaček, Martin",
+    "zprava": "ahooooj :)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ahooooj :)",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "4c9cd165a4c842fec017ea454f3c4c301401bac8e28e85b8af97ca4303d1763b"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Zedníček, Pavel",
+    "zprava": "Ah, zdá se, že poplatky už zastavili. Tak hodně zdaru na cestě do důchodu pane prezidente, hlavně ať Vám slouží.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ah, zdá se, že poplatky už zastavili. Tak hodně zdaru na cestě do důchodu pane prezidente, hlavně ať Vám slouží.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "08f2c98905025e3531034d7b25ddc052935575db32c8a72dcdede11b714bc7fc"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Zedníček, Pavel",
