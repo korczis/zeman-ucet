@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bartoň, Svatopluk",
+    "zprava": "Kdo je víc než já? milouši už toho bylo dost...",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "Kdo je víc než já? milouši už toho bylo dost...",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "359521b557b51bc1dd3250a26147e3b17f239eea36f2935da18bb3250e63659a"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Miškovský Josef,Mgr.",
