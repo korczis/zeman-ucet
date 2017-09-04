@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Krúpa, Milan",
+    "zprava": "... at se dari ...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "... at se dari ...",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "f996ffb7f795b156ab31ad3e8b4003c29e03c9b0f3a6c14c5ef13d9a3abdf77c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Merta, Tomáš",
