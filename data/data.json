@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Raška, Roman",
+    "zprava": "Kupředu levá - směr Moskva! A zpátky ni krok !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kupředu levá - směr Moskva! A zpátky ni krok !!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "08236989afd3ec786dfb81ad82eb0585ce5fe8fc09b26f9f5503aeb70708e717"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "FEŘTEK MARTIN",
     "zprava": "Už se těším, až vypadnete z Hradu,a Hrad bude opět volně přístupný pro všechny lidi.Jste neskutečná ostuda tohoto národa.",
