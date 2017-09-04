@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Habr, Lukáš",
+    "zprava": "Funguje to?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Funguje to?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3a5e85cd27c193beb3d6e34b1235f9db4c09a4d834d1a4b1d664515df40ab8c1"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Viktor Derka",
