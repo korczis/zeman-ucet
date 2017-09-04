@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Jiří",
+    "zprava": "Ono to strhává poplatek za příchozí platbu ze zahraničního účtu? Dobré vědět. :-D Jo a Leveled - jdi s tou reklamou do prdele!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ono to strhává poplatek za příchozí platbu ze zahraničního účtu? Dobré vědět. :-D Jo a Leveled - jdi s tou reklamou do prdele!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "53b9dc91a37f774fe13920debcd233b0149ddf81295c4e2c58dc6a7f2a9b7d05"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,93 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "NEKUDA ROSTISLAV",
