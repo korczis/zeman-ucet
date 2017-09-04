@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kolařík, Stanislav",
+    "zprava": "Prosim nedelejte jiz dale ostudu aodejdete aspon s tim kouskemdustojnosti co Vam zbyl",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prosim nedelejte jiz dale ostudu aodejdete aspon s tim kouskemdustojnosti co Vam zbyl",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "63ac2d99c3c7852be2a68707af052aceab9bd31d9e64203a7951457534e88df6"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Toman, Matěj",
