@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mgr. Červenka, Vojtěch",
+    "zprava": "Halířoví stoupenci pražské kavárny zde jen ukázali, jací jsou duševní mrzáci.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Halířoví stoupenci pražské kavárny zde jen ukázali, jací jsou duševní mrzáci.",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "a643710cf11bf2fcd9fb2eb37c2fe0d85a1c486b40cc5885053721c905df605c"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vojíř, Jan",
+    "zprava": "<h1>Projde html?</h1>",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "<h1>Projde html?</h1>",
+    "mnozstvi": 0.66,
+    "mena": "CZK",
+    "id": "5d83c0a820a127618bf5d84dacfb1187761d1ad3ecf3f981801c8298ec979d61"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "MgA. Ježek, Ondřej",
