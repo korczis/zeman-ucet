@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sativa - Manufacture",
+    "zprava": "Na cestu z hradu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na cestu z hradu",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "51ac0c225a353f2dabfa15ff9694eacfda9bdb2d53d8d7ec9f79eadcea793e96"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Tomáš Pexa",
