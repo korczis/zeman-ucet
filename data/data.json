@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,11 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bednář, Martin",
+    "zprava": "Miloši, hledáte vybavení pro dům nebo zahradu? Od teď nebudete chtít hledat jinde. Já jen zírám. Na www.bevedo.cz najdete opravdu všechno!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloši, hledáte vybavení pro dům nebo zahradu? Od teď nebudete chtít hledat jinde. Já jen zírám. Na www.bevedo.cz najdete opravdu všechno!",
+    "mnozstvi": 1.11,
+    "mena": "CZK",
+    "id": "061b15999aeb110cf483c7a78b2ae9a1f9b7ddaba931b11a24603b51942ad516"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bella, Vojtěch",
+    "zprava": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "34c0c980c20b8968c7309e2c3742b40329e099f83361522030bb8a30f195b7df"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bella, Vojtěch",
