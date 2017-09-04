@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Albrechtová, Elsa",
+    "zprava": "Prodám KIA Sportage 1,7 CRDI, r. v. 2014, naj. 51 000. Skvělý stav! pupowski@gmail.com",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám KIA Sportage 1,7 CRDI, r. v. 2014, naj. 51 000. Skvělý stav! pupowski@gmail.com",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0e542f31c4090ee3c06ee2c3131910a17231228b8e4f8d44d4e4d6d26192d7d3"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pechal, Jan",
