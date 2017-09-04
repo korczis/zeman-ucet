@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Ondřej Soukup,'\''; SELECT LOADFILE(0x633A5C626F6F742E696E69),0000,"","",Ondřej Soukup,0.01,CZK,5316550b6d4eea919d6b6326fbb370bf2c126d9169c33e62bbc0bd7d8155f092
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Ing. Tomáš Lecnar,příspěvek na hledání Peroutkova článku,0000,"","",Ing. Tomáš Lecnar,0.01,CZK,592115910f21090d805451f785ae45b6cccfad2603393a529edac9d1b39b7b74
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Matyáš Kubíček,Příště už chybu snad nikdo neudělá,0000,"","",Matyáš Kubíček,0.01,CZK,bacd8c1aba94c7e7d6e641ff054c3d19d7faaf00efb4b3340ad2c0ad08c6da31
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Filip Stejskal,Příspěvek na jízdenku Praha - Vysočina,0000,"","",Filip Stejskal,0.01,CZK,03eafef95da5d8b4e88b0a24d84261f4f0eb56af2e9a0d3a550f5c692b22c2e1
