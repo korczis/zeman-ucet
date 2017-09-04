@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,23 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bc. Wenzel, Richard",
+    "zprava": "www.nezerhovna.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.nezerhovna.cz",
+    "mnozstvi": 0.23,
+    "mena": "CZK",
+    "id": "1132f7c59ee65c4904f4b326e2ac60f458d59d012f4547ee9dd49c4b0a885c8b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Krbálek, Jan",
