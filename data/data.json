@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kratochvíl, Aleš",
+    "zprava": "Prispevek na novy oblek pro Ovciho Mluvcacka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prispevek na novy oblek pro Ovciho Mluvcacka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "72f3af1e248c8309f1a450f0a99caf6bf81a47262e0b81b082dd8487f9acdff5"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "RNDr. Frys, Zdeněk",
