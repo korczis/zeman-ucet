@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Fiala, Miloš",
+    "zprava": "Na lepšího mluvčího. Pan Ovčáček vám dělá ostudu ještě větší, než zvládnete sám.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na lepšího mluvčího. Pan Ovčáček vám dělá ostudu ještě větší, než zvládnete sám.",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "6713a15f148a8013377ea7da3bcf402873d973c7c4d9c33b87cafcb20770847a"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
