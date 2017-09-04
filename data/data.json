@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Příspěvek na jednocestnou letenku na Měsíc - ještě další příspěvek - abyste mohl na odvrácenou stranu, což bude přeci jen dražší",
+    "ks": "",
+    "vs": "3855",
+    "ss": "8716",
+    "poznamka": "Příspěvek na jednocestnou letenku na Měsíc - ještě další příspěvek - abyste mohl na odvrácenou stranu, což bude přeci jen dražší",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f41009eda103630b2f73272d0fa733131542ad4780f47d41deb8a63127f7a936"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vyhnánek, Matěj",
+    "zprava": "Udělejte dobrý skutek a pošlete Martinovi Královi sms pro lepší den ve tvaru .Nebuď Kunda. na 731 092 212.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Udělejte dobrý skutek a pošlete Martinovi Královi sms pro lepší den ve tvaru .Nebuď Kunda. na 731 092 212.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5cccf485cf68297eace83eaf6c5d9e2e1ac048bf3988bccca49de8fcb874027c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čapek, Jiří",
