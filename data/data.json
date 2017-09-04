@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Javor, Hynek",
+    "zprava": "Diky za kazdy den, kdy jste prezident. davinciprague.cz/clanky/hate-speech-aneb-jak-umlcet-hlas-internetu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Diky za kazdy den, kdy jste prezident. davinciprague.cz/clanky/hate-speech-aneb-jak-umlcet-hlas-internetu",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "bf6e13a14bc8a87f4a999b82e72bfe83448bf4670596089883db1146b8b085af"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Holeček, Jan",
