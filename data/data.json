@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,04 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cemper, Jan",
+    "zprava": "halíř do pravé nohy, halíř do levé nohy, halíř na vyleštění korunovačních klenotů po tom, co jste je málem pogrcal, halíř na stažení videií",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "halíř do pravé nohy, halíř do levé nohy, halíř na vyleštění korunovačních klenotů po tom, co jste je málem pogrcal, halíř na stažení videií",
+    "mnozstvi": 0.04,
+    "mena": "CZK",
+    "id": "c8d2f4591384253519f977b938c6a81f197ac44c2b10b6074315be95cf20121b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "300,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Gec, Ivo",
