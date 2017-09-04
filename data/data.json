@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bouchalová Crdlíková, Ludmila",
+    "zprava": "stydím se za vás",
+    "ks": "",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "stydím se za vás",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "266227f61a7758ed23a8aa519feeeace34426b8c8df29c5c8bf7b5eac3b4c060"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vojíř, Jan",
