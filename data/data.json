@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "4,50 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vojíř, Jan",
+    "zprava": "Na papuce pro mluvciho",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na papuce pro mluvciho",
+    "mnozstvi": 4.5,
+    "mena": "CZK",
+    "id": "195e338e7a6a8cf625c3a5e40ac7a3b999ae4e8b1e8642ebc30a6ace5a93f2a0"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bartoň, Svatopluk",
