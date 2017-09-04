@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "50,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BOTUR IVO",
+    "zprava": "Mých 50Kč na podporu má váhu přesně 5.000 příspěvků haléřových ovcí.Nezapomeňte se dívat na TV N...ať si uděláte \"vlasní\" názor..béé",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "BOTUR IVO",
+    "mnozstvi": 50.0,
+    "mena": "CZK",
+    "id": "c43164f8a6519d12f93e7df5c113c1fda49cefa3e3924a888ad97886facb1d46"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZDENĚK KOVÁŘ",
+    "zprava": "Pro přisluhovace a mužikapro nejrychlejší odpal na Vysocinu!",
+    "ks": "",
+    "vs": "1010101",
+    "ss": "",
+    "poznamka": "ZDENĚK KOVÁŘ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4a69928b8f31131a756dd340b46702a7f4d4f1c0ae8d6bcc1d37724211ac35e4"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MARTIN BUREŠ",
