@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Beneš, Ladislav",
+    "zprava": "Děkuji za Vaši dosavadní práci. Přeji mnoho zdraví a úspěch ve volbách.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Děkuji za Vaši dosavadní práci. Přeji mnoho zdraví a úspěch ve volbách.",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "593f068ce006996b903636918d38077a5a782654b889babc56c1c7c2edf040ec"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šeliga, Vlastimil",
