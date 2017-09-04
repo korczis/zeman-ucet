@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MANDELIK MICHAL",
+    "zprava": "NEVITENEKDOPROCMINEJDOUPSATMALYPISMENAANEFUNGUJEMEZERNIK?URCITEZATOMUZEKALOUSEKNEBONEJAKEJMUSLIMZAVRETEHRANICEVOLTEBABISEAOKAMURU",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "MANDELIK MICHAL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "075569f0c9a8a4d90bfa7a248de9cd320331c68b5df62ea185d1564c44414120"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZDARSKA HELENA",
+    "zprava": "Voda uz se vari!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "ZDARSKA HELENA",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "5a0eb0729a04be512a4bed75e3b8a8642e5e89458ee3c1e12c1c2a02eda9ac63"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TUCKOVA MARIE",
