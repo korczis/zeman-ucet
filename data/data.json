@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Blažek, David",
+    "zprava": "Na pandu, krtecka a nase spojence v Rusku a Cine, kam Cesko vzdycky patrilo!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na pandu, krtecka a nase spojence v Rusku a Cine, kam Cesko vzdycky patrilo!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "200feaa56b86e7e7bcd77bae35f10dec42e8638dd41b859cb208e2aa7da48b32"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KONIR PETR",
     "zprava": "stydim se za zoufaleho alkoholika",
