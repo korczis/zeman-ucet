@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "3 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Klaban, Josef",
+    "zprava": "Pane Prezidente jsme s Vámi - jen vydržet",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pane Prezidente jsme s Vámi - jen vydržet",
+    "mnozstvi": 3.0,
+    "mena": "000,00",
+    "id": "f65959cfeca49c9d234f3e106f16d35ddde720b9b0840f6cdb30ee4c13168ccf"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tywoniak, Emil Jiří",
+    "zprava": "been involved in numerous secret raids on AlQuaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and Im the top snip",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "been involved in numerous secret raids on AlQuaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and Im the top snip",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "808b40c42e9976c26ce9a5bb584de4259b1d3dcbab4686f9b6d094679b7476e4"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tywoniak, Emil Jiří",
