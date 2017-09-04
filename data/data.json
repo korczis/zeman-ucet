@@ -3,6 +3,20 @@
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Břinčil, Tomáš",
+    "zprava": "Domnívám se, že jsi homokláda.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Domnívám se, že jsi homokláda.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fb85936500d6450cc24421fcbc45933e48247bbb47f4e319affed57380f72f2d"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Váradi, Petr",
     "zprava": "Milouši, končíme. Už stačilo.",
     "ks": "",
@@ -1583,20 +1597,6 @@
   },
   {
     "datum": "2017-09-04",
-    "castka": "-20,00 CZK",
-    "typ": "Poplatek",
-    "protiucet": "",
-    "zprava": "Milos Zeman je ostuda CR",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Milos Zeman je ostuda CR",
-    "mnozstvi": -20.0,
-    "mena": "CZK",
-    "id": "8667095b8dc42ff15e5c89a7d4f44d019cc7ba7f6c6d9e9bdabbfcad14512cb5"
-  },
-  {
-    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Hr A Novacek",
@@ -1608,20 +1608,6 @@
     "mnozstvi": 0.25,
     "mena": "CZK",
     "id": "bd4a4344bc6fd8ffa80aedc5c86ef5f35a76e581d466497448cfb286070f185b"
-  },
-  {
-    "datum": "2017-09-04",
-    "castka": "-20,00 CZK",
-    "typ": "Poplatek",
-    "protiucet": "",
-    "zprava": "Na kampan snad byvaleho prezidenta.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Na kampan snad byvaleho prezidenta.",
-    "mnozstvi": -20.0,
-    "mena": "CZK",
-    "id": "98867d04a1cff23d1fa28cd78b4c6bd8c7f6c049bc7453a31c08153ea20369ba"
   },
   {
     "datum": "2017-09-04",
