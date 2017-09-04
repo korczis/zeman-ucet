@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "200,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kozlíková, Lucie",
+    "zprava": "Marek Svoboda - Vazeny pane prezidente, urazky od ostatnich lidi svedci o jejich inteligenci. Drzim palce!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Svoboda - Vazeny pane prezidente, urazky od ostatnich lidi svedci o jejich inteligenci. Drzim palce!",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "d556ce0fa0f3581783174dd5beffda7c2d553a9ab21845cbc6a0bb35a5f3a396"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Košičár, Jan",
