@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "2,68 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ledvinka, Tomáš",
+    "zprava": "Funguje to?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Funguje to?",
+    "mnozstvi": 2.68,
+    "mena": "CZK",
+    "id": "946a03c2bdea953ae0110caad9db532328a22b596aece7a8ed490c68a54489dd"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Gál, Ján",
