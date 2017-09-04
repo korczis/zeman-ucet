@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Stokláska, Jiří",
+    "zprava": "Prodám použitý kondom zn. levně !",
+    "ks": "0558",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám použitý kondom zn. levně !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1178033360441948170eeab80d506ab2d6dd7c2318fee1bd7c56711a8e68e6e7"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "200,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "SVOBODA TIMOTHEUS",
