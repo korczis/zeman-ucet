@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Fišer, Adam",
+    "zprava": "Hledám podnájem v centru Prahy, 1kk do 10 tisíc. Kontakt na adam-is-my.name",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hledám podnájem v centru Prahy, 1kk do 10 tisíc. Kontakt na adam-is-my.name",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "04bee37e6032f70e484d23cc5774653c848504423a04d76136c11f496fb5238f"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Albrechtová, Elsa",
