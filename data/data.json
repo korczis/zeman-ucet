@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kořínek, Marek",
+    "zprava": "Příspěvek na Vysočinu, nafukovací \"jachtu\" a jednosměrnou letenku do Moskvy bez možnosti návratu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Příspěvek na Vysočinu, nafukovací \"jachtu\" a jednosměrnou letenku do Moskvy bez možnosti návratu",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "75af79013f2a96a81c03754d79c87280b12c03496f0520a4b59695d369c764fb"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "-20,00 CZK",
     "typ": "Poplatek",
     "protiucet": "",
