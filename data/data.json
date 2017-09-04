@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Váradi, Petr",
+    "zprava": "Milouši, končíme. Už stačilo.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Milouši, končíme. Už stačilo.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5209c9f5100799abc06af41455e1fb10d537e7a7831a7e8b8876c10ce2af68ee"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šabouk, Jan",
