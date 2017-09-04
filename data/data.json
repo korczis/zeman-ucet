@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kotouč, David",
+    "zprava": "Posilám haléř vulgárnímu, arogantnímu buranovi, který se velkým omylem stal \"prezidentem\".Ber si víc než prezidenta čtveráčka a táhni už..",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Posilám haléř vulgárnímu, arogantnímu buranovi, který se velkým omylem stal \"prezidentem\".Ber si víc než prezidenta čtveráčka a táhni už..",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3fb8f20d0de16461e3bcaa4b05e6800895f12fc23929162b70cb3c407d6d5c4f"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Novotný, Pavel",
