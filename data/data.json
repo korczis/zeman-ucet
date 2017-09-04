@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,03 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vostrčil, Radomír",
+    "zprava": "Příspěvek na balení kufrů lhářů, manipulantů a exotů Z+O+M. Tento dar prosím spravedlivě rozdělte!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Příspěvek na balení kufrů lhářů, manipulantů a exotů Z+O+M. Tento dar prosím spravedlivě rozdělte!",
+    "mnozstvi": 0.03,
+    "mena": "CZK",
+    "id": "1e6851941bc914c3ec6cfbd373558390f195bc7e0fb949adbc75e6812e599331"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "3 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kajínek Milan",
