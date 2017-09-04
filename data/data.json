@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KRAL MIROSLAV",
+    "zprava": "na proverku Mynarovi",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KRAL MIROSLAV",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "5462f987282691356a66484474e51ecc2932754a6304c587ef94f949db2b846f"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KRAL MIROSLAV",
+    "zprava": "pac a pussu Ovcackovi",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KRAL MIROSLAV",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "26abd044978016ba36bb376412680e3397b1340026ee3cff3300ff7dd88bca57"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ESSER MIROSLAV",
