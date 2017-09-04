@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Váradi, Petr",
+    "zprava": "Můžete mi nabídnout staré osmibitové počítače do mé sbírky. ok1cdu@gmail.com Díky!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Můžete mi nabídnout staré osmibitové počítače do mé sbírky. ok1cdu@gmail.com Díky!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "45c3704e525f0d37f6653d0938fecfa242a917aff31f9892e240fbac582313f0"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šabouk, Jan",
