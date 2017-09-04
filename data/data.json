@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Johnová Ivana",
+    "zprava": "na čistý trenky až půjdeš z Hradu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Johnová Ivana",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "4d8dff706f3ca092ecdb1ca440730ebfb2533b234d9704aefaffa4822bf25f6b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Albrechtová, Elsa",
