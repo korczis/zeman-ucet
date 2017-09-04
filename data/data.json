@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,03 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kejzlar, Martin",
+    "zprava": "http://www.martinkejzlar.cz/",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "http://www.martinkejzlar.cz/",
+    "mnozstvi": 0.03,
+    "mena": "CZK",
+    "id": "4ab870e1cc3c26b565356093740cad51cc8f1dc3a74c1ddab25867bde7cd9344"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Procházka, David",
