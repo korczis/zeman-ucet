@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Řezáč, Karel",
+    "zprava": "Tady máš korunu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tady máš korunu!",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "afb3873ad90da49b7bbe88193a1c657cff49ed0ed25ee4611cd23864aa11ea82"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Stabilmont s.r.o.",
