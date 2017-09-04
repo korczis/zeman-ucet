@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,13 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vepřek Jarmil,Mgr.",
+    "zprava": "Příspěvek na neexistující kampaně,výzkum lží, likvidaci novinářů a případně jednosměrnou letenku do Vladivostoku.",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Vepřek Jarmil,Mgr.",
+    "mnozstvi": 0.13,
+    "mena": "CZK",
+    "id": "0d38e3368ec75ca24605b31f12333d550093c02e81254a02e2cd8344567e7e24"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PRIBYL JAN",
+    "zprava": "www.JPCOMP.cz ...aspon jednoumuzeteudelat slusnou reklamu:)",
+    "ks": "",
+    "vs": "7",
+    "ss": "",
+    "poznamka": "PRIBYL JAN",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "0f10d04c17e6857aeecf942e397b87ccdeb80524397846980a941e5199db545a"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Zlámalová, Jiřina, č",
+    "zprava": "Pro nejlepšího českého prezidenta,co nejvíce zdraví pro Vás.",
+    "ks": "1234",
+    "vs": "112233",
+    "ss": "",
+    "poznamka": "Zlámalová, Jiřina, č",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "bf4fdd568514b9a7ab63e4b8d455fe3010283ee26ab243c6f56a95cf0a6dfc0b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CHLUM MARTIN",
