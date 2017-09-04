@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VALACH PETR",
+    "zprava": "Nechte volby volbama a sledujtewww.ExoSpace.cz, jedinecnou strankuvenovanou astronomii, kosmonauticea svobodnemu softwaru.Vas BubbleBum",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "VALACH PETR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f1ef3c810640c24b0e670f93ff1d472c64d75f997095942674864012bff895ff"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VALACH PETR",
+    "zprava": "???? c??, ???? ???. OVAR",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "VALACH PETR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e2ede388805528175508f30ca55459d6034f6fd7d1ff5b6f2d0307d6c890d304"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HRADECKY MICHAL",
