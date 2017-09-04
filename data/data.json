@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "5,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Špička, Jaroslav",
+    "zprava": "Zbynecek Vondracek - držím palce Mildo",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zbynecek Vondracek - držím palce Mildo",
+    "mnozstvi": 5.0,
+    "mena": "CZK",
+    "id": "ae88f695b36fabf7574bce6be34423758bd99eb354c9079182d3e541da1c4bd0"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šmíd, Michael",
+    "zprava": "Tohle svinstvo nezná hranice!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tohle svinstvo nezná hranice!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fbce339bbabcfb7fa4ad12c980fed43e899fb4f143a44bc608aac504d41a2443"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
