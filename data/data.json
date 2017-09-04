@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tichý, Jeremy",
+    "zprava": "Pro tu největší kundu Ovčáčka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro tu největší kundu Ovčáčka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a025b4eb4a1b3dfb0a3e7f2d02d992e649b5d547f8976a4b8f1e573c61bbdad6"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "RICHTR JIRI",
     "zprava": "na kazdou svini se vari voda.......",
