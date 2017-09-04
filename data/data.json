@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šonský, Michal",
+    "zprava": "Prodám pět let starý, žlutý nafukovací člun Challenger. Zn. stěhuji se na východ.",
+    "ks": "",
+    "vs": "001",
+    "ss": "",
+    "poznamka": "Prodám pět let starý, žlutý nafukovací člun Challenger. Zn. stěhuji se na východ.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "31ff9b13919b2d6e6c24f8b707e848f1920c7a0670de53e5e79430763d5d56ba"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "3,68 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vojíř, Jan",
