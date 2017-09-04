@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Holeček, Jan",
+    "zprava": "Na nový pomník, Po prezidentu Osvoboditeli, Budovateli a Obroditeli budeš znám jako \"prezident Kunda\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na nový pomník, Po prezidentu Osvoboditeli, Budovateli a Obroditeli budeš znám jako \"prezident Kunda\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0911a2c433b9f73cb6c273475e488acf645b775b19341c5d4cd2498c5921df6d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VACEK JAKUB",
