@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Štěrba, Michal",
+    "zprava": "pro StrnadRadek-2ks starší a pak delší 2x které jsou nefunkční.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "pro StrnadRadek-2ks starší a pak delší 2x které jsou nefunkční.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f14b9cab8db2c6ec061fcda5a063626b9c6da586ca10433ad2bc6016c030da9b"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hořava, Tomáš",
+    "zprava": "Wiki: Jezevec byl pokládán za symbol odvahy a zmužilosti. ... Jezevčí maso je poživatelné, oblíbené bylo hlavně v Rusku.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Wiki: Jezevec byl pokládán za symbol odvahy a zmužilosti. ... Jezevčí maso je poživatelné, oblíbené bylo hlavně v Rusku.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2774a0b2730e5152383a8a2d160b198c568efb4c81fd237a431e8ff2061aed97"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "200,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sychra, Jiří",
