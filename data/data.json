@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bartoš, Radek",
+    "zprava": "To bude legrace, až Bureš jednou promluví a odhalí, co má ve své složce na tohoto starého sprosťáčka...",
+    "ks": "0308",
+    "vs": "001",
+    "ss": "",
+    "poznamka": "To bude legrace, až Bureš jednou promluví a odhalí, co má ve své složce na tohoto starého sprosťáčka...",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "40889514b3ff522708436da7226daffc772bca3d58f4c649590e9cbe8381bbd8"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vojíř, Jan",
+    "zprava": "<b>Projde html</b> <a href=\"\">?</a>",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "<b>Projde html</b> <a href=\"\">?</a>",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "a250f4a32ac9b496c0bebcedafc6c3cf03fda8a626ba11d3d3b907d3bb219487"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mgr. Červenka, Vojtěch",
