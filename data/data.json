@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Centizio s.r.o.",
+    "zprava": "www.krabicak.cz ... vaše oblíbené víno nyní opět v prodeji !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.krabicak.cz ... vaše oblíbené víno nyní opět v prodeji !!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8637ce3ac1d057404934d14c79b6f8e21ccab8a7c5182c15038043d87896517e"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "3,14 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Uloz.to cloud a.s.",
