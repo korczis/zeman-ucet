@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "300,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BENES JAROMIR",
+    "zprava": "NE dalsimu HOMO dramaticus, hudebnikus ci vedatorus. Vas ucet krasneeviduje HOMO OMEZENICUS s alzheimerem s IQ 0,01. Preji pevne zdravi !",
+    "ks": "0008",
+    "vs": "2017",
+    "ss": "",
+    "poznamka": "BENES JAROMIR",
+    "mnozstvi": 300.0,
+    "mena": "CZK",
+    "id": "aa8db2c78284575930b331df65697c29a30f8e60b17cdd923c0e0b2029d55ed8"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "1 111,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BUJAREK PAVEL",
+    "zprava": "Anonymni spina a jejich novinari seprojevuji. Hodne sil Pane Prezidente!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "BUJAREK PAVEL",
+    "mnozstvi": 1.0,
+    "mena": "111,00",
+    "id": "03bce7f8e87114e6e8099da72e16125130deae7f30ea1a92243e6fc4ecb1ceb2"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hrouzková, Jana Eva",
