@@ -29,7 +29,12 @@ def main
     res
   end
 
-  puts JSON.pretty_generate(data)
+  json = JSON.pretty_generate(data)
+  puts json
+
+  File.open('data/data.json','w') do |f|
+    f.write(json)
+  end
 
   CSV.open('data/data.csv', 'wb') do |csv|
     csv << data.first.keys # adds the attributes name on the first line
