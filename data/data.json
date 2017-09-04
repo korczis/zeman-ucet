@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dvořák, Jakub",
+    "zprava": "sry, wrong chat",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "sry, wrong chat",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ceab38e3f25e66a1a40a887eb1592741a59f8309e4ccba7aec6c3c866a266fef"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dvořák, Jakub",
+    "zprava": "jj, pocitam s tim, v pul na dejvicky",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "jj, pocitam s tim, v pul na dejvicky",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d294fd3f384a9daa6c081c9975da5bbb3c7472e2dde0ea48aeb6a19f1951015e"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kroča, Michal",
