@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Business Enterprise One s.r.o.",
+    "zprava": "Jedním slovem - K U N D O ! ! !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jedním slovem - K U N D O ! ! !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ef0fe3473d29b338ad39f13998d118656e67481fb83f67b683f1f67e5da1b8cd"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sativa - Manufacture",
