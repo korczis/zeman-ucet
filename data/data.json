@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Svoboda, Petr",
+    "zprava": "EURocent strhne dvacku?EURocent strhne dvacku?EURocent strhne dvacku?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "EURocent strhne dvacku?EURocent strhne dvacku?EURocent strhne dvacku?",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "1915a2dea2780b1968ca6afb0560b2ff0fb7d3541308672708bd3038e8d859c2"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Strnad, Radek",
