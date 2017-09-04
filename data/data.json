@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kroča, Michal",
+    "zprava": "www.PartyFrame.cz - tohle by nemelo chybet na zadne party :)",
+    "ks": "",
+    "vs": "111",
+    "ss": "",
+    "poznamka": "www.PartyFrame.cz - tohle by nemelo chybet na zadne party :)",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "83fff47143228f578af7bbf93b130a9f3b12c7502e7577a41da6c8fc2469b6b5"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Svoboda, Radek",
