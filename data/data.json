@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šumperský rozvoj podnikání s.r.o",
+    "zprava": "Raději bychom Ti darovali hovno! www.DarujHovno.cz tým",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Raději bychom Ti darovali hovno! www.DarujHovno.cz tým",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "4ed98aed43f53ba499102176012ae1602c4ebe7719d15223665131fdb0fc6d5e"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Culka, Adam",
+    "zprava": "Takhle jsem se DLOUHO nezasmál :'D <3",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Takhle jsem se DLOUHO nezasmál :'D <3",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7ce795e5f5bea7c0148b4cdc70bcc7ff52124a6852a6bdbf4e5845ad7c1e0073"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Habr, Lukáš",
