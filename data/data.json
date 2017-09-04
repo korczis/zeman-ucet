@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vaňkát, Petr",
+    "zprava": "Úplně nechápu proč sem lidé posílají peníze na kampaň, kterou pan Zeman přece dělat nebude? Nejsou tak trochu vyhozené?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Úplně nechápu proč sem lidé posílají peníze na kampaň, kterou pan Zeman přece dělat nebude? Nejsou tak trochu vyhozené?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ca6c188710576a7ab2782e82f715c45f76f2f8ae3f9b90d76162dd33f7ee774b"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "\"Drahá, po tom víně jsi mimořádně zkrásněla!\" \"To není možné, vždyť jsem ho ještě ani neochutnala?\" \"Ale já jsme ho už vypil celý litr.\"",
+    "ks": "4444",
+    "vs": "3189803169",
+    "ss": "282543981",
+    "poznamka": "\"Drahá, po tom víně jsi mimořádně zkrásněla!\" \"To není možné, vždyť jsem ho ještě ani neochutnala?\" \"Ale já jsme ho už vypil celý litr.\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "69ba28630ca58b287688405590fc7e1f9654647dc2c8148e9d3d78827477522f"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bejšovec, Jan",
+    "zprava": "Končíš ovare. Otázka je jestli dřív dle zákonů přírodních a nebo světských :-D",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Končíš ovare. Otázka je jestli dřív dle zákonů přírodních a nebo světských :-D",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6081640066f1cade53ca7471c537100ca284bb663e24cb8b22f954a360720249"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vlach, Jiří",
