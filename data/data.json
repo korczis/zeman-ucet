@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "6,66 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Miroslav Franc",
+    "zprava": "Na kusovku, az bude nejhur...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miroslav Franc",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "dab28086c5c938784d4c3f85ffaed833529ce77d534e6c96876cd3239945f733"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Raška, Roman",
