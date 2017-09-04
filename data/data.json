@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šeliga, Vlastimil",
+    "zprava": "Nekdo na pivo v Brne?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nekdo na pivo v Brne?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ad2aafb55e608f187c909b491d7b118c310f8a457f1447a5fde5873ee6f8591f"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kroča, Michal",
