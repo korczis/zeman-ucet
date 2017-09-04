@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vlach, Jiří",
+    "zprava": "Jen jsem vám chtěl říct, aby jste se mnou a mojí rodinou nepočítali.. Zdravím z Vysočiny.",
+    "ks": "0005",
+    "vs": "9876543210",
+    "ss": "5",
+    "poznamka": "Jen jsem vám chtěl říct, aby jste se mnou a mojí rodinou nepočítali.. Zdravím z Vysočiny.",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "7b18b963e02dac661b71ea07752af05329181132c2827be4e7148ede7be56579"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "... Než stihli policajti začít něco dělat, zazvonil telefon znovu: \"Ech, kašlete na to, omylem jsem vlezl na zadní sedadlo.\"",
+    "ks": "1847",
+    "vs": "362973",
+    "ss": "1111111111",
+    "poznamka": "... Než stihli policajti začít něco dělat, zazvonil telefon znovu: \"Ech, kašlete na to, omylem jsem vlezl na zadní sedadlo.\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a55e50d73ec563c6cfa303c5551c551c3ae81cfd81308755920a87883bcdaf05"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Režný, Jan",
+    "zprava": "Tak Unicode emoji nefungujou :(",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tak Unicode emoji nefungujou :(",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7a23b478f3fdf5ba4db61a810639789688fca9cd7e27f54188977b5231682a8d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Režný, Jan",
