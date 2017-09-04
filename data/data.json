@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Martina Zahradníčkov",
+    "zprava": "Už běžte jinam, chci s dětma na Hrad a teď nemůžeme, by se lekly.",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Martina Zahradníčkov",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "925dbcb72ef186df5610b5f61d72ae6a51310f12c636e6f8d3b9dd72f90d5c22"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Ondřej Talíř",
+    "zprava": "Sympatický mladý muž hledá pěstební dělníci, nejlépe voličku SPO. Ozvi se !",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ondřej Talíř",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "16128c606f0746b21f2bd9c0c22fb2a27f777cce6108b24ca85244667310808c"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,38 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Ing. Pavel Adamec",
