@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Stabilmont s.r.o.",
+    "zprava": "www.linykuchar.cz  ((  DESTILAČNÍ PŘÍSTROJE, KRBOVÁ KAMNA ZE SIBIŘE ))",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.linykuchar.cz  ((  DESTILAČNÍ PŘÍSTROJE, KRBOVÁ KAMNA ZE SIBIŘE ))",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c2ec126e4db16598a4be94dcfd35f1cb55c28bbd4592bafd32939252210c2c03"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "200,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hynek, Petr",
