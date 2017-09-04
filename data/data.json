@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "3,14 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Uloz.to cloud a.s.",
+    "zprava": "Stahujte z uloz.to, je to fakt rychly!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Stahujte z uloz.to, je to fakt rychly!",
+    "mnozstvi": 3.14,
+    "mena": "CZK",
+    "id": "a553c4e83612f1a4385a18a13ddca8cdf74a80bbbfa89ecb17ed090109506f9d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Centizio s.r.o.",
