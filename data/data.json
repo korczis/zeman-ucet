@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "25,45 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kováčik, Karol",
+    "zprava": "Táhni už do prdele !!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Táhni už do prdele !!!!",
+    "mnozstvi": 25.45,
+    "mena": "CZK",
+    "id": "42254a6673583a7dd4bf2a3d917f695fac95d11ebd0c69f8d4834d3da9fff358"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "2,68 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ledvinka, Tomáš",
