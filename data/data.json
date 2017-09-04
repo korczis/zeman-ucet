@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VACEK JAKUB",
+    "zprava": "Preji mnoho dobreho.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "VACEK JAKUB",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "bb6cf809a7c8143caf674899d63ba572bff1bcd4bd88ed5ef9bf9a238b575dce"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BYSTRY RADEK",
+    "zprava": "Bran Stark je Night King",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "BYSTRY RADEK",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "7f94eb44d2819073a65b2f309ab5c3344baf8820edc6a964efaaa26284ebada6"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dočkal, Vítězslav",
