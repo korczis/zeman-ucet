@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šabouk, Jan",
+    "zprava": "bacha na virózu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "bacha na virózu",
+    "mnozstvi": 1.25,
+    "mena": "CZK",
+    "id": "1d28a4b6de2a57097e97550071ad28c75446fca2787916a285be186e2d441fde"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šleger, Vladimír",
+    "zprava": "prezident Miloš Zeman je lhář",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "prezident Miloš Zeman je lhář",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "2f54dab58a1e18ddb759b2b8f46db4ba306848d879b59cb1da7616dbf6186305"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Košíček, Petr",
+    "zprava": "Tak podle titulku z Idnes tu zuří bitva mezi Miloušovo kritiky a příznivci. Tak to musím přidat jeden Bum-prásk, ať jim praskaj žilky :-)",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "Tak podle titulku z Idnes tu zuří bitva mezi Miloušovo kritiky a příznivci. Tak to musím přidat jeden Bum-prásk, ať jim praskaj žilky :-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "283c623e0a0df78c74ae4708540183f4f9b8f250e81793a3be8ed8e65e13746b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Truska, Ladislav",
