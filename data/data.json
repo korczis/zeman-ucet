@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Marková, Stanislava",
+    "zprava": "Snad nám ty halířky přinesou štěstí a ten dementní stařec zmizí z Hradu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Snad nám ty halířky přinesou štěstí a ten dementní stařec zmizí z Hradu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6930d5d5e792682d04fd6e1b8e66e4470948913224535062117f696b2f3e85dd"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "6,66 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Miroslav Franc",
