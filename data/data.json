@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Theimer, Libor",
+    "zprava": "zrcadlo, zrcadlo kdo je nejlepsi prezident na svete. no prece ty milosku. nelzes, plnis sliby, nemluvis sproste ...ze se vubec ptas",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "zrcadlo, zrcadlo kdo je nejlepsi prezident na svete. no prece ty milosku. nelzes, plnis sliby, nemluvis sproste ...ze se vubec ptas",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "59843d086fb0224ebb8f0963fa45534e738b39ca44486eeb677a278be9e3170c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
