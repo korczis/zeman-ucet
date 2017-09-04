@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "6,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Grbač, Vladimír",
+    "zprava": "Pošlu další 100 Kč, pokud toto individuum již nebude kandidovat. Zakažme tomuto OPILCI vstup ke korunovačním klenotům!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pošlu další 100 Kč, pokud toto individuum již nebude kandidovat. Zakažme tomuto OPILCI vstup ke korunovačním klenotům!",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "a1ed200d62adadfb538455c821537a59685efcd92403d89c9efba404e1615e3b"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "7,62 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Korecký, Jan",
