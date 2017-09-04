@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "-20,00 CZK",
+    "typ": "Poplatek",
+    "protiucet": "",
+    "zprava": "Na kampan snad byvaleho prezidenta.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na kampan snad byvaleho prezidenta.",
+    "mnozstvi": -20.0,
+    "mena": "CZK",
+    "id": "98867d04a1cff23d1fa28cd78b4c6bd8c7f6c049bc7453a31c08153ea20369ba"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "J VILIMEK CJ",
+    "zprava": "Na kampan snad byvaleho prezidenta.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "J VILIMEK CJ",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "089e7bd7abd6d8650398fab74f8775e5edf97fe57588cec8b0a3920607b16c6c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Potměšil, Lukáš",
