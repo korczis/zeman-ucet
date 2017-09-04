@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šleger, Vladimír",
+    "zprava": "žádné urážky, jen konstatuji fakta: jste lhář a to by prezident republiky být neměl",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "žádné urážky, jen konstatuji fakta: jste lhář a to by prezident republiky být neměl",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "81532ee677de239d7fae7fb503ab4da369df61ad2ce742dd4f7a814eae39b55d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Řezáč, Karel",
