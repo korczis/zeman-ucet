@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bureš, Roman",
+    "zprava": "jestli to bude v televizi, tak zdravim svoji rodinu a svoji holku Kačku, ahoj!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "jestli to bude v televizi, tak zdravim svoji rodinu a svoji holku Kačku, ahoj!",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "3f740288922b7fb2914ebf45ee888b269d2bc1a6534d3a5d2d8f9653e1189723"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Strnad, Radek",
