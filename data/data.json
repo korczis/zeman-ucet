@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "FS-K s.r.o.",
+    "zprava": "Hledám tlumočníka na veletrh do Paříže od 6. do 10.11. Technické znalosti o izolačních sklech podmínkou. Pište na michal@energyin.cz",
+    "ks": "",
+    "vs": "9",
+    "ss": "",
+    "poznamka": "Hledám tlumočníka na veletrh do Paříže od 6. do 10.11. Technické znalosti o izolačních sklech podmínkou. Pište na michal@energyin.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9c3d6580891bbcfcd94df2e185278975a536b3fa844e1a2ed38b77ebda03b41d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kasa, Martin",
