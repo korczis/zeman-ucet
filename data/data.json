@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sviták, František",
+    "zprava": "Prodám číslo společenské revue Přítomnost s článkem Ferdinanda Peroutky (cena 50 mil. Kč)",
+    "ks": "0308",
+    "vs": "19470625",
+    "ss": "",
+    "poznamka": "Prodám číslo společenské revue Přítomnost s článkem Ferdinanda Peroutky (cena 50 mil. Kč)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "77231a7fc3e1ae791ef8fc5f76576ef6e81a6d2f9dac7b5571537f0dc75c4738"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,23 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bc. Wenzel, Richard",
