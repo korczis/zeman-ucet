@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "200,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sychra, Jiří",
+    "zprava": "Hodně zdraví pane prezidente",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hodně zdraví pane prezidente",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "9ac6bda6d387218b033d7161a7f6d6c60def192fad6e0a03f480991746b11d40"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "Nevíte, kdy to jede do Pelhřimova?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nevíte, kdy to jede do Pelhřimova?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "56b008dff33478f5fc35add4cc979de07654b59bf9ccbd2f4253dfba7669fc2f"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Svoboda, Petr",
