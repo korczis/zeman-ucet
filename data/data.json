@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Toman, Matěj",
+    "zprava": "PRODÁM TELEVIZI https://elektro.bazos.cz/inzerat/78950867/SONY-BRAVIA-KDL-43W808C-108-cm.php",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "PRODÁM TELEVIZI https://elektro.bazos.cz/inzerat/78950867/SONY-BRAVIA-KDL-43W808C-108-cm.php",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "57ce50d3e560a9246175a5bd88e9ee64c29068280f8deb800556bf2464f9b77c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "25,45 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kováčik, Karol",
