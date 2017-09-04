@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "3 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kajínek Milan",
+    "zprava": "Fandím,Milča Chotěboř",
+    "ks": "",
+    "vs": "490416",
+    "ss": "",
+    "poznamka": "Kajínek Milan",
+    "mnozstvi": 3.0,
+    "mena": "000,00",
+    "id": "88622ed49fde4edff0295b8b4e28da34b18336b1c721184f0f713d3f144828fd"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pukl Luděk",
