@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tywoniak, Emil Jiří",
+    "zprava": "er in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of wh",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "er in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of wh",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "af2b77e6221820373155877557417f0473246027d103e548a97eabfb81220c17"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "3 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Klaban, Josef",
