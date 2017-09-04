@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STUPKA JAN",
+    "zprava": "Necum",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "STUPKA JAN",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "63a6617dda4522a4c7bd200d19ef4c95c7b4191f3507cb16fbf2c2c1b9a639da"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HLOUSEK TOMAS",
+    "zprava": "Nedekujeme, odejdete.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HLOUSEK TOMAS",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c1c6a4d8c6e94b9eb413b02a1394e10d6e98641f286dea78c33ce1830689a177"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HALA JAN",
+    "zprava": "prispevek na hledani clanku panaPeroutky a cestu nekam jinam nezna nasi krasnou Vysocinu",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HALA JAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "67bcb3ff2d1d7062ca0fba9211e54697e225f4fd5d9847280ca1a25881984f09"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,03 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KONOPASEK ONDREJ",
