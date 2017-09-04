@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,02 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "JUDR. ROBERT HOŠŤÁLE",
+    "zprava": "NA LÉCBU PROTI KOLABORACI S PUTINEM",
+    "ks": "1968",
+    "vs": "2018",
+    "ss": "1948",
+    "poznamka": "JUDR. ROBERT HOŠŤÁLE",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "f31def98b9f6a791e97b7aa52e9ba8b6fc1bc966ad0e2b04af1df6d34c3da8b1"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "JAN HRADIL",
