@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bui, Khac Nhat",
+    "zprava": "Zdravím všechny fanoušky Naruto CZ/SK - https://www.facebook.com/TheNarutoCZSK/",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zdravím všechny fanoušky Naruto CZ/SK - https://www.facebook.com/TheNarutoCZSK/",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ce865b1e81f03f9ec592893330b3b8c2c2ec1cd98d3afacab04b340fa6863a0b"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Buršík, Ondřej",
+    "zprava": "Je mi Vás líto, neděkuji, odejděte, nestojíme o Vás.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Je mi Vás líto, neděkuji, odejděte, nestojíme o Vás.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4bc1bf2a762dff25a4e4f38c77a7ad487943322580d5b16071100b7b0fd981ea"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Truska, Ladislav",
+    "zprava": "televizi jsi ještě neprodal, protože v kavárně máme dvě...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "televizi jsi ještě neprodal, protože v kavárně máme dvě...",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "030dc1108d05036b6ef124c948b1ca5ee68782de6f463629fb938fd7776b8388"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kolařík, Stanislav",
