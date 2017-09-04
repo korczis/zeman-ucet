@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Lazárek, Miroslav",
+    "zprava": "",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "4d8fa6abd28ed2125130838b0db458785022b26610e661b6820d1616738a19b0"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Osuský, Michal",
+    "zprava": "Za lhani, za smerovani CR do rukou Moskvy, za mezinarodni ostudu a sireni nenavisti.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Za lhani, za smerovani CR do rukou Moskvy, za mezinarodni ostudu a sireni nenavisti.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f56a15c3e4212ff3672e07b9c9b8216c08386be19608d3d91a66a714aa14a5e1"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bureš, Roman",
