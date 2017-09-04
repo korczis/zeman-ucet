@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Homola, Přemysl",
+    "zprava": "Zbytek peněz si najdi vlevo dole ;)",
+    "ks": "",
+    "vs": "1968",
+    "ss": "",
+    "poznamka": "Zbytek peněz si najdi vlevo dole ;)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c1a5bbff6d0130fa52bde10ed8eefb37a32c4f1decb8dd9a017d6a000b1dc697"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOMAREK JAKUB",
     "zprava": "Na letenku do Moskvy i s celoubandou",
