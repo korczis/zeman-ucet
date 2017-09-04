@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Majer, Jiří",
+    "zprava": "8======> ----",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "8======> ----",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4b69ae5983b43b9b0edd6739b7fe2bb14880ede34feaa99adb74bd813534cbb0"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šumperský rozvoj podnikání s.r.o",
