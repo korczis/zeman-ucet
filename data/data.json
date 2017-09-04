@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "7,62 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Korecký, Jan",
+    "zprava": "Nejlepší kurzy na přípravu na zbrojní průkaz - www.kops.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nejlepší kurzy na přípravu na zbrojní průkaz - www.kops.cz",
+    "mnozstvi": 7.62,
+    "mena": "CZK",
+    "id": "b3232fb65cab49d280dd73af092b3d65b1caaa7426f6ef22522a8671a159ad84"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,30 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Přidal, Marek",
+    "zprava": "30 stříbrných jako pro Jidáše",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "30 stříbrných jako pro Jidáše",
+    "mnozstvi": 0.3,
+    "mena": "CZK",
+    "id": "e7f13f94c223cbd07bbcb4e8467be579c7f8d97d9843bc2fbb4d5e10a78465ca"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cmíral, Ladislav",
+    "zprava": "Výše mého příspěvku je přímo úměrná kvalitě Vašeho prezidentství! Hybaj zpátky do nory!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Výše mého příspěvku je přímo úměrná kvalitě Vašeho prezidentství! Hybaj zpátky do nory!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "47d0282830ef3ff4ddf07f67b1d68ebb8ca2987b9f8ec682a2333eabbd42b19f"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Provazník, Martin",
