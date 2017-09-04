@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "21,39 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Pěcháček, Václav",
+    "zprava": "S Refundo.cz ušetřete vždy, když nakupujete online :) www.refundo.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "S Refundo.cz ušetřete vždy, když nakupujete online :) www.refundo.cz",
+    "mnozstvi": 21.39,
+    "mena": "CZK",
+    "id": "3e88ebb47d00aec7157cbf9e3d5995881db1f8b40f107b13ae482309c90cc054"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "6,66 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Grbač, Vladimír",
