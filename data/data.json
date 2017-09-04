@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,12 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Pavlíček Martin",
+    "zprava": "Nejlepší nekorektní humor na FB Make Sudetenland Great Again!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pavlíček Martin",
+    "mnozstvi": 0.12,
+    "mena": "CZK",
+    "id": "c95c7b90a3bb22977cf6fa748e33bb904c8362d2f2ac6335b2822500270781fc"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "3,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Bártek Adam",
+    "zprava": "Pán Babiš, držím Vám pěsti s celoumou liščí farmou!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bártek Adam",
+    "mnozstvi": 3.0,
+    "mena": "CZK",
+    "id": "42c475a64f7ab042c358c21ee8eb12080eacdd83569b0e3c76dfbb66d44e6b6b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
