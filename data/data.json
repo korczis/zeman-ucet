@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Austole s.r.o.",
+    "zprava": "dar",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "dar",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "c29ff90ae2f4cad95b59a95e7d79e8f1ecbde28a941c3cf7dacd99675fec6848"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Váradi, Petr",
