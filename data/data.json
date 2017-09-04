@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Truska, Ladislav",
+    "zprava": "zkouška, jedna, dva tři... zkouška.., je mě slyšet...?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "zkouška, jedna, dva tři... zkouška.., je mě slyšet...?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8955e5a187080fc5506b4a904f7ec19d9465bb0e8b3b89195985c94f4264566c"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kowalczyk, Adam",
+    "zprava": "Prodám turfy Nike Mercurial Victory V CR7 TF (astro turf) cena 500, původní cena 2500, málo hrané velikost 42,5, pište sem",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám turfy Nike Mercurial Victory V CR7 TF (astro turf) cena 500, původní cena 2500, málo hrané velikost 42,5, pište sem",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3e1cef7f4d71ef2dbe2a81802f88586331989fcf504208504e24a29665dde147"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Austole s.r.o.",
