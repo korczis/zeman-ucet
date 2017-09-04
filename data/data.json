@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Blažek, David",
+    "zprava": "Prodam kocarek po 3 detech, skoro nejety, velki kolecka, z byli kozenky, uveze i dve decka.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodam kocarek po 3 detech, skoro nejety, velki kolecka, z byli kozenky, uveze i dve decka.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6097ae972b89ca574725c3620fc1154f7143182245ca943b621d7472498a862f"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Centizio s.r.o.",
+    "zprava": "Mouchy letí, sednou na hovno. Jedna si zničehonic prdne, druhá se zamračí, říká: \"fuj, ty jsi prase ... zrovna u oběda\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Mouchy letí, sednou na hovno. Jedna si zničehonic prdne, druhá se zamračí, říká: \"fuj, ty jsi prase ... zrovna u oběda\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9d89f45e36b5c5c28626f5c3577ab18d01c88fde57e739795975b4331f79f9ba"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Jaký je rozdíl mezi kolem a hovnem? Žádný: Šlápneš a jedeš!",
+    "ks": "",
+    "vs": "6251636582",
+    "ss": "5012047192",
+    "poznamka": "Jaký je rozdíl mezi kolem a hovnem? Žádný: Šlápneš a jedeš!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f7d3cd4e1a5a441043ddfc069d934712e73f290b11f9f023d0efbccf028d1150"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bednář, Martin",
