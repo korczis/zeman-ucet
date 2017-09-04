@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bella, Vojtěch",
+    "zprava": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "34c0c980c20b8968c7309e2c3742b40329e099f83361522030bb8a30f195b7df"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bella, Vojtěch",
+    "zprava": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.PremiumCarRental.cz - Nejlevnější autopůjčovna v ČR! Bez příplatků za kilometry!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "34c0c980c20b8968c7309e2c3742b40329e099f83361522030bb8a30f195b7df"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "200,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kozlíková, Lucie",
