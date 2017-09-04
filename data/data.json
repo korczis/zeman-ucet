@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Novotný, Pavel",
+    "zprava": "Dobrý den, chtěl bych se zeptat, je tohle účet pana Schwanzenberga?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dobrý den, chtěl bych se zeptat, je tohle účet pana Schwanzenberga?",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "e2aa55af351ea1745c5c419769fe514d95fccdfa8fc6944a2ef16b47c36874e8"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,03 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kejzlar, Martin",
