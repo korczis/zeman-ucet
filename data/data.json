@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "300,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Gec, Ivo",
+    "zprava": "Pane prezidente, vrchni veliteli. Narodni domobrana stoji za Vami a ochrani Vas i republiku pred kazdym nepritelem i pred 5.kolonou.",
+    "ks": "",
+    "vs": "9",
+    "ss": "0558",
+    "poznamka": "Pane prezidente, vrchni veliteli. Narodni domobrana stoji za Vami a ochrani Vas i republiku pred kazdym nepritelem i pred 5.kolonou.",
+    "mnozstvi": 300.0,
+    "mena": "CZK",
+    "id": "dc63f48e1544430046ed9ec7ec2ceb69f0769bd8215737f395753151e195d9a7"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Verner Josef",
