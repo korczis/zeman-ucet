@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Zdeněk Martin",
+    "zprava": "od tesařu z Krumlova, Karel, Martin, Laďa, Petr a Pepa. I rakve umime.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zdeněk Martin",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "0341933d7e151e24dbd9a89817e01eb0d48dcd1bd3fbbad86742ce06fe45bcbd"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "19,68 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Hajduch Zdeněk",
+    "zprava": "To neposílám Zemanovi, ten už má vypito dost, ale rovnou kozákovi Nejedlýmu. Vodku ať si doplatí z darů Kremlu..",
+    "ks": "",
+    "vs": "123456",
+    "ss": "",
+    "poznamka": "Hajduch Zdeněk",
+    "mnozstvi": 19.68,
+    "mena": "CZK",
+    "id": "28dc14ff30eb30fc10db9c9c0b25235d260b5d7f0c332a2a0f9fdeea4b1c9b12"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "DESEYVE KATEŘINA",
