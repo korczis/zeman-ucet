@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Komrsková, Anna",
+    "zprava": "Miloš nám pr*el,nejste náš prezident",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloš nám pr*el,nejste náš prezident",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8c8c02127a8047f95a97a8921c2dd90b57804d088213ed360222de52f81013df"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Cimbala, Radim",
