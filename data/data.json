@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KAVKA VACLAV",
+    "zprava": "Drobne na cestu",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KAVKA VACLAV",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "04ea6cfee3846c79c24d6c6338c52e33117cceb217e222fbb9378d18012be670"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KAHOUN MICHAEL",
+    "zprava": "Pred odchodem vyvetrejte.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KAHOUN MICHAEL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1db715652968877ac692b96cd9b8b123a85bb7ee464e190c8743f9e0e12e59ca"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "4,50 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vojíř, Jan",
