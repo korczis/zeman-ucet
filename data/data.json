@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "granulky pro malé ovčácké pejsky:  http://www.granulky-domu.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "granulky pro malé ovčácké pejsky:  http://www.granulky-domu.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ab10a4876fe4ebd9d237137bd61a3b97f3d909a00f31181e41290a60f89aedae"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Beneš, Ladislav",
