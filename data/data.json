@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Vladík, Tomáš",
+    "zprava": "http://www.zemancountdown.cz/",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.zemancountdown.cz/",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f1a7796b8fb3f0fef0f968fd1343a0e62b7e5ae68096b138c430081ece7de09c"
+  },
+  {
     "datum": "2017-09-04",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
