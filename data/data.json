@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kříž, Martin",
+    "zprava": "Pro kámoše Babiše,který má pořád málo",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro kámoše Babiše,který má pořád málo",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3d5c04ff5e114aff7ab8304e484e38d6c601f6395b588136d77ad39221cafb6d"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "300,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "JUDr. Trpkošová, Zdeňka",
