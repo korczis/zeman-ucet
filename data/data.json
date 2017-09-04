@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Příspěvek na jednocestnou letenku na Měsíc - ještě i pro Babiše, ten má jako jeden z mála přednost - proto 2 haléře",
+    "ks": "",
+    "vs": "5151151515",
+    "ss": "2438200539",
+    "poznamka": "Příspěvek na jednocestnou letenku na Měsíc - ještě i pro Babiše, ten má jako jeden z mála přednost - proto 2 haléře",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "6e50c8781d612e992b1055a718b766851d5bf1436ecbebbe63576f86f2824c8e"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
