@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "200,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hynek, Petr",
+    "zprava": "Pane prezidente děkujeme za vaši skvělou reprezentaci. Předem GRATULUJI k dalšímu vítězství !!!",
+    "ks": "",
+    "vs": "123456",
+    "ss": "",
+    "poznamka": "Pane prezidente děkujeme za vaši skvělou reprezentaci. Předem GRATULUJI k dalšímu vítězství !!!",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "6ff99919f6ad900c8d2699a78892094f82e43454bc268f7acbe680e3bbdc958c"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "100,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Krúpa, Milan",
