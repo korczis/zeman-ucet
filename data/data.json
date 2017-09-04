@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šabouk, Jan",
+    "zprava": "Aj aj jaj",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Aj aj jaj",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "87049f565c8dd5bcf4dbd1d5c3972be4416827f8172adcc11db13af02e9a43d4"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Váradi, Petr",
