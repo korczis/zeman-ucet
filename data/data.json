@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MGR. MARTIN BAUER",
+    "zprava": "Dost bolo Milouše. Slyším zvonění.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MGR. MARTIN BAUER",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "21d17f1c87fd801743334a8b437b94e47adab4af2b44e6693f19984ad2ec2417"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MICHAL HORÁCEK",
+    "zprava": "Příspěvek na taxík domů...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MICHAL HORÁCEK",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "a42b4c80d8d0a86a82261672d76df41e2434012c25dd96b130aa2afe861a1c4c"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jan Lepša",
+    "zprava": "Stydim se za prezidenta!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jan Lepša",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1878dee2d3fc9a3a311bfe8f653a7e86e25149a33de2737fe78e6ad35e94ec2a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,02 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "JUDR. ROBERT HOŠŤÁLE",
