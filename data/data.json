@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "3,68 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vojíř, Jan",
+    "zprava": "Na zdravi!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na zdravi!",
+    "mnozstvi": 3.68,
+    "mena": "CZK",
+    "id": "404c1b41d7a8769d15d2ee9ebfacf1806f9655711c5f7a78c0af2bc787b1c5e8"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Cibulka, Lukáš",
