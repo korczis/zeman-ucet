@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-04",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Szlachta, Jan",
+    "zprava": "www.twitch.tv/existercz Follow dík kundy!",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "www.twitch.tv/existercz Follow dík kundy!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d5228bcae5900a9a312f5ab8a3ea5deb9d0c8b84cd2f548e44a220e73f6c236d"
+  },
+  {
+    "datum": "2017-09-04",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VALACH PETR",
     "zprava": "Nechte volby volbama a sledujtewww.ExoSpace.cz, jedinecnou strankuvenovanou astronomii, kosmonauticea svobodnemu softwaru.Vas BubbleBum",
