@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pechal, Jan",
+    "zprava": "Bekeh jsi můj kečup <3 a Terezo tobě prdí smrdel xdddddddd",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bekeh jsi můj kečup <3 a Terezo tobě prdí smrdel xdddddddd",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "a45a95ab672a8984219f0065b38213cd5f1fbe905f1bf5471cb106d5c0026cca"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "12,34 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čerňanský, Petr",
