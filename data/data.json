@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Nikdy bych netušil, že je někdo ochotný kvůli PR, pošlapat práci justice a pustit na svobodu vraha.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nikdy bych netušil, že je někdo ochotný kvůli PR, pošlapat práci justice a pustit na svobodu vraha.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "20b52a6880069e09b2767aeb8bae3c48c1de98968f22f7248c74ddf3eb3b9969"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "5,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Špička, Jaroslav",
