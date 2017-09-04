@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Leveled s.r.o.",
+    "zprava": "Haléře v ČR nechceme! www.ZnamPenize.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Haléře v ČR nechceme! www.ZnamPenize.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "dd1c05a0d0d1473f3f68f71ac128687fd42b2100328dafd7df7733bad2c53eea"
+  },
+  {
+    "datum": "2017-09-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Johnová Ivana",
