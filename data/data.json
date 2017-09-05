@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,42 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tománek, Martin",
+    "zprava": "Výsosti, nejde přidat možnost.",
+    "ks": "",
+    "vs": "42",
+    "ss": "",
+    "poznamka": "Výsosti, nejde přidat možnost.",
+    "mnozstvi": 0.42,
+    "mena": "CZK",
+    "id": "ba882123be4e70450e4d2dffb2a454c5d02e5abef4fcf19b3bb6321d648b729e"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Horák, Martin",
