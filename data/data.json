@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,25 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čerňanský, Petr",
+    "zprava": "",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "4ace52921323453a81132fbbf248202f9cc31f7052ef5d69105f0ada4613dc59"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Neupauer, Libor",
