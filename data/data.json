@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LAPACEK LADISLAV, MV",
+    "zprava": "Kdo chcete poslat -20Kc, zadejteze sveho uctu platbu 0,01 euro, zaplatbu banka uctuje poplatek 20kc",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "LAPACEK LADISLAV, MV",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1168cb49f9f6ed20c2b1aadfe76c088d6d833e2505b1c14e22163b081d83e77b"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LAPACEK LADISLAV, MV",
+    "zprava": "Uzasnej chat...takze: Milosovi na trenkyBuresovi na teplakyOffCackovi na sveraci kazajku",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "LAPACEK LADISLAV, MV",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6f3026976cf975d0d9f1e5fd6697a18455e5fc3c1732d444a37239d43d1ce40a"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "NACHLINGER EMIL",
+    "zprava": "Sori, za zbytek do 1.000 Kc objednavam samolepku na auto s hrdym textem Prispel jsem! (rusky a cinsky preklad Banking nepovolil! HANBA MU!!)",
+    "ks": "0198",
+    "vs": "470725",
+    "ss": "",
+    "poznamka": "NACHLINGER EMIL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6f2492715e35564ae8fec3d82e2de26ba7d71e0e546bab5f2069661b08d9b7bc"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Aleš Ondřej",
