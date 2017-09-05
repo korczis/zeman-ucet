@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Půhoný, Jan",
+    "zprava": "WWW.PUHY.CZ - eshop s elektronikou - Slevový kód na 5%: MILOS",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "WWW.PUHY.CZ - eshop s elektronikou - Slevový kód na 5%: MILOS",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "97961f294c92590b9dbab85d5bdf47f1ce4502fad99466183c3a1c81e889c0cc"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Novotný, Luboš",
