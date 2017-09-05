@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Bernard Jan",
+    "zprava": "Kdyby ses na tu kandidaturu vysral,zaplatil bych ti klidně....tvl nenapadá mě nic, co bych ti zaplatil,ale vysrat se na to můžeš i tak :)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bernard Jan",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "1058f6401359444aea9ab9edd73ae485fcc688c75ec0bf6b388d4780a1f6bfc7"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kuklová Ludmila",
+    "zprava": "Hodně štěstí, jste jediná naděje",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kuklová Ludmila",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "1a341f5108c9622fb18f3522f33133610b352a5b245aca1312800566dfe1d2e4"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Bláha Miroslav",
+    "zprava": "Něco pro Jiřího",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bláha Miroslav",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "695850fe25ab8cc1e1e98dffcc5a0e961a995b8af9d49a0c8adb0a362eae81a1"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tichá, Michaela",
