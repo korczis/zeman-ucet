@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "Nezapomeňte uvádět jakýkoliv variabilní, specifický a konstantní symbol, aby mohla hradní účetní správně zaevidovat platbu.",
+    "ks": "4147",
+    "vs": "2452466321",
+    "ss": "7854545211",
+    "poznamka": "Nezapomeňte uvádět jakýkoliv variabilní, specifický a konstantní symbol, aby mohla hradní účetní správně zaevidovat platbu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "27d40e769c767288a1d3870a5d82269c3953a7e603eb6f1c92c5204c35d7592b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "35,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Krupka, Tomáš",
