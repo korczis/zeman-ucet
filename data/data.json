@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "-20,00 CZK",
+    "typ": "Poplatek",
+    "protiucet": "",
+    "zprava": "/ROC/NOT PROVIDED//NA CESTU DO PROP //ADLISTE DEJIN.PRO POPLATEK JE POT //REBA POSLAT EUR:)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "/ROC/NOT PROVIDED//NA CESTU DO PROP //ADLISTE DEJIN.PRO POPLATEK JE POT //REBA POSLAT EUR:)",
+    "mnozstvi": -20.0,
+    "mena": "CZK",
+    "id": "20bb8dac0b89f3acc74f9ed3c8160a2af2bf5286bbd408633bd5f5bc2bde0608"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TOMAS BLAZEK",
+    "zprava": "/ROC/NOT PROVIDED//NA CESTU DO PROP //ADLISTE DEJIN.PRO POPLATEK JE POT //REBA POSLAT EUR:)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "TOMAS BLAZEK",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "00e9aa50b136014b02561a3e0e80ce7d64c09322de8c5a71365042763fcb9a7a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
