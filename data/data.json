@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šleger, Vladimír",
+    "zprava": "sprostá slova jsou zbytečná, nejsem jako vy, pane Zemane, jen nechci za prezidenta člověka tak nezdravě sebevědomého",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "sprostá slova jsou zbytečná, nejsem jako vy, pane Zemane, jen nechci za prezidenta člověka tak nezdravě sebevědomého",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "9c3f4f5d62da53ee8e8a973b237ba2dc8fbc5844bf0787a9349431139a4c070c"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "LEDme s.r.o.",
