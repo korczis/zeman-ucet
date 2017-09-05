@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Marušák, Jaroslav",
+    "zprava": "Národ hulvátů si žel zaslouží hulváta i za prezidenta. Váš volič nejsem, ale přeji dobrý boj ve druhém kole",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Národ hulvátů si žel zaslouží hulváta i za prezidenta. Váš volič nejsem, ale přeji dobrý boj ve druhém kole",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "6db843e4d7cd8348b835249550236b0fdefffef194094d6b624033b4fb4ea194"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Zemánková, Tereza",
