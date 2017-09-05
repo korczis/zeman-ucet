@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KRESTÝN JAROSLAV",
+    "zprava": "PŘEJI ÚSPĚCH",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KRESTÝN JAROSLAV",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "462fc919c57ec933220307d3b7f691c97612f8ecad49fed65fff141b6cb25abf"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Malec Jaroslav,Ing.",
