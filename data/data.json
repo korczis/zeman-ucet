@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Petr Fiala",
+    "zprava": "Korunka pro stesti, aby Tivydrzelo zdravicko Milosi.Vitezstvi je Tvoje/Nase :Petr Fiala, Praha",
+    "ks": "",
+    "vs": "7777777",
+    "ss": "",
+    "poznamka": "Petr Fiala",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "0b342e01860025622994889ff8ca52c4ff67b8b3eb4f861674287eb0c62de407"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Petr Štráfelda",
+    "zprava": "Na vodku.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Petr Štráfelda",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "88c58d83acea935619c9c2e1e6373088b03578e2c0b6d333285270373289a3c1"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "20,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jiří Sekera",
+    "zprava": "Pro Miloše",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jiří Sekera",
+    "mnozstvi": 20.0,
+    "mena": "CZK",
+    "id": "0f7388caef944680b68b52a00d86cb89d87da9002b05fd72f68d344155de7a7a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "JANŮ TOMÁŠ",
