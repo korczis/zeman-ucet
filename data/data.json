@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vrážel, Radek",
+    "zprava": "Propadni panice!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Propadni panice!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "cb9f9cb1c7bd59afa73736a363a944921de0251788ce822ec282b2898525be0a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "-20,00 CZK",
     "typ": "Poplatek",
     "protiucet": "",
