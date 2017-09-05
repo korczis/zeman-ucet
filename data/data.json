@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mošnička, Petr",
+    "zprava": "Tak život chode..",
+    "ks": "5626",
+    "vs": "56632",
+    "ss": "",
+    "poznamka": "Tak život chode..",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d1c41ff68181775273b9f5056a732f3977fa5d5e19f5e47ace12bc7777457e57"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Adámek, Miloš",
