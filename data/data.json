@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dvořák, Jaroslav",
+    "zprava": "ZAHRÁDKÁŘI KERSKU",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ZAHRÁDKÁŘI KERSKU",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e6e4713d0d3826f4ab6097ad3665cdd271b41a9be9d8982a1693e76be4061c5f"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,20 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Olšan Tomáš",
