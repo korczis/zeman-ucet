@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "23,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Ulman Marek",
+    "zprava": "MARBISLIFE",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ulman Marek",
+    "mnozstvi": 23.0,
+    "mena": "CZK",
+    "id": "c8d42d780c1eefcf04eab603ce8ec1d6a02b1f674a557927df93004b63ba29cf"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TUCKOVA MARIE",
+    "zprava": "www.apartmentmarie.cz",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "TUCKOVA MARIE",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "a168414983147a3b1b8f688d991a4329a6352653120d0a49c2203ec789b75abc"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,02 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "RADEK HOLDING BV",
