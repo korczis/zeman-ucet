@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cechel, Radovan",
+    "zprava": "Vsechno nejlepsi Petre!!!",
+    "ks": "",
+    "vs": "2010",
+    "ss": "",
+    "poznamka": "Vsechno nejlepsi Petre!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "044133a2210dd42af1d5363c39adf2bf1a6cb7e75319c915f6d5c7eae8d557ce"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,42 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tománek, Martin",
