@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Prouzová, Zdenka",
+    "zprava": "Čau lidi, nepište vzkazy azbukou, tento banking to neumí :(((",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Čau lidi, nepište vzkazy azbukou, tento banking to neumí :(((",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "70109146fd437346aa630f724faa54cb8a5b84ba234af9216563057690e67fe3"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "20,18 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Němeček, Martin",
