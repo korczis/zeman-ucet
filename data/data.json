@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "6,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bc. Němec, Jan",
+    "zprava": "1KXyF5yiPUYRKDpqXH3kLnnopZvta6GNyT     Kdo nepošle trochu Bitcoinu, je srab.",
+    "ks": "8888",
+    "vs": "8888888888",
+    "ss": "8888888888",
+    "poznamka": "1KXyF5yiPUYRKDpqXH3kLnnopZvta6GNyT     Kdo nepošle trochu Bitcoinu, je srab.",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "2f4f29db125ddc9294cbc51face7ec69e8fdf14f25e7c856c91d1c60d1df3998"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Berka, Jaroslav",
