@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,38 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STASTNY PETR",
+    "zprava": "Mate muj hlas.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "STASTNY PETR",
+    "mnozstvi": 0.38,
+    "mena": "CZK",
+    "id": "f295e7b2bb9eed6d1488b5325c5274c6065b7e59dc904a7fd65c8ec65257ef12"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MULICA DAVID ROBERT",
+    "zprava": "na panacka v duchodu",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "MULICA DAVID ROBERT",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5d4366a987e59c492abfe02845dc9d55ec9e9f4e58bf9f46820ade6df79ab757"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "3,21 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Havel",
