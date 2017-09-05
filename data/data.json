@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Horák, Martin",
+    "zprava": "www.devote365.cz | Chtěl bych být účetní m.z. a mít 5 kč za položku. :)",
+    "ks": "8888",
+    "vs": "8888888888",
+    "ss": "8888888888",
+    "poznamka": "www.devote365.cz | Chtěl bych být účetní m.z. a mít 5 kč za položku. :)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fa99f4fbaddd65e91685974dcf70e18cd7a3afa4e3774b7a5b6cbe221e049abf"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pokora, Aleš",
+    "zprava": "Džon Ďůí je nemanželský syn Milouše Zemáka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Džon Ďůí je nemanželský syn Milouše Zemáka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "aec113ae378f98b0f5aacb96cc3bc6cf4fb39f061562b9b9e3182e6d4c525d54"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "100,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kočovský, Jaroslav",
