@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Do Duc, Hoang",
+    "zprava": "YAPKO.CZ - Krabičky na jídlo a lahve na pití. Buďte připraveni na cestách! :)",
+    "ks": "",
+    "vs": "1111111111",
+    "ss": "",
+    "poznamka": "YAPKO.CZ - Krabičky na jídlo a lahve na pití. Buďte připraveni na cestách! :)",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "121422eb924982ae716ad450637c22bc11296a92e54d289181cf08940961c6d2"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "20,18 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Němeček, Martin",
+    "zprava": "Pane prezidente, ať Vám ta kandidatura v roce 2018 vyjde. A pevné zdraví.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pane prezidente, ať Vám ta kandidatura v roce 2018 vyjde. A pevné zdraví.",
+    "mnozstvi": 20.18,
+    "mena": "CZK",
+    "id": "0e8b3105b3867b64c6df447e6af6a03836229f08336f0b345ede497d284e9634"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Machač, Jaroslav",
