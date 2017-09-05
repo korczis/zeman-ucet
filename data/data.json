@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Do Duc, Hoang",
+    "zprava": "YAPKO.CZ - Krabičky na jídlo a lahve na pití. Buďte připraveni na cestách! :)",
+    "ks": "",
+    "vs": "1111111111",
+    "ss": "",
+    "poznamka": "YAPKO.CZ - Krabičky na jídlo a lahve na pití. Buďte připraveni na cestách! :)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "54b39358ce8d30c5b714bb1c4f695248c4754729061962f0a84e4ad91f5c0506"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VLADIMĺR RYCHLOVSKÝ",
     "zprava": "Miloš u FIO poplatek za příjem EURevidentně platit nemusí?Není FIO ruská banka?Terminátora na tebe Milošu!",
