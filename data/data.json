@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kofroň, Daniel",
+    "zprava": "na nekampaň v Moravskoslezském kraji ty sedmilháři!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na nekampaň v Moravskoslezském kraji ty sedmilháři!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4ccffdcaac8c6c1dd75c9e80dc2c36937bfa596c290d3444358bc371cf0b8a17"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "25,45 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hrouzková, Jana Eva",
