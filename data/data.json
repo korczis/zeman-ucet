@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "BcA. Vosičková, Adéla",
+    "zprava": "Při rychlém jednání za 666,-  https://auto.bazos.cz/inzerat/77905573/17565-R-14-82T-Brillantis-Barum.php",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Při rychlém jednání za 666,-  https://auto.bazos.cz/inzerat/77905573/17565-R-14-82T-Brillantis-Barum.php",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "934862d5e29d60727daf23c08ca875cf0bc04d332c80321e080c926494e10045"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Marušák, Jaroslav",
