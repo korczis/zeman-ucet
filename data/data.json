@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Leveled s.r.o.",
+    "zprava": "Ne každý účet musí bohatnout po haléří - www.ZnamPenize.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ne každý účet musí bohatnout po haléří - www.ZnamPenize.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8d670a35d753d41e3072cf0f8c5ba09bf3bc26c18a9b3246c2e5cbd87fe0fb05"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "RideClub s.r.o.",
