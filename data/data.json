@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "25,45 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hrouzková, Jana Eva",
+    "zprava": "",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 25.45,
+    "mena": "CZK",
+    "id": "d4502a5bce857f0deb10430f799a2d428861bdc3acf9ce9ff6bd1017c93cccfc"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mošnička, Petr",
