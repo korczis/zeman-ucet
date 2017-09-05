@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Písecký, David",
+    "zprava": "Všechno nejlepší k tvým 26. narozeninám, Edo Panzani!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Všechno nejlepší k tvým 26. narozeninám, Edo Panzani!",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "55a76578bcd198197351c06d9e6a050833f92e433cff1d8baa9d81b231937f1d"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dohnálková, Lenka",
+    "zprava": "@MK Cinsky zradce pojd do hospody",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "@MK Cinsky zradce pojd do hospody",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b63824524983c86b51cf8e0551c1f29c6a30ef43e87d4f1e5afef89afbed176b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Szop, Jan",
