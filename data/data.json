@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Neupauer, Libor",
+    "zprava": "UDĚLÁTE MI V TELEVIZI VOZEMBOUCH?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "UDĚLÁTE MI V TELEVIZI VOZEMBOUCH?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3ab0a133506086795be5e06d375de2f5e850fa683e4305c8a11b2c6379ca8bf6"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Zvara, Jan",
