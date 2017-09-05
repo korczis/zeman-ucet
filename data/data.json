@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Malý, Lukáš",
+    "zprava": "Na cestu na Vysočinu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na cestu na Vysočinu",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "9abc793a42ab13213237d267bb3c2c72ac707347fdcd9363da2dc6c759e01bd7"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
