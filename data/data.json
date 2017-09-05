@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kočovský, Jaroslav",
+    "zprava": "Nenechte se otrávit a držíme s manželkou palce",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nenechte se otrávit a držíme s manželkou palce",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "b6b21857cd7cf3de2c77d9ea647a4bddaf20bf1eddc6cd206c9647ef1f293b50"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Horák, Martin",
