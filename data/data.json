@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-05",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VÁLEK RADIM",
+    "zprava": "Pro Miloše a jeho supr partu ;) Tak pac a pussy kluci ;) Trochu to tam po sobě ukliďte a hlavně vyvětrejte.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "VÁLEK RADIM",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "07949df46d6a3597eca8372a16b809d675a30a327b903d4bd41008573398a0af"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "OTT, Michal",
     "zprava": "Keep calm and stay zmrd, tví voliči to tak mají rádi, popelníčku.",
