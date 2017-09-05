@@ -7659,20 +7659,6 @@
   },
   {
     "datum": "2017-09-05",
-    "castka": "-20,00 CZK",
-    "typ": "Poplatek",
-    "protiucet": "",
-    "zprava": "/ROC/NOT PROVIDED//NA CESTU DO PROP //ADLISTE DEJIN.PRO POPLATEK JE POT //REBA POSLAT EUR:)",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "/ROC/NOT PROVIDED//NA CESTU DO PROP //ADLISTE DEJIN.PRO POPLATEK JE POT //REBA POSLAT EUR:)",
-    "mnozstvi": -20.0,
-    "mena": "CZK",
-    "id": "20bb8dac0b89f3acc74f9ed3c8160a2af2bf5286bbd408633bd5f5bc2bde0608"
-  },
-  {
-    "datum": "2017-09-05",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TOMAS BLAZEK",
