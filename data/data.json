@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Marušák, Jaroslav",
+    "zprava": "Už dlouho mi nebylo tak smutno ze stavu našeho národa, jako teď, po přečtení tohoto \"fóra\"...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Už dlouho mi nebylo tak smutno ze stavu našeho národa, jako teď, po přečtení tohoto \"fóra\"...",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "9b9a72a70436989b7a856c67d57538fbc7a1338939a5f4a16dbcf7efee4a4b49"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zemánková, Tereza",
+    "zprava": "https://www.youtube.com/watch?v=32GbBVdCpHQ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "https://www.youtube.com/watch?v=32GbBVdCpHQ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ca99ae81d2460ed5f78fbb8e77fbcb57ae8f4e7accfa10358dc5d8608aa636a9"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sekereš, Jiří",
