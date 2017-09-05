@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ptáček, Luboš",
+    "zprava": "Bohuzel ma zprava je PRISNE TAJNA a pan Mynar by si to tady mohl cist i bez proverky.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bohuzel ma zprava je PRISNE TAJNA a pan Mynar by si to tady mohl cist i bez proverky.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ba474a3a64a87e2b4fcb4789e9c4d277edf8e8303a94a38a311547dafae8036c"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "14,88 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bočinec, Juraj",
