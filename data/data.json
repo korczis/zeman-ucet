@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tichá, Michaela",
+    "zprava": "A Miloši, kdo ti dal tu korunu? No, skoro každej...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "A Miloši, kdo ti dal tu korunu? No, skoro každej...",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "8eee585853239d4f01755fe57d60c9df741c42233700ee540aa32b1d0a2e681a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dočkálek, Jiří",
