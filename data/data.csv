@@ -1,4 +1,215 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Svatopluk Bartík,na prohrané soudy za lži a urážky lidí,"",666,"",Svatopluk Bartík,0.01,CZK,df35a0a9ce612f1e458a8729827b44b2597af7867fae561f7abeeaf923685059
+2017-09-05,"3,14 CZK",Bezhotovostní příjem,Tomáš Diringer,pí,"","","",Tomáš Diringer,3.14,CZK,406ba8b679c3dd2ca068974570b4145bf2c89dc569f56b108944183268be21ed
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Martin Pecina,"Vůdcem dobrým bude ten, kdo dovedesloužit a kdo cítí, že sám je veden a veden být chce. Tomáš Garrique Masaryk","",666,"",Martin Pecina,0.01,CZK,490a580fc75b86d1570cb4a2fddffa09b2e330a05999170678d4423d07afd7ba
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,na nafukovací člun,"","","",Ondřej Březina,0.02,CZK,9c89775af1333e3c059079b36dc1206b1f36685b115da93c4e889537bf3e9636
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Svatopluk Bartík,na prohrané soudy za lži a urážky lidí,"",666,"",Svatopluk Bartík,0.01,CZK,df35a0a9ce612f1e458a8729827b44b2597af7867fae561f7abeeaf923685059
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,na novou hůlku,"","","",Ondřej Březina,0.02,CZK,d5d630a771660edd8e654009fc093f57f9522900e6295c15e9f9de64541a6d98
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,na poplatky spojené s transparentním účtem,"","","",Ondřej Březina,0.02,CZK,d84c4a25c9760e1dd17148ff664d2f8ba03a0f23cab472d20f94145db7595743
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Michal Copák,ten pocit kdyz te voli jenom negramoti! ou jeee. Milosku co umis ještě anglicky kromě pussy?,"","","",Michal Copák,0.01,CZK,30fe7f0084e14f20b5b04d392ffd49931d8072d2c3372d45443ffa5779fb072f
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,Na izolepu na držtičku a pařátky Ovčáčkovo,"","","",Ondřej Březina,0.02,CZK,f675484d6080ca35b852bae5ca309d4d11e7519827ae93daed974f142af3bd26
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Vít Luštinec,"Ozve se občan, kterému jsem včera na Hlavním nádraží v Praze půjčil 1000 Kč?","","","",Vít Luštinec,0.01,CZK,1fb25377d3b314242a4c8e8174b7673aa3142b47c641601a091d8bba5fa4e8ac
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,"Urážky lidí ukazují, že vás nemajírádi, nikoli, že jsou hloupí...","","","",Ondřej Březina,0.02,CZK,385dad14bb941ce1d8167392e1594e597b71ff7aca0fbd97220128cabe5ad721
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,na paňáčka,"","","",Ondřej Březina,0.02,CZK,442f5edc879a6e88e1d15b401d1651bdd5a251898f38395eec29d3b6a2171f4f
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,Na munici na novináře,"","","",Ondřej Březina,0.02,CZK,7f17566195cf8a4cb28024b51dd23a10e6b0d0afe7f268033ce22191ff530915
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Ondřej Mokrý,Posílám finanční podporu na kampaňpro hulváta bez špetky slušnosti ana pamlsky pro jeho věrného patolízala.,"","","",Ondřej Mokrý,0.01,CZK,3f81a025b4385da3dceec6a45ec03525a55f8c052f841ba02ef15dafaf6b6261
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Libor Čada,Klub přátel TELEVARIETÉ https://www.facebook.com/groups/1935192743394543/?fref=ts zítra na ČT1 v 15.00  Z Televarieté!,"","","",Libor Čada,0.01,CZK,c706910a510e4c2ea2902146a73e3cf65041342256dbffb930b1d5f60c64b8e9
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Rudolf Dobiáš,Na sbírku nových šavlí.,"",1968,"",Rudolf Dobiáš,0.01,CZK,e605fe82c38d4d0251bf643ad2c67390e0a602a60cdfb250feacef72059cd3e8
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Pavel,Za pražskou lihovarnu!,2013,2018,"",Jan Pavel,0.01,CZK,fd6757958efcedad60ed37c6c2f4ca8d98bc6722c472b019d0c2fe1d328e3d13
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Ondřej Březina,Na burkiny,"","","",Ondřej Březina,0.02,CZK,a7258fc4d17f215ecf4065250e3c6a7e107541c08d133428abd2728b73b1d97c
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Radek Pinc,Přestaňte prosím dělat ostudu soběi celé republice. Přeji klidný důchod na Vysočině.,0666,666,666,Radek Pinc,0.01,CZK,6a7296971b42d0a5360cf44dc8dceebcf8f8a36940fb24a29fd461f0f016461d
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Eliška Marcinková,"Kdo maže, ten jede!  WWW.SICILSKYOLEJ.CZ  Hladkou cestu z Hradu :)","","","",Eliška Marcinková,0.01,CZK,9ef016c004e3d0e4c3d02f33e0cebf9af8561feff6e733f5e4a763ee4a07edcb
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Michal Copák,ja jen nechapu proc takova stara troska ma potrebu nicit budoucnost nasich deti. proč nekam nezaleze a vklidu se neuchlasta k smrti.,"","","",Michal Copák,0.01,CZK,317290a8c2be45b1ffb3147ce018779b1e9e8fc0fbd7d14446b8a94b8e296b6d
+2017-09-05,"0,13 CZK",Bezhotovostní příjem,Martin Beníček,"I třináct je škoda, ale deset na nový trenky, ty červený a tři Mynářovi s Ovčáčkem na cestu do Kremlu.","","","",Martin Beníček,0.13,CZK,cac6210d18c937be37ce118f199aa30ca1561c6a7eb1627013c8606047324767
+2017-09-05,"1,00 CZK",Bezhotovostní příjem,Jan Černík,"Tak co další virózka z vodečky z Ruské ambasády (koruna, jablko, žezlo, meč a mohla být i šavle)","","","",Jan Černík,1.0,CZK,ef28a291a8699f396afb68b74ee3c5ff8e2a0dc9407ba7199c2e0118fd290c20
+2017-09-05,"0,10 CZK",Bezhotovostní příjem,Adam Hefner,"Miloš Zeman - Kunda sem, Kunda tam(funky remix) - https://www.youtube.com/watch?v=lV5FfxwzF2c","","","",Adam Hefner,0.1,CZK,15513ac18386a92eede050a63891fd8bedebdd47c2e279215b74b7a9e62cb119
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jakub Veselý,Růža je gay!,"","","",Jakub Veselý,0.01,CZK,7df8a83bddbb5021cb577b5c6ee728717b7807e70a0febce959bce2ae431108a
+2017-09-05,"0,02 CZK",Bezhotovostní příjem,Jakub Neužil,"Miloši, posílám halíř i pro neagenta Andreje. Ne, ze si to nechas jenpro sebe, ty ulicniku!","","","",Jakub Neužil,0.02,CZK,5a21005e9bfe03c1b680d4605cf85350eed57d180e111ccdb648f5c383f1a345
+2017-09-05,"0,69 CZK",Bezhotovostní příjem,Filip Tóth,sleduj  @krnolife  na instagramu,"","","",Filip Tóth,0.69,CZK,405a32c501b7f839f2c99218a0b29144c6fbf6cd5a64a93ff5c43cbed4e3d85a
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Pavel Kos,Kaněc čyrvonaga čalavěka,"","","",Pavel Kos,0.01,CZK,f7376d2c2fea4d3119be0f70852fd2de60a4d1b9566442ff6ec35008e4d9a67d
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Vojtěch Drnek,GIANT STEPS NENÍ HUDBA,"","","",Vojtěch Drnek,0.01,CZK,dd5586abcab42fa5680f89ebd75d0273b770a1ae9efd9eb964ef3470297f783e
+2017-09-05,"0,10 CZK",Bezhotovostní příjem,Tomáš Kolomazník,"Ovcackovi na novy oblek, na uklizeni v mistnosti korunovacnich klenotu, na novy gumak na vodu. Proste naduchod, aby jste uz nekandidoval","","","",Tomáš Kolomazník,0.1,CZK,01b7c7d17df95aad547c53a4fcedf7704d322aab180392ff7e4e47b16e6d2167
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Václav Svoboda,"nejsem prazska kavarna,vitac,slunickar atd atd ALE CHCI JINEHO PREZIDENTA","","","",Václav Svoboda,0.01,CZK,363ac6efc4edbc15fc45ec59080dd25aeaa5b43b7e4db1ab10560f54c2f21c02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Michal Copák,mynar.ovcacek. lukoil.putin zeman.vite pane redaktore co je to pussy. jestli tohle prase cesky narod znova zvoli tak si asi nezaslouzi nic,"","","",Michal Copák,0.01,CZK,e1c20da627dd25b841cf85b96e5e154719546e776f96f944e99378dec04daddb
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jiří Kuna,Pro hloupeho kazdy hloupy ;),"","","",Jiří Kuna,0.01,CZK,fb5d5db30e81c3bb7380801933b9d1bbb438e6e94c5296d31c3663caf15a7cea
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Matouš Kocourek,"https://www.instagram.com/_matesk_/ MÁM TAM I FOTKY HNÍZDA, MRKŇETE :-))))","","","",Matouš Kocourek,0.01,CZK,89fec68b35897c6b09174e50cdaa1cace7191c09f00414931d5f81fe4e35da43
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,d75611c45f6374e99196d50cfa2d07c2f9be5822d74e9c9c5caf41fed94cde02
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Petr Maxa,"Ahoj, jsem Petr. Je mi 23 let a mým snem je mít hot dog vozítko.","","","",Petr Maxa,0.01,CZK,369ed8d915ce2d5817913688a539a422b6a61d337f5e59396fe52d07c41b31da
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Lenka Pokorná,"Ahoooj, fajne to tady mate:)","","","",Lenka Pokorná,0.01,CZK,d27e4ec908caf112b01e2db3850e064ead898ac69608a6a99ab4e7629f64b82c
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jiří Janouch,"Něco na důchod, Milošku",6789,12345,"",Jiří Janouch,0.01,CZK,cb6732e95ef48e396fda96708560f243687a84062c94f33535c2c65207cbb397
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jakub Sklenář,"Za víc jste opravdu nestál, pane prezidente.",0308,223344,223344,Jakub Sklenář,0.01,CZK,457da4944e8802045342629560807ebbf166e77ae6d8af26ec66cddc3b697a8c
+2017-09-05,"0,01 CZK",Bezhotovostní příjem,Vladimír Hynčica,Kde je peroutkův článek? Už má Vráťa prověrku? Za kolik jste prodal Agrofert AB? Kde dopis od Trumpa? A prosím jednou co je to Kunda? :-),"","","",Vladimír Hynčica,0.01,CZK,b9bf07f136b9e7c15800736e2ba4d3debeea9c2ece017ea0b2ebde3bfa791ada
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jindřich Čermák,Přeji Vám od března 2018 příjemný a dlouhý pobyt na Vaší chatce na Vysočině. A nezapomeňte na výběh pro Ovečku.,"","","",Jindřich Čermák,0.01,CZK,53d14dcf12d744cfba26ec4ad822dfa8347990b096e74455a1c638507e7f6903
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Jakub Vloššák,Levné opravy mobilů www.mobilite.cz (opravime i aligator),"","","",Jakub Vloššák,0.01,CZK,f6ecf7cb00ce05a3357a83c4f5c6a0d5fe7f0150d350477b3bb982f3e85e032b
 2017-09-05,"0,01 CZK",Bezhotovostní příjem,Michaela Kukovičová,od pražské kavárny,"","","",Michaela Kukovičová,0.01,CZK,39c9871b07736ddf6e39fd11a6baf49cde5f28cfc7e5921fde2ed7cc2544a9f0
