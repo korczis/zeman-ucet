@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,06 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Svobodová, Lucie",
+    "zprava": "Satane ustup!",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "Satane ustup!",
+    "mnozstvi": 0.06,
+    "mena": "CZK",
+    "id": "39d8ec0ef1521539e20fd3c98b07d9c0ce26b8d3d0eee66bf8d51957c9867425"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Horák, Martin",
