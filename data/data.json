@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Serbus, Marek",
+    "zprava": "www.sperkymania.cz - skvělé šperky s dopravou zdarma!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.sperkymania.cz - skvělé šperky s dopravou zdarma!",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "3890e097cf81ad9e6c7b2d524e3bae9efb86c72eaa7117dec2603654e4b1f5b4"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Karlíček, Viktor",
