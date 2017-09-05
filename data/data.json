@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Žák David",
+    "zprava": "Na nové zuby",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Žák David",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "7da0831170d35ed71b1aaa803dda3171fcb5d2d56e0311eb5ed8bba892945b55"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,07 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MLAZOVSKY VLADIMIR",
+    "zprava": "Tak kdo usedne na ZELEZNY TRUN ?",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "MLAZOVSKY VLADIMIR",
+    "mnozstvi": 0.07,
+    "mena": "CZK",
+    "id": "4ef5dc5fa5987ec6a29a4890967bc2216f4391c9bd7601f8b4ec9511844c7e83"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Bernard Jan",
