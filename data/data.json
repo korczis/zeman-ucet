@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Altman, Ondřej",
+    "zprava": "Nabízím červené trenýrky z makety čínské vlajky, pouze lehce potřísněné krví politických vězňů",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nabízím červené trenýrky z makety čínské vlajky, pouze lehce potřísněné krví politických vězňů",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4c4d61b1cda9116e4dd6107de7d707a5aea5e08da4a66e70d07df447c4ae924f"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Horsák, Jaromír",
