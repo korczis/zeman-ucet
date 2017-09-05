@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Jílek, Jiří",
+    "zprava": "Posílám milion, je to někde vlevo dole....",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Posílám milion, je to někde vlevo dole....",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7b66b3cbecd9e4611397f1b3df4be86494d7bb0c8a458f29d2bc082946df9fd4"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šleger, Vladimír",
