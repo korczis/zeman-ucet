@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-05",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Procházka, David",
+    "zprava": "Na balzamovače. Odvádějí skvělou práci, vypadáte líp než za života.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na balzamovače. Odvádějí skvělou práci, vypadáte líp než za života.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f7b286f9b2a5614025e822941bb381c0ce0694f4c9b10f61b2d5d0c3d687399e"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Roman Holota",
     "zprava": "Snape kills Dumbledore on page 606",
