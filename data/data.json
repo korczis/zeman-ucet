@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,02 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "RADEK HOLDING BV",
+    "zprava": "NA SVERACI KAZAJKU",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "RADEK HOLDING BV",
+    "mnozstvi": 1.02,
+    "mena": "CZK",
+    "id": "4b9f97dde4657f1a7e22f635425c9237310c252e31329b2158623213b6f7ac0b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "GENCUR MARTIN",
