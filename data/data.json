@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zvara, Jan",
+    "zprava": "prosim administratora stranek o pridani moznosti lajkovat prispevky",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "prosim administratora stranek o pridani moznosti lajkovat prispevky",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "e040acf844c252d632f5498628eabeffa4004fa317e1d541b1e9ab39e5c1bcf4"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čerňanský, Petr",
