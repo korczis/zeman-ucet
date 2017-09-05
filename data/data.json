@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Koutný, Bohdan",
+    "zprava": "Pravidelným účastníkům připomínám, že se blíží první čt!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pravidelným účastníkům připomínám, že se blíží první čt!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "54e41a552d7ce9f64fab0229a3ac23542fa5839984a3c914fa89ea1e230e4f4d"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Adámek, Miloš",
