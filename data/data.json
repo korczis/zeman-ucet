@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Doležal, Luboš",
+    "zprava": "Dracarys!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dracarys!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8c8a9eff46fa0828c1ed08dd858dd3a124e9d653eb0d9469cc75111f3a5e2170"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,25 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čerňanský, Petr",
