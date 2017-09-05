@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-05",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Veselý, David",
+    "zprava": "Čau Ovčáčku, jak se vede",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Čau Ovčáčku, jak se vede",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d35326d13dc9650745b4db65ba6317bb28bf6d924641def3d91575abc419baf1"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VÁLEK RADIM",
     "zprava": "Pro Miloše a jeho supr partu ;) Tak pac a pussy kluci ;) Trochu to tam po sobě ukliďte a hlavně vyvětrejte.",
