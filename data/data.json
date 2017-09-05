@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Michálek, Jiří",
+    "zprava": "Raději kundy v kostele, než kokota na hradě.",
+    "ks": "2687",
+    "vs": "6512873694",
+    "ss": "15364",
+    "poznamka": "Raději kundy v kostele, než kokota na hradě.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4041fde31e936b1beac4e9537820d820eaf8d88af3a9a34d77741499a35ffe88"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "250,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Harant, Vojtěch",
