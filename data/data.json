@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Svitavský, Martin",
+    "zprava": "V roce 2001 kunda sem,kunda tam prodala ruský dluh ve výši 100 miliard za pouhých 20 miliard.Nebylo to vlevo dole",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "V roce 2001 kunda sem,kunda tam prodala ruský dluh ve výši 100 miliard za pouhých 20 miliard.Nebylo to vlevo dole",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "76e70af7c748dfed1b6892f30d331d54adb5d26c78e78e12d33cab1e150a5f18"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Adámek, Miloš",
