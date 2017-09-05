@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Haramia, Petr",
+    "zprava": "www.flipr.cz SLEVA 10% pro prvních 100 zákazníků, kteří použijí kódu MILOS2017",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.flipr.cz SLEVA 10% pro prvních 100 zákazníků, kteří použijí kódu MILOS2017",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "18d92be8a2a8738a0d7ae1a080a5d93825e809723e61c20a180e756d0a79954b"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Luboš",
+    "zprava": "Ahooooj Jirko! :)",
+    "ks": "0007",
+    "vs": "7",
+    "ss": "7",
+    "poznamka": "Ahooooj Jirko! :)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b463ed8e6a7880f2a65826a2fb3ec3ea69b0b6c2c5f1dfefaedd475ce86d2a1b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Auterský, Marek",
