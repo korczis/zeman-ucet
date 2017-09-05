@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Horsák, Jaromír",
+    "zprava": "Ať hovoří čísla!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ať hovoří čísla!",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "85ae4b502083e688c99b69084f713f9934b64a305c8d2f205e2a0ae8427c3a88"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Löfler, Michal",
