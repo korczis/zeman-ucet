@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "35,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Krupka, Tomáš",
+    "zprava": "Pro Ovčího Mluvčáčka na RedBull až bude po nocích studovat Přítomnost",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro Ovčího Mluvčáčka na RedBull až bude po nocích studovat Přítomnost",
+    "mnozstvi": 35.0,
+    "mena": "CZK",
+    "id": "ac257616f5e75055bf53de0cd3aba3cad4efe640ea96fffb83e340429ed8f4d9"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bc. Hampl, Jiří",
