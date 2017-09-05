@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čerňanský, Petr",
+    "zprava": "www.rybizak.cz - Rybízové, višňové a jahodové víno. - www.rybizak.cz - Rybízové, višňové a jahodové víno. - www.rybizak.cz - Rybízové víno",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.rybizak.cz - Rybízové, višňové a jahodové víno. - www.rybizak.cz - Rybízové, višňové a jahodové víno. - www.rybizak.cz - Rybízové víno",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "b6671d293291866ee24cec5d8fb555ab731c58577c3f9598e988bb07465dfcbb"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Presse, Michal",
+    "zprava": "My si na tu Milošovu kandidaturu posvítíme. www.luxprim.cz?utm_source=fiobanka&utm_medium=prikazkuhrade&utm_campaign=fio",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "My si na tu Milošovu kandidaturu posvítíme. www.luxprim.cz?utm_source=fiobanka&utm_medium=prikazkuhrade&utm_campaign=fio",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "0639d2ba501d5e9803f31c14dc888512d33c8b36670591f7b6118cdd5eb6bcfe"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Altman, Ondřej",
