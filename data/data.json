@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Omasta, Matyáš",
+    "zprava": "Vando! Vše nejlepší k těm narozeninám co máš až za měsíc! M.",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "Vando! Vše nejlepší k těm narozeninám co máš až za měsíc! M.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "e9fdc8ca93143f8f4e61e217d9e6dd793e513c64b6643e9a178bbfc28804ef4c"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Radil, Jan",
