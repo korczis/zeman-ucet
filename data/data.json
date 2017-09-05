@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,11 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Adámek, Miloš",
+    "zprava": "www.original1869.pl",
+    "ks": "0001",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "www.original1869.pl",
+    "mnozstvi": 1.11,
+    "mena": "CZK",
+    "id": "1f603c086971921f236554c2de9c2a70ea1e521a737989c9e70f458e4ddad82b"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sonnenbergová, Šárka",
+    "zprava": "Kdybyste chtěl vykoupit svou černou duši a udělat s těmi penězi něco smysluplného, nakrmte pejsky: www.fio.cz/ib2/transparent?a=2901001376",
+    "ks": "",
+    "vs": "11",
+    "ss": "11",
+    "poznamka": "Kdybyste chtěl vykoupit svou černou duši a udělat s těmi penězi něco smysluplného, nakrmte pejsky: www.fio.cz/ib2/transparent?a=2901001376",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "835966fba9643225c4dbf2801e7f48edd0b5e095ef1d8ee15878cdbe94cdf186"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,23 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Gašparík, Petr",
