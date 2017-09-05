@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cechel, Radovan",
+    "zprava": "Právě je 17h",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Právě je 17h",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2ef644bf56caeb474e412a8863c79ec4ba3c328b2399d3e16e56570650d00646"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Písecký, David",
