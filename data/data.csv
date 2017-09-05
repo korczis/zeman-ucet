@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Ing. Mácha, Tomáš","Milošu, tady máš na jízdenku na MHD až povalíš z hradu.","","","","Milošu, tady máš na jízdenku na MHD až povalíš z hradu.",0.01,CZK,ecb85c29802aab269723e6593c591d7287a60ade50217c830dce8eb494da3060
 2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Dračka, Alexander",1: ..Cierny pesiak na e6,"","","",1: ..Cierny pesiak na e6,0.01,CZK,cb221919d82d56a38df90cfe04caee059887822085a61453deb976dca6506964
 2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Hejný, Pavol","<script>alert(""Kunda sem, kunda tam."");</script>",0789,123,456,"<script>alert(""Kunda sem, kunda tam."");</script>",0.01,CZK,f8bf8b8b7670b3dde04b1fcae110db628843ea4cc49a11fa6a970accdf4faaee
 2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Mgr. Zemanová, Eva",Kupte si Bitcoiny,"","","",Kupte si Bitcoiny,0.01,CZK,39440017de7bab45aa7a010fc24405e72cd6d6b8a43627692ea296d97ae8116f
