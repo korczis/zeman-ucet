@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-05",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VOJTECH RIHA",
+    "zprava": "PROSIM NEKANDIDUJTE ZNOVU. AT NA VAS MOHU ALESPON NECO OCENIT.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "VOJTECH RIHA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "246351f7509447d7668fef76009aea2be2aab287c84d2dd53885a1026946584a"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Procházka, David",
     "zprava": "Na balzamovače. Odvádějí skvělou práci, vypadáte líp než za života.",
