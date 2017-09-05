@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zemánková, Tereza",
+    "zprava": "#anjelikAdinek #luv #ya #couplegoals",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "#anjelikAdinek #luv #ya #couplegoals",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ce16289d1609dde21aef2ac380d370924765d64e345a7e2316899d430a4aedc0"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "RideClub s.r.o.",
+    "zprava": "Tak se uklidíme, vypneme ty internety a jedeme do Alp. SKIPUSSY v ceně zájezdu --> WWW.BIGSNOWJAM.CZ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tak se uklidíme, vypneme ty internety a jedeme do Alp. SKIPUSSY v ceně zájezdu --> WWW.BIGSNOWJAM.CZ",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "53e149bb79afc905d86c1e26c0204956b8692414232452e42deca5da226dc36a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Letavaj, Branislav",
