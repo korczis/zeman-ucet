@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,23 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Gašparík, Petr",
+    "zprava": "Chcete PANA PREZIDENTA nebo PRASIDENTA? Volte dobře...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Chcete PANA PREZIDENTA nebo PRASIDENTA? Volte dobře...",
+    "mnozstvi": 1.23,
+    "mena": "CZK",
+    "id": "587c3a759d0bf58660a8bd7c3ce17ea0cc0af6ef148f98c848bca65bf7234790"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOHOUT MARTIN",
