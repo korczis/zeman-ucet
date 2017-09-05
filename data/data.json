@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "5,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Matějíček, Pavel",
+    "zprava": "",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 5.0,
+    "mena": "CZK",
+    "id": "bd0c385265d4192dc7eeea00f652cde5c4e41b866bde56705935b11ebfb1f143"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mgr. Malinovský, Jakub",
