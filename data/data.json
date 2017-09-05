@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sedláček, František",
+    "zprava": "Do absolutního zapomnění zbývá Zemanovi a Ovčáčkovi jen ... tolik.cz/zeman/",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "Do absolutního zapomnění zbývá Zemanovi a Ovčáčkovi jen ... tolik.cz/zeman/",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bae11707a8e81ff647c70b7dd21d65d1d5dd4a92dded55144805b0467e24ac1d"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Omasta, Matyáš",
