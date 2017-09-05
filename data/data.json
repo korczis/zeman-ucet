@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hadrovský, Petr",
+    "zprava": "Polámal se mraveneček, ví to celá obora, o půlnoci zavolali mravenčího doktora.  Doktor klepe na srdíčko, potom píše recepis, třikrát denně",
+    "ks": "4444",
+    "vs": "4858856485",
+    "ss": "3747120592",
+    "poznamka": "Polámal se mraveneček, ví to celá obora, o půlnoci zavolali mravenčího doktora.  Doktor klepe na srdíčko, potom píše recepis, třikrát denně",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a4a4fef1115b084bd137aa113c279f25f6591375982f6d441cd6d36ea50f6f08"
+  },
+  {
     "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
