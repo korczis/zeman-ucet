@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "URBANEK MATOUS",
+    "zprava": "Na kurz zakladu spolecenskeho chovani.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "URBANEK MATOUS",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "55b443679d35e406a3f1345a1e40d5b549d9b57846940fb2806e33c48a3e7476"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "DOLANSKÁ DOMINIKA",
+    "zprava": "Prosím, prosím, moc prosím, už dost!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "DOLANSKÁ DOMINIKA",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "62c60b8c9b62d4e931a7c295c41824bb2b688647dc1922d27be5f02510d98176"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "JAROSLAV SEMBOL",
+    "zprava": "___________________www.gig-pc.cz___________________",
+    "ks": "",
+    "vs": "90888712",
+    "ss": "666",
+    "poznamka": "JAROSLAV SEMBOL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9762d2fb3e45543d4b593d2f53868f38d8da0918209391b6a7184be48f4fb084"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Půhoný, Jan",
