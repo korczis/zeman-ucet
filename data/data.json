@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "19,22 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pantálek, Jáchym",
+    "zprava": "Miloši zařiď prosimtě ať Baník Ostrava vyhraje titul! Baník Pičo",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloši zařiď prosimtě ať Baník Ostrava vyhraje titul! Baník Pičo",
+    "mnozstvi": 19.22,
+    "mena": "CZK",
+    "id": "9ebf7772b27cce9465833d874cc63c55da0f55455f8031011c90370689440147"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Cechel, Radovan",
