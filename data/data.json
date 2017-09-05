@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Löfler, Michal",
+    "zprava": "Nějaká patnáctka na pokec a potom možná něco víc?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nějaká patnáctka na pokec a potom možná něco víc?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6c6fc030af050654eff2467fd833bbc26b1ff1d0da6a16041b9fc6c1281c42bf"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Gottwaldová, Hana",
