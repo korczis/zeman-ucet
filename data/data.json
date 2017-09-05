@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "250,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Harant, Vojtěch",
+    "zprava": "Fandím Vám.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Fandím Vám.",
+    "mnozstvi": 250.0,
+    "mena": "CZK",
+    "id": "ddb25b2a115f61df59e428b9cae21c842d405e2ce252bbb604545e5a5e41ce0a"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Krupka, Tomáš",
