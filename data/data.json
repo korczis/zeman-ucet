@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Rada - přidejte vždy náhodný variabilní a specifický symbol, ať to má účetní co nejtěžší",
+    "ks": "",
+    "vs": "9509974224",
+    "ss": "2081102864",
+    "poznamka": "Rada - přidejte vždy náhodný variabilní a specifický symbol, ať to má účetní co nejtěžší",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1a13c2d867768ebe02518df2f0d974ca250e3962f8643fa5f38cec8a310ba753"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Centizio s.r.o.",
+    "zprava": "Na rychlou KREMACI.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na rychlou KREMACI.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7a8fe0f5ff896d0832964c20db16ed358f37de085049bd8ff727285d5fa2b53b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "5,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Matějíček, Pavel",
