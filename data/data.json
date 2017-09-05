@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "RideClub s.r.o.",
+    "zprava": "Milý Miloši, jestli chcete SKIPUSSY klikněte na www.BigSnowJam.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Milý Miloši, jestli chcete SKIPUSSY klikněte na www.BigSnowJam.cz",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "3df9eb3e1e093865bf722bcce8adf8f8f65b789f7d7514aed9f702558ab3fe90"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Michlian, Štefan",
