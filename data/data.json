@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Radil, Jan",
+    "zprava": "Tady nakrmíte Aligátora s SOS tlačítkem klidně na celý rok! Arrrrgh! Sleva 5 % na Ilin.cz, kód \"ZEMAN\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tady nakrmíte Aligátora s SOS tlačítkem klidně na celý rok! Arrrrgh! Sleva 5 % na Ilin.cz, kód \"ZEMAN\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7048f905ee3c1843220e41c6cf302adecb73393f8d75cbd4f9f3f84736c93701"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Do Duc, Hoang",
