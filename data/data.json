@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Gottwaldová, Hana",
+    "zprava": "Prci, miluji tě :) ogoeli",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prci, miluji tě :) ogoeli",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "6314c31b054130ac20970f0156ebe4d9721f9851c3322220b7a0a08be5f4408b"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Gottwaldová, Hana",
