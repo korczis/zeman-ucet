@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Břeský, Šimon",
+    "zprava": "Chcete borůvky jak melouny? Pak kupujte hnojiva od www.GardeniX.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Chcete borůvky jak melouny? Pak kupujte hnojiva od www.GardeniX.cz",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "4f2700fb2c3f535532933a0476cdfcbcec1ffe10cd11a91df7339f768cf27a38"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Svitavský, Martin",
