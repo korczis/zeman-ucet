@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "20,18 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Němeček, Martin",
+    "zprava": "Pane prezidente, ať Vám ta kandidatura v roce 2018 vyjde a pevné zdraví.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pane prezidente, ať Vám ta kandidatura v roce 2018 vyjde a pevné zdraví.",
+    "mnozstvi": 20.18,
+    "mena": "CZK",
+    "id": "76c399a69c59005011369cecc0495a2d0561a8725bb5399c95b98ea40c099e5c"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Prouzová, Zdenka",
