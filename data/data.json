@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mysíková, Michaela",
+    "zprava": "www.CoolZazitky.cz - nejlepší dárek je zážitek, zážitek je dárek na celý život",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.CoolZazitky.cz - nejlepší dárek je zážitek, zážitek je dárek na celý život",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "ab06cd7462ef149eab45958d0ae1744d5c22fc9e29beea91b7b92d1578b9c9d7"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Hobza, Otakar MBA.",
