@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Bartušek Daniel",
+    "zprava": "pozdrav hradní squadře, nejhorší sebrance co za dob demokracie okupovala hrad. děkuji, už nechci ..",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bartušek Daniel",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "36227b6218f5f234514ab8ceac813dfd64a2b652d1a73c7a33c260ff219abed9"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,69 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STRANSKY DAVID",
+    "zprava": "Ahoj Karolinko :-*",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "STRANSKY DAVID",
+    "mnozstvi": 0.69,
+    "mena": "CZK",
+    "id": "0ae1d63b0632b0b2b461c6eeb2feb8ec39bcade2cd0c535bdb80881255b7db0d"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "5 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TRUBACOVA IVANA",
+    "zprava": "Ivana Trubacova Praha 4",
+    "ks": "0308",
+    "vs": "19680712",
+    "ss": "",
+    "poznamka": "TRUBACOVA IVANA",
+    "mnozstvi": 5.0,
+    "mena": "000,00",
+    "id": "f7ecdcb1eae6840beffd5ccf286b3240e20c4f85b51a652f5ffb9a64021e79ee"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "LEDme s.r.o.",
