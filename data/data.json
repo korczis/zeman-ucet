@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Karlíček, Viktor",
+    "zprava": "@Horák, Martin: Posílejte přes Smartbanking, nemusíte pak čekat ma autorizacní SMS.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "@Horák, Martin: Posílejte přes Smartbanking, nemusíte pak čekat ma autorizacní SMS.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bb10772b37d819ea7841849eb896d7acc1588c5203e18c1289bdf54c6b1950a3"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,06 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Svobodová, Lucie",
