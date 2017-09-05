@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hlubuček, Martin",
+    "zprava": "Klárka Vyskočilová miluju tě <3   tvůj holub",
+    "ks": "",
+    "vs": "420",
+    "ss": "",
+    "poznamka": "Klárka Vyskočilová miluju tě <3   tvůj holub",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "08d95be7c48dc73977e157b8fe36e367a272d2cc654ea8410dd674dc2734ecb2"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,03 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Otáhal, Milan",
