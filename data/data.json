@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Luboš",
+    "zprava": "Ahooooj Vlastíku! :)",
+    "ks": "0007",
+    "vs": "7",
+    "ss": "7",
+    "poznamka": "Ahooooj Vlastíku! :)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6242d8ebdfa25ffdb1449489291dd0fbf537650aa2d7a9571a4b45955f4f9ffc"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Horáček, Filip",
+    "zprava": "PROFIPŘEKLADATEL - Oficiálně tlumočí panu inženýru Zemanovi, nadto jej všichni volí,",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "PROFIPŘEKLADATEL - Oficiálně tlumočí panu inženýru Zemanovi, nadto jej všichni volí,",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "078ae07e86c9a09985c2a15d5591c3f25cc88059a7c588339e0341d057f693d5"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Haramia, Petr",
