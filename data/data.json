@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Holík, Josef",
+    "zprava": "Bez komoušů homoušů, životem se prokoušu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bez komoušů homoušů, životem se prokoušu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "eb0923859bf41744d4378d7944844d81a4e5ff3448fa96a38420fd87cf880597"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "20,18 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Horský, Jan",
+    "zprava": "Marketo, miluju te .)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marketo, miluju te .)",
+    "mnozstvi": 20.18,
+    "mena": "CZK",
+    "id": "3624e361ec5c19e5d2cee6bff53458935122982692fe76af62b4baa9e0a15ba5"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Chumlen Pavel",
