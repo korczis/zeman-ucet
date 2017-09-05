@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "14,88 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bočinec, Juraj",
+    "zprava": "Na postihnute deti od LSNS Kotleba",
+    "ks": "0088",
+    "vs": "1488",
+    "ss": "88",
+    "poznamka": "Na postihnute deti od LSNS Kotleba",
+    "mnozstvi": 14.88,
+    "mena": "CZK",
+    "id": "22c4be3bf199112f256c641a04d7fe771be9659e7e1414a5bf1b691998845ac9"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sovová, Yvonne",
