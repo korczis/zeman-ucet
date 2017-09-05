@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "3,21 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jan Havel",
+    "zprava": "a padej ty zakomplexovanej smrade",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jan Havel",
+    "mnozstvi": 3.21,
+    "mena": "CZK",
+    "id": "40590a774c0cd714388b5090a65fff73e65675c9d3f006ee4a5595cd5e428805"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zajíc, Roman",
+    "zprava": "Je to populistický lump pohrdající demokracií a ústavními principy, notorický lhář, norek a komunista.",
+    "ks": "0347",
+    "vs": "10247",
+    "ss": "14785963",
+    "poznamka": "Je to populistický lump pohrdající demokracií a ústavními principy, notorický lhář, norek a komunista.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bf1767a2bca3af4f81cda46b0b36c57655e7017a2c57a678f9da21925d2ea156"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Šobíšek Ladislav",
+    "zprava": "Miloši, miluji tě stokrát více, nežti, kteří ti posílají jen jeden halíř",
+    "ks": "0308",
+    "vs": "201801",
+    "ss": "",
+    "poznamka": "Šobíšek Ladislav",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "a2b40b711cd92ea832164b8d4c153b0ed3baa41695698646e0ffac7b087ab393"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "6,66 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bc. Němec, Jan",
