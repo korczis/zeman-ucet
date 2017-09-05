@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Machovský Robert",
+    "zprava": "Nechcete už umřít? To byste pro tuhle zemi byl národním hrdinou, ba dokonce spasitelem.",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Machovský Robert",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "4a16e05b25b3b114e427e766ebc2acf6fba06e5877aa193914e6f635b3cfca03"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Machovský Robert",
+    "zprava": "Mam dotaz: Toho Mynare vyhodite kdy? Nechcete vsem zase cely volební obdobi lhat do ksichu? ...proste jsilhar Milousku a to lidem vadi",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Machovský Robert",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "6708958c30456ab72d7c7dab999e5b1060d22ed57f7c010b4d708c91b26cbe6f"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Ivan Doležel",
