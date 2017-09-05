@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Szop, Jan",
+    "zprava": "?????? #WeGotThis",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "?????? #WeGotThis",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f5664085dee768f75fb7c94514c505c03c9df09917fadadd0b3e598691799dad"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cechel, Radovan",
+    "zprava": "Tady mas haler pro stesti. Doufam, ze nebudes chamtivy a das polovinu Ovcackovi.",
+    "ks": "",
+    "vs": "2010",
+    "ss": "",
+    "poznamka": "Tady mas haler pro stesti. Doufam, ze nebudes chamtivy a das polovinu Ovcackovi.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fb46f6d6306bd7e5c317d0e2cce5f65ef9726d9aa6447e1328bd512e1c473e7e"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "19,22 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pantálek, Jáchym",
