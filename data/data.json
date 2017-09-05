@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Dvořák Václav",
+    "zprava": "Pane prezidente, vážím si Vašeho vlastenectví,vydržať !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dvořák Václav",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "5fb5eea583ad6332f73e092dbdfe2d472b69b594bb1056ce8a4ccb58734d1f2a"
+  },
+  {
+    "datum": "2017-09-05",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Mareš Jan",
+    "zprava": "o zdorovye tovarishcha",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Mareš Jan",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "a37d5da04c00937dbe9a602721eab16e70b63b21fccf21c8e36939c90415f696"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Žák David",
