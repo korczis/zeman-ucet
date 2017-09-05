@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hrubý, Lukáš",
+    "zprava": "Zluty Draku, pujdes k nam pracovat?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zluty Draku, pujdes k nam pracovat?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "279c20e461f7f1f8aca332e69514d1791ea0a86d64927ef27eca069edfcd3f39"
+  },
+  {
+    "datum": "2017-09-05",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Malý, Lukáš",

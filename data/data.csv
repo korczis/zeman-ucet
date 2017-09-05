@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Hrubý, Lukáš","Zluty Draku, pujdes k nam pracovat?","","","","Zluty Draku, pujdes k nam pracovat?",0.01,CZK,279c20e461f7f1f8aca332e69514d1791ea0a86d64927ef27eca069edfcd3f39
 2017-09-05,"1,00 CZK",Platba převodem uvnitř banky,"Malý, Lukáš",Na cestu na Vysočinu,"","","",Na cestu na Vysočinu,1.0,CZK,9abc793a42ab13213237d267bb3c2c72ac707347fdcd9363da2dc6c759e01bd7
 2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",925b280ff29960e1b2b5373aa00ac19325886fafd55f9ba201ac6193d672bdfcd78054ec30fc82786fef05dacd4bd4d8,"",6107,641716,925b280ff29960e1b2b5373aa00ac19325886fafd55f9ba201ac6193d672bdfcd78054ec30fc82786fef05dacd4bd4d8,0.01,CZK,20e9412f3cdab0c996a2f69bd47ee3f2e2a5061a33a176dabe7af5d32db3e74c
 2017-09-05,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",update dbo.Country set President_ID = null where Abbreviation = 'CZ',2558,5526316134,4359036938,update dbo.Country set President_ID = null where Abbreviation = 'CZ',0.01,CZK,908d5a8764bfbe4cd0e11104cf8e4989cb1467203c53b39dc209e3c6a817d3f1
