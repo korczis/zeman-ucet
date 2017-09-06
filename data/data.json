@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Mokroš, Luděk",
+    "zprava": "Hodně zdraví pane prezidente",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hodně zdraví pane prezidente",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "36c29a777a372382f0ebe793fcbc99f73449b62809f1eda376d336999ac1a57a"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ondrka, Karel",
