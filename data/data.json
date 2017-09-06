@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HAVAS MICHAL",
+    "zprava": "Bara prdi",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HAVAS MICHAL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b4c030f0d718232478356eea602c3fb8395b97681a81960a9278c1ad430f8073"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šleger, Vladimír",
