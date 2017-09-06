@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "DVOŘÁKOVÁ ANNA",
+    "zprava": "HODNĚ ŠTĚSTÍ A PEVNÉ NERVY.",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "DVOŘÁKOVÁ ANNA",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "f17fd8f20da344e3e47988b0be6287d3f97230f878f1e00678675947f83ec109"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TOMS JAKUB",
