@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,11 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kebo, Petr",
+    "zprava": "MILOŠI... Tož na ten konec... Slivovice je nej!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MILOŠI... Tož na ten konec... Slivovice je nej!",
+    "mnozstvi": 1.11,
+    "mena": "CZK",
+    "id": "d7daeb10a9113c90b90bc5dddbaf0806c94fcb70d5786b7016cb7898e8b81359"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Mauer, Lukáš",
