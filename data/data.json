@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "300,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Hermánek, Jiří",
+    "zprava": "Proti všem sprosťákům a na podporu Vašeho vítězství, pane prezidente",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Proti všem sprosťákům a na podporu Vašeho vítězství, pane prezidente",
+    "mnozstvi": 300.0,
+    "mena": "CZK",
+    "id": "83c07dd7a19d20680751add888917e99912203e4f677e72690859482cd6f83b9"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kinovič, Ondřej",
