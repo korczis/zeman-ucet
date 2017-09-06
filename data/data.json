@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,18 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ONDRASIK DAVID",
+    "zprava": "Cest bratn!!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "ONDRASIK DAVID",
+    "mnozstvi": 0.18,
+    "mena": "CZK",
+    "id": "7354694a0c14b98e0ba997bb22e23a83a95dd83efa02035cfddc9bec453eae4c"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šejba, Jakub",
