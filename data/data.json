@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "2,80 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jiří Cihelka",
+    "zprava": ", je treba sundat z ostudy kabat",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jiří Cihelka",
+    "mnozstvi": 2.8,
+    "mena": "CZK",
+    "id": "17a5dea503cb6605eccf963412c18c2caad3c9ec52ca721e488acb551394dd2f"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,07 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Bohinský, Matěj",
