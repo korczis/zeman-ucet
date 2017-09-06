@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Košíček, Petr",
+    "zprava": "****** Halířek k halířku, a za chvilku je na flašku ! A že těch bude ve Vysočinské noře po 8.březnu na zapíjení žalu a vzteku třeba ! ******",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "****** Halířek k halířku, a za chvilku je na flašku ! A že těch bude ve Vysočinské noře po 8.březnu na zapíjení žalu a vzteku třeba ! ******",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d51fd5378042d7bb67a71d4e3a9cee77a9908822c1745f0e51a13929e55685da"
+  },
+  {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
