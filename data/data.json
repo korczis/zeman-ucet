@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Lukáš Štětina",
+    "zprava": "Vsechno nejlepsi k narozeninam, bracha. At se ti ta achilovka brzy zahoji.",
+    "ks": "",
+    "vs": "8111620",
+    "ss": "",
+    "poznamka": "Lukáš Štětina",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f3f9897a9b7b2b3ff9f31f9826c20848cda8b7da0c9d7f504dcdf6a692c95a02"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Szurman, Radek",
     "zprava": "______www.instaluj.cz______ ...aby jsme nebyli pozadu",
