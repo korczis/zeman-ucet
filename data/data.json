@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Michálek, Zdeněk",
+    "zprava": "Na kampaň prezidenta republiky republiky",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na kampaň prezidenta republiky republiky",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "a34078a4de0bc404c962814acfd850ecf5a586db2d2d6d606af6d60bdc1b5405"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Režný, Martin",
