@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing Drahota, Jan",
+    "zprava": "Na, kup si něco na sebe",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na, kup si něco na sebe",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1ee597a604d3192e11454a18536a9cd4a8c355a0906d33c0fab37d185213caa5"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Faltejsek, Michal",
