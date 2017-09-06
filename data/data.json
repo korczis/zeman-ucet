@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ONDREJ KONOPASEK",
+    "zprava": "/ROC/NOT PROVIDED//NABIZIM SLUZBY S //VATEBNIHO FOTOGRAFANAPISTE MI NA  //FB:WWW.FACEBOOK.COM/O.KONOPASEK",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ONDREJ KONOPASEK",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "3b3ff95913b9223163defa11c2b315890c7b22f7e2820c971c476336bfa6d5cb"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hrubý, Lukáš",
