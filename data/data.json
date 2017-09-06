@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HUDCOVA RADMILA",
+    "zprava": "pro Vase priznivce:http://neovlivni.cz/databaze-proruskeho-obsahu-od-a-z/",
+    "ks": "0558",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HUDCOVA RADMILA",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "574f9c15fa54e3ccb8d49d02c6393fcd3d87a75a964a83ef733bfbb2c0c0edb4"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HUDCOVA RADMILA",
+    "zprava": "Rozdelte se i se svymiproruskymi poradci.",
+    "ks": "0558",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HUDCOVA RADMILA",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "8d1d70ab6edc76d753f2a9da37d398e61c043e20b097b90efc38b9f9f1f14458"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VRBA MICHAL",
+    "zprava": "Mily Cendo! Vsechno nejlepsi k narozeninam, preje tvoje parta.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "VRBA MICHAL",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "1e07e0be16626d6b6394a03654640e7f9dbd02b48c00cc942f2da701527f63b4"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Filák, Martin",
