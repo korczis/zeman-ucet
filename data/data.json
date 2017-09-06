@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VOJTĚCH BLAŽEK",
+    "zprava": "Opravdu smutný konec :-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "VOJTĚCH BLAŽEK",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "4b64d6eea41900f855a057431c51439577813c8b70f5a927b0387c40bcb2808c"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "PATOČKA LUKÁŠ",
