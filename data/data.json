@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "3,14 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Rous Jiří",
+    "zprava": "Držím palce, Kundo :D",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Rous Jiří",
+    "mnozstvi": 3.14,
+    "mena": "CZK",
+    "id": "4d2f3a6a2c11ee8a750189125f2999659f3e24c0592b19ec87b188664323a7e7"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Ondřej Zlevor",
