@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Tománek, Jan",
+    "zprava": "NEJLEVNEJSI REKLAMA",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "NEJLEVNEJSI REKLAMA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e15f144cd158d1ec835209bed4d04ed1bfd346cc1ec3dc59362fe67be42e4d56"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Aron, Jiří",
