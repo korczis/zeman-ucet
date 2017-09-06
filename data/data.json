@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "2,55 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vnutorny ucet banky",
+    "zprava": "/DO2017-09-06/SPCZ2701000001153951240257,KLEGA               DANIEL,Na becherovku",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vnutorny ucet banky",
+    "mnozstvi": 2.55,
+    "mena": "CZK",
+    "id": "a04ddc3d890b5560f2a5d804f7d19e119acfc22172cda48f562097a2cd0e0b63"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MIROSLAV JESTRABIK",
+    "zprava": "AHOJ, POSILAM NEJAKY DROBNY NA CESTU Z HRADU",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MIROSLAV JESTRABIK",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "15db20667ad809935523f8f479dac896cf3ef7586d4e18efb01a7cc356ceb2f5"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mgr. Bošková, Hana",
+    "zprava": "Krskova Kristyna: LHÁŘ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Krskova Kristyna: LHÁŘ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "80f2eede918dde9ec192ddf6efe52df3d24514f8f7abf3d61668556e43553093"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "2,80 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jiří Cihelka",
