@@ -15,6 +15,20 @@
   },
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Faltejsek, Michal",
+    "zprava": "Fotograf - www.michalfaltejsek.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Fotograf - www.michalfaltejsek.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0a3006091b56c25cbce3b2eade13f86b4987aa3d4bf6106266934c8a4cbb9ba5"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ROBERT PASTULA",
