@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Mauer, Lukáš",
+    "zprava": "***************************************************************",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "***************************************************************",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "76031ae6d41a0570385d320ec5ec9d42f7afbf754712e1eb8de5e7197287e9d1"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,50 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tvrdý, Jaroslav",
