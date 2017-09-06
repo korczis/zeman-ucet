@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Drahorád, Václav",
+    "zprava": ":-)",
+    "ks": "",
+    "vs": "1967",
+    "ss": "",
+    "poznamka": ":-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "83f2afa4d82a809ac1256dca889c15242f86fb9e2f8883d00d1b6ac4a84a4652"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KLAMPÁR MAREK ING.",
