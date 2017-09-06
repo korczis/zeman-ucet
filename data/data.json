@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Novotný, Jiří",
+    "zprava": "1000 Kč je za 10000 halířových blbců. Jejich výlevy mají hodnotu poslané částky. Pošlete alespoň pořádný prachy sráči...:-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "1000 Kč je za 10000 halířových blbců. Jejich výlevy mají hodnotu poslané částky. Pošlete alespoň pořádný prachy sráči...:-)",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "26c9776dc947f363b674116b6c3c10c80ab54cf3b0fd2b4ea43bdc2f8cbfe4e1"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šalda, Luděk DiS.",
