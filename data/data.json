@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Hlaváč Adam",
+    "zprava": "/DO2017-09-05/SPPosielam pozdrav zo slovenska. Užit e v zdraví. Na stra y!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hlaváč Adam",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "3291ed1f5e90b8fb4aed8b4a33926665dadb8166d3cabd4a2c7d4bbeb341a243"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Haszprunar, Robert",
