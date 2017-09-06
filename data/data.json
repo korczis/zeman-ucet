@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Lanc, David",
+    "zprava": "catinthebox.cz Lepsi kocka v krabici nez Zeman na hrade",
+    "ks": "",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "catinthebox.cz Lepsi kocka v krabici nez Zeman na hrade",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "b57a42f5e2672d7479de50dbd75f25ef563d9243b2c8d9a804fbc460b4648b07"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Roubínek, Lubomír",
