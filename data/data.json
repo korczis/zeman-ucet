@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dybal, Tomáš",
+    "zprava": "Luxusní doplňky z masívu a jiné designové výrobky ze dřeva najdete na Fb: Dyboart nebo www.dyboart.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Luxusní doplňky z masívu a jiné designové výrobky ze dřeva najdete na Fb: Dyboart nebo www.dyboart.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "36db5dc6cd8d75088bb97011d72276938a62d98b6c613e10e183299ec40e1db9"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Zárychta",
     "zprava": "Mate radi Sovetsky svaz?Odpoved-ano 2 bodyOdpoved-ne 2 roky",
