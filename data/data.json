@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kalbáč, Martin",
+    "zprava": "Prodám PVC parapety https://dum.bazos.cz/inzerat/79124817/Interierove-PVC-parapety.php",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám PVC parapety https://dum.bazos.cz/inzerat/79124817/Interierove-PVC-parapety.php",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0da32ff9553a99211f0550a5dabdb5400fcee6aba47f84095e5e5faebc1e9822"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Novotný, Jiří",
