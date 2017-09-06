@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Aron, Jiří",
+    "zprava": "Posílám pod vlivem dnešní reklamy na Váš účet na BakalaHned.cz. Děkuji za Váš statečný postoj a za projev 27.5. v Lidicích.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Posílám pod vlivem dnešní reklamy na Váš účet na BakalaHned.cz. Děkuji za Váš statečný postoj a za projev 27.5. v Lidicích.",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "e5a326b94576e1e56990c9c923229a7ce9a5d077c554b62bdccdb2831c374785"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Škoch, Karel",
