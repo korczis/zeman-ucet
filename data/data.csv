@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-07,"10,00 CZK",Platba převodem uvnitř banky,"Kolář, Martin","na Nejedlýho zájezdy, auta a tak vůbec ať se má dobře kluk šikovná a může hodně vyhrnovat límeček u pola.","","","","na Nejedlýho zájezdy, auta a tak vůbec ať se má dobře kluk šikovná a může hodně vyhrnovat límeček u pola.",10.0,CZK,bdd24d78aa99ef2a4aa90b6ba120e8debf9597e398ffb5feef29910fb43383ea
 2017-09-07,"0,01 CZK",Bezhotovostní příjem,STERC JIRI,Www.slevoking.cz,"",0,"",STERC JIRI,0.01,CZK,d988ade8af6bb01545fd7b5a652f35b4001ae0a3950c9ec308b7abe346aad592
 2017-09-07,"500,00 CZK",Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 402242 05.09.2017 c 80016JIR**O*COCEK,0000,0,"","CESKA POSTA, S.P.",500.0,CZK,52c36175ae80cc4219cd0ea6bb7f8b469e00986b5631977e8a162051912e803f
 2017-09-07,"1 000,00 CZK",Bezhotovostní příjem,DVORAK TOMAS,"","",0,"",DVORAK TOMAS,1.0,"000,00",dd5246499d72992fa30bdfd2245017832609539e8266a2a9c985b402b875fa6b

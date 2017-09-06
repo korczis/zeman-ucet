@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "10,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kolář, Martin",
+    "zprava": "na Nejedlýho zájezdy, auta a tak vůbec ať se má dobře kluk šikovná a může hodně vyhrnovat límeček u pola.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na Nejedlýho zájezdy, auta a tak vůbec ať se má dobře kluk šikovná a může hodně vyhrnovat límeček u pola.",
+    "mnozstvi": 10.0,
+    "mena": "CZK",
+    "id": "bdd24d78aa99ef2a4aa90b6ba120e8debf9597e398ffb5feef29910fb43383ea"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "STERC JIRI",
