@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KLOZ MICHAL",
+    "zprava": "slovni fotbalMILOS/SPRATEK/KARIKATURA",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KLOZ MICHAL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "724c6d7195ec49aa6756a30c3f57ddf419408371453b8a04143119921b4a8cf7"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Radil, Jan",
     "zprava": "Tady nakrmíte Aligátora s SOS tlačítkem klidně na celý rok! Arrrrgh! Sleva 5 % na ILIN.cz, kód \"ZEMAN\"",
