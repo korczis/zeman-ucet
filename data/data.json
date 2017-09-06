@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,11 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Adámek, Miloš",
+    "zprava": "www.original1869.pl",
+    "ks": "0001",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "www.original1869.pl",
+    "mnozstvi": 1.11,
+    "mena": "CZK",
+    "id": "34d943312cc48e6838ad4a66b81dd544671029a7552702f49a034dfe810cf00d"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Roubínek, Lubomír",
