@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TUCKOVA MARIE",
+    "zprava": "www.apartmentmarie.czubytovani - Lipno nad Vltavou",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "TUCKOVA MARIE",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "1bf786c0837bbcf4d1b2efe30cfb2e72d42ca980fe0c6b9ca4094ced029c706d"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "LOUCKY KAREL",
