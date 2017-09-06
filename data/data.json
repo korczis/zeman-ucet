@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,99 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Meloun, Zbyněk",
+    "zprava": "Miloš Zeman vytvořil nejlevnější marketingový kanál těchto dnů...doporučuji přispět všem klientům Nastartujto.cz :-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloš Zeman vytvořil nejlevnější marketingový kanál těchto dnů...doporučuji přispět všem klientům Nastartujto.cz :-)",
+    "mnozstvi": 0.99,
+    "mena": "CZK",
+    "id": "5fac9f37bd89e1d52670db5cb7d624b1e3874f395eb7b2bcde46c304855d8b0c"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Maléřová, Aneta",
