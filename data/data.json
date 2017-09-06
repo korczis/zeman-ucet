@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "37,86 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "RYBÁŘ RADEK",
+    "zprava": "POSÍLÁM EKVIVALENT 100 RUBLŮ, ŽIVOT V MOSKVĚ NENÍ ŽÁDNÝ MED... DAZVIDANJA!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "RYBÁŘ RADEK",
+    "mnozstvi": 37.86,
+    "mena": "CZK",
+    "id": "a9fd67ebde28bee10dabaccd658842916a2415bfd5e365da3cb33df38ffe3940"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KLOZ MICHAL",
