@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PAVELKA KAREL",
+    "zprava": "Na granule Ovcackovi.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "PAVELKA KAREL",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "0f82266481236146d1d2dec8b33fd4a3957869c9e30b32af8a775ff876ac9ff8"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Maléřová, Aneta",
