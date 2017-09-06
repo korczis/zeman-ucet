@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Hošek, Milan",
+    "zprava": "Pro ješitného pomstychtivého věčne opilého lháře",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro ješitného pomstychtivého věčne opilého lháře",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7b3ebdcb6326e9e25f2371b9e2a865430cdb4dab900e90b2a9bd0610e8f08935"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "300,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Hermánek, Jiří",
