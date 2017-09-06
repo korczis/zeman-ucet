@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kříž, Martin",
+    "zprava": "Jestli bude národ takhle soudržný i při volbách do PS a odstaví po Milošovi i Bureše,pak nemám o tuhle republiku strach a zase bude dobře.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jestli bude národ takhle soudržný i při volbách do PS a odstaví po Milošovi i Bureše,pak nemám o tuhle republiku strach a zase bude dobře.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ae0bc4c5a2e88d0893600c9529d14daeee2a5e475f81dcd72065b3ba91b13f98"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "200,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "DVOŘÁKOVÁ ANNA",
