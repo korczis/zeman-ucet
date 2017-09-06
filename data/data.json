@@ -43,6 +43,20 @@
   },
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Roubínek, Lubomír",
+    "zprava": "",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5cab29f53dd78d88a29649156ed18f6e8364091ddca3c0a0d551e3cb4ae8a506"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čapek, Jiří",
