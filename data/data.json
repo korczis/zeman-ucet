@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ROBERT PASTULA",
+    "zprava": "ZA 0,01 EUR JE POPLATOK 20,00 CZK :-) TAK POSLITE AJ NASMU MAFIANOVI FICOVI 0,01 CZK",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ROBERT PASTULA",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "9de2a975780790c6268fef1bc5379a4c0f2dfc98cfb57eac6218c5cdd9380122"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kubík, Tomáš",
