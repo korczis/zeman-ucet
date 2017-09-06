@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Faltejsek, Michal",
+    "zprava": "Fotograf - www.michalfaltejsek.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Fotograf - www.michalfaltejsek.cz",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "ab9a3fd9c6902395f0a3002cebf10448306a5919f6d61e7059b4db9e44efeb58"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HUDCOVA RADMILA",
