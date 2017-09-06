@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "JEŘÁBEK ZDENĚK",
+    "zprava": "KOUPÍM LESY V ČR TEL:775997413KOUPÍM LESY V ČR TEL:775997413",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "JEŘÁBEK ZDENĚK",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "587ae54bb0d36f76d611782f3af7b916e54c4b69f866ca63a5e714dab26d2be9"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Klicpouch, Luboš",
     "zprava": "www.spinneri.cz - největší eshop se spinnery v ČR. Staň se i ty spinnerem se spinneři.cz",
