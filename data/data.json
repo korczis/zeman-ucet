@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Duschková, Karolína",
+    "zprava": "Chcete mít důstojné fotky - na rozdíl od pana prezidenta? Sleva 10% pro všechny pravdoláskaře do konce roku 2017. www.kdfoto.cz",
+    "ks": "0666",
+    "vs": "01012018",
+    "ss": "",
+    "poznamka": "Chcete mít důstojné fotky - na rozdíl od pana prezidenta? Sleva 10% pro všechny pravdoláskaře do konce roku 2017. www.kdfoto.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9f1797ca0ace4fe34dcaa11db74739858850edcc23f6654b81ad4f80c8d4db05"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bauerová, Ivana",
