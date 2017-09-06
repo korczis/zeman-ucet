@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Klicpouch, Luboš",
+    "zprava": "www.spinneri.cz - největší eshop se spinnery v ČR. Staň se i ty spinnerem se spinneři.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.spinneri.cz - největší eshop se spinnery v ČR. Staň se i ty spinnerem se spinneři.cz",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "2063488095b28a0aaaf5ce436b8c88d857367f80b72f73c8cb85bb1e805a0416"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "LADISLAV LAPACEK",
