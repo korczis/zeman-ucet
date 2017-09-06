@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zach, Jan",
+    "zprava": "Smart team zdravi kundu! ;-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Smart team zdravi kundu! ;-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5ba87384b9bff9723416a18260fbece7d02b7ea8144ace88b19bf76bc827dacf"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,18 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ONDRASIK DAVID",
