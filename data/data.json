@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Halbich Tomáš",
+    "zprava": "Milouši jsi ostuda, ale je s Teboua tvou ovečkou prdel",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Halbich Tomáš",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "8824a33d1e49d28f1bf4bb5dc11db24a9c98111f7f70807fac919e062ed37310"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "20 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Petr Lindaur",
+    "zprava": "Petr Lindaur Ústí nad Labem, na kampaň prezidenta republiky",
+    "ks": "",
+    "vs": "19631127",
+    "ss": "",
+    "poznamka": "Petr Lindaur",
+    "mnozstvi": 20.0,
+    "mena": "000,00",
+    "id": "3efd95dec1060e93bf2b12b581a2e343b7bff5a24e3b3ecce0a08d59772242b8"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "PAVELKA KAREL",
