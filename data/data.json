@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rodr, Pavel",
+    "zprava": "TOTO JE MAX.ČÁSTKA KTEROU JSEM OCHOTEN PŘISPET NA BURANA A HULVATA JAKO JE ZEMAN",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "TOTO JE MAX.ČÁSTKA KTEROU JSEM OCHOTEN PŘISPET NA BURANA A HULVATA JAKO JE ZEMAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7a052d315b61dba177ea81dbb8dbd57d53111e9076523b8ac2c74d1e6981fd6d"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Martin Dědek",
     "zprava": "wwwhostelsevencz  Chcete levně přespat v Praze?  Nabízím ubytko v Holešovicích SLEVA 10% pro antizemanovce HOSTEL SEVEN",
