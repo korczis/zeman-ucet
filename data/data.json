@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Matijko, Marián",
+    "zprava": "Ppci zábava :D ..sa smejem ako blázon :D tak prispejem aj ja na vseľudovú umeleckú tvorbu",
+    "ks": "",
+    "vs": "1025",
+    "ss": "2035965",
+    "poznamka": "Ppci zábava :D ..sa smejem ako blázon :D tak prispejem aj ja na vseľudovú umeleckú tvorbu",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0bcfced5f840cd31510c3d37ac75734e3d228da87a229810285af3a403a1be2b"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Michálek, Zdeněk",
