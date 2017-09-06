@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KRSKOVA KRISTYNA",
+    "zprava": "Co slovni fotbal? Vykopavam -Milos",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KRSKOVA KRISTYNA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e8ae660b53da881f489ac7ab98850cd0277ed556be6eb12c134989c4c1410ee9"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Roubínek, Lubomír",
+    "zprava": "Přijďte si vybrat svého domácího mazlíčka - NEKUPUJ! ADOPTUJ! 17.9. na ranči ve Veselí nad Moravou",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Přijďte si vybrat svého domácího mazlíčka - NEKUPUJ! ADOPTUJ! 17.9. na ranči ve Veselí nad Moravou",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ac04d2abf79fc2ddbf747cc5a6881e1a34fbcfb3f5d6608098da3b09b6d931d8"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Adámek, Miloš",
