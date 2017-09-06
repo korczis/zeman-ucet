@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,50 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tvrdý, Jaroslav",
+    "zprava": "Standashow - tento ucet je ted v primem prenosu na standashow ;-))",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Standashow - tento ucet je ted v primem prenosu na standashow ;-))",
+    "mnozstvi": 0.5,
+    "mena": "CZK",
+    "id": "df6f8f77a14ae2ee0fb8d155a2f5ddeb22f347b806a19b10ca92dd3f52cca5b1"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Berdych, Václav",
