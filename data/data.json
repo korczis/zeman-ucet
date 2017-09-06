@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MICHAL LEBEDA",
+    "zprava": "Michal Lebeda, Králův Dvůr",
+    "ks": "",
+    "vs": "19770708",
+    "ss": "",
+    "poznamka": "MICHAL LEBEDA",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "89af34429e71405e2bf3ab6f3618caa2fc5dabb2b576237fc754ee52e9c0a565"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kofroň Petr",
