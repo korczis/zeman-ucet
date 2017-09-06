@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vaše autodoplňky s.r.o.",
+    "zprava": "Sháníte popelníček? Žádný problém... https://www.vaseautodoplnky.cz/popelniky-do-auta/",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Sháníte popelníček? Žádný problém... https://www.vaseautodoplnky.cz/popelniky-do-auta/",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5a7dc643a621c970811e68b011e9470b8058c3986bd3874e33ec2afd4f59dd95"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "3,14 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Rous Jiří",
