@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Milan Kovar",
+    "zprava": "gumova rukavice pro Ovcacka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Milan Kovar",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "a92513bbd31e885983fd08e78a5f70579fde034dda9e315a905bd8488658589f"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZUZANA PIFKOVA",
+    "zprava": "Prispevek na okamzity odchod do duchodu od cele nasi rodiny. Ostudy uz bylo dost.Stydime se za Vas, CCB.248.UE.184396",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ZUZANA PIFKOVA",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "af5be0b00b7514480f7a5c7e598a34db56bf21d81d80016d66db26fb82f627b0"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hořava, Tomáš",
