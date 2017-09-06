@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Maléřová, Aneta",
+    "zprava": "na seminář č. 4 \" tragické důsledky lží pro politiky, aneb lidé lháře nemilují\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na seminář č. 4 \" tragické důsledky lží pro politiky, aneb lidé lháře nemilují\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "62e404de7247d80c32adc5e737b9135fba0fd2992689058dfa53585256b7f76d"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,99 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Meloun, Zbyněk",
