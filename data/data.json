@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Maléřová, Aneta",
+    "zprava": "na zlepšení anglické výslovnosti slova pussy, trénujte prosím před zrcadlem i s ovčáčkem",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na zlepšení anglické výslovnosti slova pussy, trénujte prosím před zrcadlem i s ovčáčkem",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "220e4adbc03fc6bf70ac823cd5c129f76776065ff488a60fedccc7ce437dc51a"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kubínová Barbora",
