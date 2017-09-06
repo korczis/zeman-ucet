@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ROSA RUDOLF",
+    "zprava": "Se Sovetskym svazem na vecne casy a nikdy jinak :-(",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ROSA RUDOLF",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ed7574e87e2d56585ff05017c1dcc3ab224df506691170c0730a68975bb68707"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPENEC PAVEL",
+    "zprava": "At uz se nemusim v zahranici stydet a omlouvat. Love you, Cath! xo",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "KOPENEC PAVEL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1b9f2da67506c2773cca30ca6d1a963efc81e10a115249926efaa1188d40cdbc"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TUCKOVA MARIE",
