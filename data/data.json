@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STERC JIRI",
+    "zprava": "Www.slevoking.cz",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "STERC JIRI",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d988ade8af6bb01545fd7b5a652f35b4001ae0a3950c9ec308b7abe346aad592"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "500,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CESKA POSTA, S.P.",
