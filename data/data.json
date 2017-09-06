@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kašpar, Jiří",
+    "zprava": "výplata za činnost proti lidem české republiky, zbytek přijde obvyklou cestou z číny, ruska a od agenta bureše",
+    "ks": "2018",
+    "vs": "1968",
+    "ss": "1989",
+    "poznamka": "výplata za činnost proti lidem české republiky, zbytek přijde obvyklou cestou z číny, ruska a od agenta bureše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d72d4387704481721f86ff428100f4836a45408d98ce2ac26107dd9e5fbabfbc"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Novotný, Jiří",
