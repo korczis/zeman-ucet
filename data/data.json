@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bauerová, Ivana",
+    "zprava": "Dar k volbám 2018, pro  Vás p. Zemane,protože  máte rád svoji zem a občany.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dar k volbám 2018, pro  Vás p. Zemane,protože  máte rád svoji zem a občany.",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "328e2d6dfed7456753d1ae7314cc2b68db0c1c2842e615a3e58e90ad209e3c73"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Rozen, David",
