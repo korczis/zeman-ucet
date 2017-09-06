@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MICHAL JANĺCEK",
+    "zprava": "I <3 you, zlo!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MICHAL JANĺCEK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b50ab2c66df9a618b0a13a1cf0597585e0c6e4f5d463d9e2a8efa79a5418bf72"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Politika a Svědomí, z.s.",
     "zprava": "www.5faktoru.cz STŘEDA 6.9. V 18:00 na Malostranském náměstí. Přijďte všichni! PROČ? PROTO!",
