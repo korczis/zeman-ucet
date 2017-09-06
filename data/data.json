@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Voříšek, Vojtěch",
+    "zprava": "Až prodáme 100 letenek s promokódem MILOŠ, pošeleme panu Prezidentovi jednosměrnou letenku kamkoliv si budete přát! <3",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Až prodáme 100 letenek s promokódem MILOŠ, pošeleme panu Prezidentovi jednosměrnou letenku kamkoliv si budete přát! <3",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "e0dfa26242c310c1dd159ac0caf80554d8738fda889107769cf27be96f28459e"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mužík, Zdeněk",
