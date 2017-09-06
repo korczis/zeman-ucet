@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šleger, Vladimír",
+    "zprava": "Jak se do lesa volá, tak se z lesa obdobné \"bonmoty\" ozývají...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jak se do lesa volá, tak se z lesa obdobné \"bonmoty\" ozývají...",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "37f505f0757ed0b499b26bd4c05604b97f7f5692939f7edd59850d9f7120ac54"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Zajíc, Roman",
+    "zprava": "Tenhle \"chat\" bude Kohák s kozou Vlastou těžko trumfovat.",
+    "ks": "0347",
+    "vs": "10247",
+    "ss": "14785963",
+    "poznamka": "Tenhle \"chat\" bude Kohák s kozou Vlastou těžko trumfovat.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "902fd65d86e3e239eb801d81d2337a5123e532811c63042531bdd05b69e8cb89"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Podzimek, Petr",
