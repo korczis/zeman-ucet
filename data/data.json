@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-06",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Machač, Marek",
+    "zprava": "http://www.coolpujcky.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.coolpujcky.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c99c5c71c5866052bdac760e0dc2aeb80afca0dd1fca2dd90c8769d81535a2d0"
+  },
+  {
+    "datum": "2017-09-06",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ZAK MICHAL",
     "zprava": "Jeste ze mam cislo na Milose, heleztratil jsem se v lese, mohl bys me prijit vyzvednout? Ty vis kde...",
