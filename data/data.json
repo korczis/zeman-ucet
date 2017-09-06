@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Radil, Jan",
+    "zprava": "Na dovolenou si nezapomeňte passy a dostatek energie. Sleva 5 % na ILIN.cz, kód \"ZEMAN\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na dovolenou si nezapomeňte passy a dostatek energie. Sleva 5 % na ILIN.cz, kód \"ZEMAN\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "87a8cffa82cfd89d823451056aab78e32a68b641cbcc903c8d3c19ca9f7321fe"
+  },
+  {
+    "datum": "2017-09-06",
     "castka": "2,55 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Vnutorny ucet banky",
