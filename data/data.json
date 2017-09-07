@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "NOVAK PETR",
+    "zprava": "Peroutka, Brody, Viroza, Kunda, Mlynarova proverka, lhani,hulvatstvi, alkoholismus...to uzby snad stacilo, ne??",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "NOVAK PETR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "dc71fcacc16c654fd964c450d6e1f491c97f00409b6eb91d799f607f974b4495"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Podzimek, Petr",
     "zprava": "www.funchem.cz děkujeme p Ovčáčkovi za reklamu na jeho FB a nabízíme mu 5% provize z obratu z objednávek s 15% slevou a známým kódem s",
