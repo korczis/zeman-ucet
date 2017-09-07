@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mrlina, Martin",
+    "zprava": "Nazdar Mejlo, ty hovado zasraný zapni si toho aligátora, nebo ti schovám toho rozpitého bechera, nemůžu se ti dovolat. Jirka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nazdar Mejlo, ty hovado zasraný zapni si toho aligátora, nebo ti schovám toho rozpitého bechera, nemůžu se ti dovolat. Jirka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "369c5b380d6f739293f45cff27d5d4232ef9ebd6f82f22d500304d0130c1db87"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Jaroš, Luděk",
