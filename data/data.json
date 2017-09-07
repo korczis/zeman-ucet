@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ČOPF MARTIN-ALEX",
+    "zprava": "ZDRAVÍM DOMINIKA FERIHO",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "ČOPF MARTIN-ALEX",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8518e15b451711cc12e50181c9383948cb8aa9e3f94b817d4e8216ff7726d42b"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOHOUTEK JAN",
