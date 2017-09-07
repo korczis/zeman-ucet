@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kuneš, Tomáš",
+    "zprava": "www.ozdoby-stromky.cz - Vánoce jsou tady dámy a pánové",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.ozdoby-stromky.cz - Vánoce jsou tady dámy a pánové",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "aef6569c5b1dda840a0378389f7d84e9924843d195206d2913ead30ba13d0f03"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "36b13cb29315a314deac4241a4fd8e4ed0c9bd9cd80523c1cdeea7b0427eb079"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "10,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kolář, Martin",
