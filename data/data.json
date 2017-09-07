@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "3,21 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Řehoř, Miroslav",
+    "zprava": "Az prijdou Rusaci, tak vsichni visime na kandelabru, pratele.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Az prijdou Rusaci, tak vsichni visime na kandelabru, pratele.",
+    "mnozstvi": 3.21,
+    "mena": "CZK",
+    "id": "1dd034fdfa20ba5636eb23a876b70847d9d569a9e826d01b36fab821b9e5eb5e"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
