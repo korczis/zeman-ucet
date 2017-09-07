@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Nečas Jan",
+    "zprava": "Nemocný ožralo,už to zabal!Děkuji.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nečas Jan",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "36a605ccd448ba46e1f8bf2883e3f1437bb3e031be217a410c47fca88b33faf7"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ZIKMUND MICHAL",
