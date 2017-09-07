@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Ing. Igor Petrman",
+    "zprava": "50% Mylousovi na Antabus, 50% Jyrkovi na podporu v nezamestnanosti",
+    "ks": "0000",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Ing. Igor Petrman",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "715c7a3c73d7c2049c5a2daf932350e41ebf8856a74d6762b531d8477e76409c"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vladan Nelešovský",
+    "zprava": "Ruský pohůnek Zeman - ať táhne v únoru do Kremlu a upije se tam! Stydím se za tohoto ožralu!!",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vladan Nelešovský",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7126b1151a10bc553da0c5527b8c983780a6c6ef15a758acf31c3543cb8c0ce5"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Pavel Verner",
+    "zprava": "Milouši,chtěl bych být Tvůj kamarád. Nezapomeň na mně 28. října",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pavel Verner",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "87573d825aecf91a143113c00ae596a5a2cbc46c1afb931003d73ff43599f48f"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "200,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Olejníková, Jitka",
