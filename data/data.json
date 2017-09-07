@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vlček Michal",
+    "zprava": "Miloš Zeman je ostuda. FB skupina Nechceme, aby byl Miloš Zeman znovuzvolen prezidentem ČR",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vlček Michal",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "f220e06b2f976ec11e9ef69d7ddd076d12d383ffdd983602188184a435f4819e"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Klišová Lenka",
+    "zprava": "kdy bude v cr  zakl.prijem,pro",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Klišová Lenka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9129921816e0721ef5b4bfd53bb46dc88508660009464a87c205c782d19353ad"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "100,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Zídka, Zdeněk",
