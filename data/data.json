@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,31 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Havlíček, Milan",
+    "zprava": "Haléřové zarovnání, samozřejmě pro Ovčáčka ;(",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Haléřové zarovnání, samozřejmě pro Ovčáčka ;(",
+    "mnozstvi": 0.31,
+    "mena": "CZK",
+    "id": "b63c690702f1ddb4018c0cc86d75bd1dd64c4d066242b93ec838b1332adb66aa"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "101,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Šanda, Martin",
