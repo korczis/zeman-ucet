@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Zídka, Zdeněk",
+    "zprava": "hodně zdraví pane prezidente, máte hlas celé naší rodiny,  co nejméně blbečků s 0,01",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "hodně zdraví pane prezidente, máte hlas celé naší rodiny,  co nejméně blbečků s 0,01",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "38c81d8b34531ce3b02de68986415be88f1c1e8f35119e41ce02b527471ce1d9"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOLACEK LUBOMIR",
