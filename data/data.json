@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PANIKOVA ZDENKA",
+    "zprava": "Prispevek na volebni kampan",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "PANIKOVA ZDENKA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f385a840b0f7b9fcf3fe16754a6888f23928f8d37e51318f66d6a51e3cbda70d"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mgr. Zajíček, Petr",
     "zprava": "Mohl by mi aspoň tady někdo konečně vysvětlit, proč Šemík uháněl k Radotínu a Horymír k Neumětelům?!",
