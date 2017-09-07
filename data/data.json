@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "WOHLMUTH PAVEL",
+    "zprava": "pro Milose na cestu zpet na Vysocinu a pro Ovcacka na podporu az budeza par mesicu na pracaku",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "WOHLMUTH PAVEL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2551da20bbd8a2d9f2dd4de327d64c52fa9e6bceccf81e1ac0896d780868d57c"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "POHANKOVA DALIE",
+    "zprava": "Tondo hele, funguje to!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "POHANKOVA DALIE",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b2086ca4d95079b0b6f7427d0bdda1240261e5920b43c8a6d935f560d90362be"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Vlček Michal",
