@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Markes, Radovan",
+    "zprava": "www.relyef.cz sorryjako",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.relyef.cz sorryjako",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bfe9a39c042e323d6c3f930b03ffdc55c3f4df65580fd6eb1b55e56f12e57c87"
+  },
+  {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
