@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Mgr. Slabihoudek, Jan",
+    "zprava": "Banán se SPRÁVNĚ loupe jedině OD BUBÁKA.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Banán se SPRÁVNĚ loupe jedině OD BUBÁKA.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f9b1bb15eb175ac2542377fe3626da74ec2696c0907742f27adf17428b77ce26"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "3,14 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kamír, Pavel",
