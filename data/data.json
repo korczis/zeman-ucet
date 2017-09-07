@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kaplan Zdeněk",
+    "zprava": "na cestu do Číny , ale jen cestu tam, ne zpátky.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kaplan Zdeněk",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "1a419b1db399dfb8760492adfbe9c831f43c50a7a0500c4ff19e28318603f32a"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CELKO VLADIMIR",
