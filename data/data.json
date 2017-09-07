@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "20,18 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Polák, Adam",
+    "zprava": "SLEVOVYKUPON.NET slevove kupony zdarma, sleva!",
+    "ks": "",
+    "vs": "2018",
+    "ss": "",
+    "poznamka": "SLEVOVYKUPON.NET slevove kupony zdarma, sleva!",
+    "mnozstvi": 20.18,
+    "mena": "CZK",
+    "id": "c91aeb7e3bd5f600b75ac8f8e9cfc76b5226c16324d6df2a9569adff1f8e0eb4"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Košíček, Petr",
