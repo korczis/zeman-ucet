@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Sekerák, Zdenko",
+    "zprava": "Nešlo odolat. ??????????? Drahoš na hrad.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nešlo odolat. ??????????? Drahoš na hrad.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "ff4ab67c5de91902256dcae14ef56d0ff5db7c6cdd9cea2c886075f09f0bf187"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Koch, Damián",
