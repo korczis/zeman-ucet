@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,33 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Fojtík, Petr",
+    "zprava": "-- / .- / --- / -.-. / . // --.. / . / -- / .- / -. /",
+    "ks": "",
+    "vs": "1968",
+    "ss": "",
+    "poznamka": "-- / .- / --- / -.-. / . // --.. / . / -- / .- / -. /",
+    "mnozstvi": 0.33,
+    "mena": "CZK",
+    "id": "195b36fd339f93163f17e9f8ed19164cba33451a09a47e0296cab8e7d4eb8341"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Řehoř, Petr",
