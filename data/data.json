@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "105,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ondra, Radek",
+    "zprava": "Za Mamedia/Mageo od Walthera pane prezidente.",
+    "ks": "",
+    "vs": "123",
+    "ss": "",
+    "poznamka": "Za Mamedia/Mageo od Walthera pane prezidente.",
+    "mnozstvi": 105.0,
+    "mena": "CZK",
+    "id": "90098e5432876706530f952c91dab9b1d9c11aa889ecafa902e4e9ccdf3f2b63"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "20,18 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Polák, Adam",
