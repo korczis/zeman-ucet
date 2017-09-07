@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Homová, Romana",
+    "zprava": "Vážíme si vás pane Prezidente- vyhrajte- Manželé Homovi",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vážíme si vás pane Prezidente- vyhrajte- Manželé Homovi",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "de8d402348783aab5f3c6bb56cb439240e73edb45320a8576eedaf04f769f815"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
