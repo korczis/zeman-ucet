@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "20,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Raschmannová, Eva",
+    "zprava": "Vážím si Vás pane Prezidente - vyhrajte - Eva Raschmannová",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vážím si Vás pane Prezidente - vyhrajte - Eva Raschmannová",
+    "mnozstvi": 20.0,
+    "mena": "CZK",
+    "id": "164846552194badd773df7217022c22a5debc25d6e29800905292b0fa6869e94"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mrlina, Martin",
