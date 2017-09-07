@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPENEC PAVEL",
+    "zprava": "kundo!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "KOPENEC PAVEL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e9afb9512e6776b290b04857f9f91a65e1ef9799119a6b45e49ff39c5a31d208"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "500,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VOJTĚCH JAROSLAV",
+    "zprava": "Díky pane Prezidente.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "VOJTĚCH JAROSLAV",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "1e60db3af8acea0963c85c68dcfe228ec93decd08bcf0eb3a966e539828f0067"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ŽÁK LUKÁŠ",
+    "zprava": "Orangutan (Pongo) je rod hominida žijící na ostrovech Borneo a Praha.Tělo pokrývá dlouhá červenohnědá srst, kůže má šedočerné zbarvení.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ŽÁK LUKÁŠ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0bfd8945e33b7f7e8ac3b97ee6a863469bb8385ac767b4def07653f978ea3d0e"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Machovský Robert",
