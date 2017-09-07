@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vorel, Martin",
+    "zprava": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "7278c27f2c63d3ca16a3d6e38fabbe5dbe5a85e87e4e6c390b6a3ca2f0dcdef5"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kuneš, Tomáš",
