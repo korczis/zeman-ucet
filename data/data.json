@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Režný, Martin",
+    "zprava": "Přeji si jiného prezidenta. Už brzy !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přeji si jiného prezidenta. Už brzy !!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "89cb85923a89e814358a0f12e721f22e156e6112b49146453abb258a8e8c1a21"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Smart Protection, s.r.o.",
