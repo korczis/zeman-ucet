@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Knapčík, Filip",
+    "zprava": "***BOKEH*** si dal kefír a teď už se mu zase vrací návaly",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "***BOKEH*** si dal kefír a teď už se mu zase vrací návaly",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "5d208ac5fd31d632b2ab8a64b2fc96ab0d23312e04797a037e2ff1427ab897a2"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Režný, Martin",
