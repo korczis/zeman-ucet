@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Spolehlivá s.r.o.",
+    "zprava": "Přispěvek utraceni nemocneho ovčačka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přispěvek utraceni nemocneho ovčačka",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "b43d2f21c1c5bf222c84e87b66634b670bd14e5f1dbac8a0d703f5be78673946"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "250,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Medlínová, Olga",
