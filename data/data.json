@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "vlevo dole,vlevo dole",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "197aa5ec1ad2e25b94e0b72b1bdb86849b43096eefa3f9c79b6762bacde2b1f6"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Šormová Simona",
+    "zprava": "Stále stojíme na Vaší straně, jen tak dál. MUDr. Šorm Zdeněk, Ph.D.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Šormová Simona",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "3809de1df64c9ad9c757f4fe320006969245e3da2f9dfcc179502070ede6a1aa"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TRUNEK PETR",
+    "zprava": "Odejit a nevracet se !!!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "TRUNEK PETR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4dd10940c0668f21ec583b7cdd1aa2babefcad6f5c71c1b2d8c8463876270386"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "WOHLMUTH PAVEL",
