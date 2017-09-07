@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hack, Robin",
+    "zprava": "\"><script>alert();</script> Zkusit se to musi! :D",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "\"><script>alert();</script> Zkusit se to musi! :D",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "895d03ecb67a020fc3506d772352ae87d9c28b3048f774e746eac8159daff743"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "PANIKOVA ZDENKA",
     "zprava": "Prispevek na volebni kampan",
