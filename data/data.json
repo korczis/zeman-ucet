@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čapek, Jiří",
+    "zprava": "www.forex-factory.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.forex-factory.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "60a73207951233deb0fe58e5ec7cbe2c16dcbc6794c6e488f6423c6c6d64e9b0"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,11 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Maršálek, Jan",
