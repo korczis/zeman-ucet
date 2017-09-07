@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. arch. Bartoš, Ladislav",
+    "zprava": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz  -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "ks": "2417",
+    "vs": "20132017",
+    "ss": "1326548790",
+    "poznamka": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz  -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9d910fb8c1401e0dcf0ce1204efd0a67d682f2af25c995d9fdbb2c7c3099c10c"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Matoušek, Matěj",
