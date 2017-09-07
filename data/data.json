@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZUZANA PIFKOVA",
+    "zprava": "Nevite,zda budou dne 17.9. jezdit rano taxi od vlak.nadr. ve Studence k Natodays? Zpravu nebo kontakt prosim na mail natoday seznam.cz Diky,",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ZUZANA PIFKOVA",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "2a042035f73d4f81d01ae0e2d36b17c92db4d25fa64e9a100ba95bcf4ebe0f29"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "10,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Lacina, Tomáš",
