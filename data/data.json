@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Podzimek, Petr",
+    "zprava": "Sleva 15% na www.funchem.cz při zadání hesla \"Miloše už ne\"!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Sleva 15% na www.funchem.cz při zadání hesla \"Miloše už ne\"!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1136feabe67845fe3cd9bef6239f97753ec3b659d07c71d0f6661c2550b14276"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Radim Habarta",
     "zprava": "Prispevek na nove hradni panoptikum.",
