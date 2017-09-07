@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Prošek, Radovan",
+    "zprava": "BETTINGSERVICE.CZ - sázkové poradenství zdarma",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "BETTINGSERVICE.CZ - sázkové poradenství zdarma",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d66850e4c747e8f412d3644a651877280314bfa131a41703e15ae24ffc078ad0"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,31 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Havlíček, Milan",
