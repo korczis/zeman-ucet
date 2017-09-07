@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jaroš, Luděk",
+    "zprava": "Neposílám 0,01 jen proto, že to hulvátství a buranství, virózy a blitky v klenotech trochu kompenzuje postoj k muslimským migrošům",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Neposílám 0,01 jen proto, že to hulvátství a buranství, virózy a blitky v klenotech trochu kompenzuje postoj k muslimským migrošům",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "27ec084890365438456ba180f5c4ef3bca4b66426859f6a255d80fc8c74cfe6e"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Černý, David",
