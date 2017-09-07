@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kříž, Milan",
+    "zprava": "Od Milanka a Bayinky pro Miloska",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Od Milanka a Bayinky pro Miloska",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "fe28cf25aa9997fdde0c970f009030945cb1a75862ed07c322c4956f8dd61208"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
