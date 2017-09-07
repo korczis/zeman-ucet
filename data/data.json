@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HUDCOVA RADMILA",
+    "zprava": "Na predvolebni vyjezdy do kraju(Sibire apod.). Vezmete to pres Peking a zamavejte volicum krteckem.Ukazte lidu i svou vlidnou tvar !",
+    "ks": "0558",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HUDCOVA RADMILA",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "ded9e632a75cb68f468a04c5797ce06e6bbcce9d557ad730d8024ea304b060f7"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
