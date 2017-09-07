@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "Nezlobte se, že vás zase obtěžuju, ale já jsem si vzpomněl, že jsem se vás nezeptal, jestli máte Peroutkův článek. Máte Peroutkův článek?",
+    "ks": "5589",
+    "vs": "4455894472",
+    "ss": "7884566696",
+    "poznamka": "Nezlobte se, že vás zase obtěžuju, ale já jsem si vzpomněl, že jsem se vás nezeptal, jestli máte Peroutkův článek. Máte Peroutkův článek?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e04044f8397c4bf4b41d3d47f4f8f8e3e1256e22cc161cc96033f7f36096b97a"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "3,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vacek, Damián",
