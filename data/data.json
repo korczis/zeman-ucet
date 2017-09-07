@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "101,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Šanda, Martin",
+    "zprava": "Malý příspěvěk od mladíka z Prahy. Reprezentant názorů většiny občanů. Držím palce",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Malý příspěvěk od mladíka z Prahy. Reprezentant názorů většiny občanů. Držím palce",
+    "mnozstvi": 101.0,
+    "mena": "CZK",
+    "id": "7db19f914fdcf976ecfb37de861aee7657796c7114c214880e5b0757d43a4228"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kočová, Jana",
