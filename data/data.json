@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Samek Petr,Ing.",
+    "zprava": "Na jednosměrnou letenku do Číny/Ruska pro hradního pána a jeho tým.",
+    "ks": "0558",
+    "vs": "9",
+    "ss": "",
+    "poznamka": "Samek Petr,Ing.",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "761d475cbc3d5ff72ff95f19954848a962a4125f2df7a836dd472453c3881894"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Buzek Emanuel",
