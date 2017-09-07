@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOHOUTEK JAN",
+    "zprava": "NA ŽRÁDLO PRO MLUVČÁČKA",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KOHOUTEK JAN",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "4c7f18af2778d17ccfbd3ca771eb3c9618f3f6a8a686ae8051a4669740ebc491"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KRAJÍČEK TOMÁŠ",
+    "zprava": "PRODÁM PSA, MOŽNO I V PŮLKÁCH",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KRAJÍČEK TOMÁŠ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5bce7027c532908ef583c8eaa95f0d8e033de5cc8a555a8acd375430ccb1c36a"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ELIÁŠ JIŘÍ",
+    "zprava": "VŠE NEJ K NAROZKÁM SEGRA :-)",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "ELIÁŠ JIŘÍ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0a420cf6f69f56410857eeb88a95c2ff539d9f5453abe8d0ab14bfef75564746"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MATUŠKOVÁ ANDREA",
