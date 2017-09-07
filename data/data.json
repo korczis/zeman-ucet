@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "3,21 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Hanzal, Milan",
+    "zprava": "Příspěvek na portrét od Fr. Ringo Čecha",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Příspěvek na portrét od Fr. Ringo Čecha",
+    "mnozstvi": 3.21,
+    "mena": "CZK",
+    "id": "c83839e322a81c7dbae629f665e47e9b9c037b3b217bb75aaed8157c35c3ef55"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Svoboda, Jiří",
