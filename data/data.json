@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZIKMUND MICHAL",
+    "zprava": "Snazte se mit, pane Ovcacku, trochu smyslu pro humor, nebudte tak zapskly. Skodi vam to.",
+    "ks": "0933",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "ZIKMUND MICHAL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ba38226a60052bab3e5dffe28c3f79e6814c0b42072d9aeabdee73b59258397e"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Crha, Zdeněk",
     "zprava": "Vsechny bolseviky vcetne naseho zminovaneho prezidenta meli roku 89 postavit ke zdi a postrilet a ne je nechat dale vladnout",
