@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "10,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Lacina, Tomáš",
+    "zprava": "Na krmení pro Ovčáčka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na krmení pro Ovčáčka",
+    "mnozstvi": 10.0,
+    "mena": "CZK",
+    "id": "7740defcac3bdd7ce69d62e92407ce5e1f7dea87b58d8f4084dee87ab978269a"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Sklenář, Petr",
