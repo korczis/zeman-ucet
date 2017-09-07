@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Žídek, David",
+    "zprava": "Nechci Vas za prezidenta.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nechci Vas za prezidenta.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "092cf3a1703467ff44dc1fa0b30d32166d1ff347aa5ef6ec34e3557baa320b37"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vojáček, Petr",
