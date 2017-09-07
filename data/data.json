@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "3,14 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kamír, Pavel",
+    "zprava": "Na podobiznu od F. R. Čecha.",
+    "ks": "",
+    "vs": "321",
+    "ss": "",
+    "poznamka": "Na podobiznu od F. R. Čecha.",
+    "mnozstvi": 3.14,
+    "mena": "CZK",
+    "id": "e694a3ac811a84c872e40bc4c64d933b83240896f124c61677a0ac9cd43f33f1"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sedláček, Petr",
