@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MÜLLER LUKÁŠ",
+    "zprava": "http://instantnikrasa.blogspot.cz FASHION - BEAUTY - LIFESTYLE BLOG",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MÜLLER LUKÁŠ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "24a533392fde38c15d52acc095566c0d9900901731afc86d3f3a07586035cbbe"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Liška, Jiří",
     "zprava": "Vařím rizoto a nemohu se rozhodnout, jaké použít koření. Kari? Vegetu? Obojí? Poradí mi někdo?",
