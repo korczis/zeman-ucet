@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,08 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Nedvěd, Jakub",
+    "zprava": "Od Jakuba Nedvěda",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Od Jakuba Nedvěda",
+    "mnozstvi": 0.08,
+    "mena": "CZK",
+    "id": "345873209454f0039b4a2c47c95c97f18b563bc000701f4edeeb02e483709017"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "777,77 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Řehák, Václav",
+    "zprava": "Díky za podporu nás důchodců i za tuto příležitost pochopit, kolik pitomců se kolem nás pohybuje",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Díky za podporu nás důchodců i za tuto příležitost pochopit, kolik pitomců se kolem nás pohybuje",
+    "mnozstvi": 777.77,
+    "mena": "CZK",
+    "id": "7e054975122d1e381b4d6a6b246aea8660819edf1eab9c041bd42b490b52391d"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dybal, Tomáš",
