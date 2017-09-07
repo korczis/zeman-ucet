@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1 000,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kočová, Jana",
+    "zprava": "Žasnu nad inteligencí halířových přispěvatelů... :-)  :-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Žasnu nad inteligencí halířových přispěvatelů... :-)  :-)",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "aca0e63265826bbbb2886c27574914129a1a03cdea5ac593322f5ff6fb87a66a"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Knapčík, Filip",
