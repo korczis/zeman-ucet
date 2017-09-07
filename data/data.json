@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "250,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Medlínová, Olga",
+    "zprava": "nedejte se",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "nedejte se",
+    "mnozstvi": 250.0,
+    "mena": "CZK",
+    "id": "e8b53b6e337a9eed5e386d5f1672add6de7f0432d719ded4ad5cef757b38e9e5"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Prošek, Radovan",
