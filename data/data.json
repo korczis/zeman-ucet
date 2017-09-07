@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
+    "ks": "",
+    "vs": "2901002036",
+    "ss": "4250896737",
+    "poznamka": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "977db2d1c62cf609eae890e0beeaf5f9e53403873eca70f537e4fda106e74550"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1 000,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Homová, Romana",
