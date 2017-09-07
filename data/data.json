@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CELKO VLADIMIR",
+    "zprava": "Do tretice, odpustte, ostreji: JopTvoju mat!!!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CELKO VLADIMIR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "97103fe00b6e0ef08e64045d85dcc58309029e946fd349224e70b8521078ebe3"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ZUZANA PIFKOVA",
