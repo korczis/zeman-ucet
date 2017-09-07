@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Sklenář, Petr",
+    "zprava": "shanim mazdu mx5 v slusnem stavu, idealne okoli brna, do 80t: mojeposta8@gmail.com",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "shanim mazdu mx5 v slusnem stavu, idealne okoli brna, do 80t: mojeposta8@gmail.com",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "105e623561fd892ba04f203adb267bd49236cf5a61e552d3d93366009a70123c"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "999,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Podhola Miloslav",
