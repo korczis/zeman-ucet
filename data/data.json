@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vladyka, Tomáš",
+    "zprava": "Je v pátek volejbal? Tom",
+    "ks": "0307",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Je v pátek volejbal? Tom",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "863b4ee362a61907021fd7bdebe04406eb91ad712ad0632d9a9fe013c6202410"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "EDUARD STEHLIK",
     "zprava": "NEJ TS3 SERVER: SUSHI-TS.TK",
