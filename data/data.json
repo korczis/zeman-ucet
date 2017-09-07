@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rybka, Pavel",
+    "zprava": "Tupost je tupcova ostrá zbraň, hlupák hlupáka chválí.",
+    "ks": "8557",
+    "vs": "3546543543",
+    "ss": "6354164354",
+    "poznamka": "Tupost je tupcova ostrá zbraň, hlupák hlupáka chválí.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1b28e1ab30779dcdb13b8de18f0fc9241944ea3ec4c431731b8130dcd22dbc3d"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,05 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOPICKA JAN",
