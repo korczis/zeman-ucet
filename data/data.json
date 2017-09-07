@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "3,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vacek, Damián",
+    "zprava": "vrátil jsem flašku od Grešláka, byla by za to sice jedna točka matu a rohlík, ale podpora pana prezidenta je důležitá",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "vrátil jsem flašku od Grešláka, byla by za to sice jedna točka matu a rohlík, ale podpora pana prezidenta je důležitá",
+    "mnozstvi": 3.0,
+    "mena": "CZK",
+    "id": "05ca95300c4d053574686461d5f6726aeb24c4322f5216908c9707048a437b5d"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,08 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Nedvěd, Jakub",
