@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CELKO VLADIMIR",
+    "zprava": "Na podporu zlodeju, vrahu a jinychvylupku. Zdravi Jihoceska kavarna.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CELKO VLADIMIR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9d48447c597f294ec25124a6f598c1356ab64b3a23c387147aa3722fb660ad29"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HABAL PETR",
+    "zprava": "stale stojime na Vasi strane, pokracujte po spravne zvolene ceste doc.MUDr. Petr Habal, Ph.D.",
+    "ks": "0308",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "HABAL PETR",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "4f0f799946b83f043ed6416283ac57e25c681c8d80dfb5eb08f3e5164ff5ebfb"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čapek, Jiří",
