@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rybka, Pavel",
+    "zprava": "Bazar myloš: Koupím 2 kusy použité pneu 155/65r14. Vzorek alespoň 4mm. Letní nebo zimní. Praha. Spěchá.  liquidvapor@seznam.cz",
+    "ks": "8557",
+    "vs": "425452852",
+    "ss": "4886877578",
+    "poznamka": "Bazar myloš: Koupím 2 kusy použité pneu 155/65r14. Vzorek alespoň 4mm. Letní nebo zimní. Praha. Spěchá.  liquidvapor@seznam.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e9030f0d48548e21ded5890123292340dfd447a6d3efb427fe7874727f65d304"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,33 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Fojtík, Petr",
