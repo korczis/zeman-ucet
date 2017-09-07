@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Matoušek, Matěj",
+    "zprava": "Posílám korunku ty puss(y)no :-D",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Posílám korunku ty puss(y)no :-D",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "856bce2e546b2cee3353f6088b5d36ed58179fed3e1ce7835f4f7df3d7cbdf01"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "20,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Raschmannová, Eva",
