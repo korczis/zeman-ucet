@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-07",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Vladík, Tomáš",
+    "zprava": "FEATURE REQUEST - http://www.milosuvucet.cz/ - přidat drill down do grafu \"četnost částek\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "FEATURE REQUEST - http://www.milosuvucet.cz/ - přidat drill down do grafu \"četnost částek\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "acd3f1b317781c22ab1014c32a73a8d0c4f0548171a16061e0964b5ec7df86fb"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MÜLLER LUKÁŠ",
     "zprava": "http://instantnikrasa.blogspot.cz FASHION - BEAUTY - LIFESTYLE BLOG",
