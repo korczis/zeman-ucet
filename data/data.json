@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Smart Protection, s.r.o.",
+    "zprava": "S heslem \"Miloše do koše\" dostane v Kafe king, Na bojišti 14, praha 2 skvělé espresso zdarma. Akce platí do konce jeho mandátu. Kafeking.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "S heslem \"Miloše do koše\" dostane v Kafe king, Na bojišti 14, praha 2 skvělé espresso zdarma. Akce platí do konce jeho mandátu. Kafeking.cz",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "aedcc9a3db6bf72c75aa803b5d89737f9a86ba69424da12449e5997007db71a0"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čížek, Oldřich",
