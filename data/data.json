@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Černý, David",
+    "zprava": "Já se z té školy zblázním. Ale nevzdám se",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Já se z té školy zblázním. Ale nevzdám se",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "25c4e6a084e1e4d2fd1cdcce376863fa0b98ec28debcacdb47248b32de5d7a55"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kříž, Milan",
