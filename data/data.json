@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vladyka, Tomáš",
+    "zprava": "Hele, já chápu, že se ten Skype tomu debilnímu Microsoftu sype, tady je to zábavný, ale nepřejdeme třeba na Viber? Zatím mi jede ok...",
+    "ks": "0307",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hele, já chápu, že se ten Skype tomu debilnímu Microsoftu sype, tady je to zábavný, ale nepřejdeme třeba na Viber? Zatím mi jede ok...",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5c73b5a1b2babfeada6a58ac40bb9aadd623a0644c8c958a19d94d95d0a6bf2c"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "3,21 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hanzal, Milan",
