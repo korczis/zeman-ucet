@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bradáč, Jiří",
+    "zprava": "Nevíte někdo kdy bude na hradě další gay party?Za Forejta tam prý hodně sněžilo :-)))",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nevíte někdo kdy bude na hradě další gay party?Za Forejta tam prý hodně sněžilo :-)))",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "46e0635c58b29f35b5a87a587b0914e19f6c5e8ef16fc707e175d06adcc5c167"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kratochvíl Pavel",
