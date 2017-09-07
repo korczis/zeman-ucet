@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kratochvíl Pavel",
+    "zprava": "Na prášky proto viróze",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kratochvíl Pavel",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "621bc1a4aed1a2f77e14b2f43b2c02eb95f63400f29804f7a921de266d18f5c6"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
