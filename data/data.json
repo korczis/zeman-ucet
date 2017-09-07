@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Machovský Robert",
+    "zprava": "Kavárna zdraví hospodu :-) ...mimochodem, vzdělání není hřích",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Machovský Robert",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "183ff325099ef0c483be7ab1b3a7c9362a07ca66e17528874fe5bb215e7df064"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPECKY DAVID",
+    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOPECKY DAVID",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8385a7e66ac052baa48060051b15bc3420a3d2a3af60a06d6fb3807ba088f882"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3a999562c7c1f54faadc26d7286c6bd3736eb2f4470e8df6310cab6f5356be18"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOUBEK LUKAS",
