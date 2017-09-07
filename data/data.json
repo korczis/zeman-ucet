@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rektor, Tomáš",
+    "zprava": "Z hlediska vyššího principu mravního...",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Z hlediska vyššího principu mravního...",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9891d1aa42308291fe8c94757f0e76a6b30dc1d672ace14c7d70beca1c849426"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kroča, Michal",
