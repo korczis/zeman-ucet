@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Koch, Damián",
+    "zprava": "Hledám slečnu na ne vážnej vztah, jenom bych strašně moc chtěl říct >Seznámili jsme se přes Zemanův bankovní účet.< (18/19 let, 720 613 344)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hledám slečnu na ne vážnej vztah, jenom bych strašně moc chtěl říct >Seznámili jsme se přes Zemanův bankovní účet.< (18/19 let, 720 613 344)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fdcb5108b1843048705b7bbf617d55089527d251d9fb234ddb3a270e39dfa214"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "3,21 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Řehoř, Miroslav",
