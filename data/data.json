@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kratochvíl Pavel",
+    "zprava": "Panu Mynářovi na prověrku",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kratochvíl Pavel",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "c0f676012a6a9937bec951d1313d24516de0dc07f12f2b890cddf9b8ce2874e9"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kaplan Zdeněk",
