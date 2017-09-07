@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Řehoř, Petr",
+    "zprava": "Dal bych vsechno co mam, abych se na tebe \"ovare\" uz nemusel koukat",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dal bych vsechno co mam, abych se na tebe \"ovare\" uz nemusel koukat",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "53856b104bbd0aa2290c80e934a2b38945bb54fbe24e18a28acbd985f02a1cd2"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Láník, Pavel",
