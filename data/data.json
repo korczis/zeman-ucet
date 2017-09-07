@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "NUSKOVA EVA",
+    "zprava": "Panu prezidentovi s uctou.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "NUSKOVA EVA",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "f440556fd96778e85ee62f54a273d5f6e5362a8ce5df9bb90048c6e3ac5daaeb"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PAVELKA KAREL",
+    "zprava": "@Hocz Tech vasich 10 korun Zeman propije, nez by jste rekl svec, pokud mu nebudete drzet pesti :-)",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "PAVELKA KAREL",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "9970d15989923b78df3fd67ca61eadccf301c1679d7102e8fa46a1914fd83e39"
+  },
+  {
+    "datum": "2017-09-07",
+    "castka": "300,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BURIANOVA MARIE",
+    "zprava": "Posilam prispevek z duchodu, verim,ze vyhrajete, preji hodne zdravi pane prezidente.",
+    "ks": "0558",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "BURIANOVA MARIE",
+    "mnozstvi": 300.0,
+    "mena": "CZK",
+    "id": "7dae13bd00b64a894a5ce209b2ef4b41e1358ee44df33edb8b5053f30f2ef619"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Bečka Marek",
