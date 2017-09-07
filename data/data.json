@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Miarková, Dominika",
+    "zprava": "Pravda a láska zvítězí nad lží a nenávistí.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pravda a láska zvítězí nad lží a nenávistí.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "30577ddf2787e2b7b714722dc5edf868c900103acf94a652fc27907137b6a09d"
+  },
+  {
+    "datum": "2017-09-07",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Nečas Jan",
