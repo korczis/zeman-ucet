@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Spolehlivá s.r.o.",
+    "zprava": "Mačkáš mi miloše debile",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Mačkáš mi miloše debile",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "0d9073924ba0831312e9c9a15d3bb3bd2a388097c108e07f977de44521df7acc"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kaman, Martin",
