@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Luboš",
+    "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "ks": "0007",
+    "vs": "7",
+    "ss": "7",
+    "poznamka": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "92799f18b5f19cacfdc435bb7ff129ade7bb0bc0d537ced6d295f29270084b4e"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "72406b72a4869b8cc7132f53dd44e61b33bcd4e51a41a415d93b895d3845c0bd"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Hobza, Otakar MBA.",
+    "zprava": "GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "471ee6a8336b97a35c12379fd5764065cbd62186b01f97f05d494d5753064ad3"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Jatič, Jasmin Jan",
