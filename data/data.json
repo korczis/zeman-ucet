@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Obdržálek, Jiří",
+    "zprava": "Vydrželi jsme to 5 let, do boje s Miloušem se nikdo pořádnej moc nehrne, tak to budem muset vydržet i těch dalších 5 let. Tumáš a rozjeď to!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Vydrželi jsme to 5 let, do boje s Miloušem se nikdo pořádnej moc nehrne, tak to budem muset vydržet i těch dalších 5 let. Tumáš a rozjeď to!",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "0f58a6ff3a6c318b11e9c00f9c6fb773c81611db747440e51d3dea5aa991128f"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Heidelberger, David",
