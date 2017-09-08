@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "5 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jícha Liboslav,JUDr.",
+    "zprava": "Pane prezidente, posílámtaké malý příspěvek a máte jisté hlasy celé rozvětvené rodiny.Věříme Vám. Ostatníloutky Vám nesahají ani po kotník",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jícha Liboslav,JUDr.",
+    "mnozstvi": 5.0,
+    "mena": "000,00",
+    "id": "6ba1761b1cf3835e7e96db4414e812686be58352c4c934ba9c5a05f647d98233"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPECKY DAVID",
+    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOPECKY DAVID",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4e1c41bace92915a0beedc76f5d4c8737c4990631607a486b2aa9b133ede8971"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c034f5594b8d11ba4165c38d380bf9644d49ce547739e4dd1c8b8c4e9bcad550"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HOLIS ALAN",
