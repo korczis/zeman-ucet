@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,50 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vorel Ivan",
+    "zprava": "cestovné na Vysočinu",
+    "ks": "",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "Vorel Ivan",
+    "mnozstvi": 0.5,
+    "mena": "CZK",
+    "id": "55375c9d9924a86979d5d79df9f065103cc67ca9b3e4bd515905349f5cf74481"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Přikryl, Štěpán",
