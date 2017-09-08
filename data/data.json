@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šleger, Vladimír",
+    "zprava": "republiku si pozvracet nedáme",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "republiku si pozvracet nedáme",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "dcdd69a23106befb6c2c873fc4e111abf9953de34d290ed5b2b38d4472ce3d10"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Král, Milan",
