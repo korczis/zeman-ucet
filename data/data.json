@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "10,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "TRANE KM s. r. o.",
+    "zprava": "Na vítězství",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na vítězství",
+    "mnozstvi": 10.0,
+    "mena": "CZK",
+    "id": "bf62ff40baffd69be4a7c3232fae81e832fc9081b11509899e152cc86ad35a27"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Heidelberger, David",
