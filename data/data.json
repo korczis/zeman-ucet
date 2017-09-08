@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kocanda, Stanislav",
+    "zprava": "Prodej levných učebnic na www.burzaucebnic.cz!  Dobře se učte a může z vás být i prezident! Hodně štěstí v novém školním roce!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodej levných učebnic na www.burzaucebnic.cz!  Dobře se učte a může z vás být i prezident! Hodně štěstí v novém školním roce!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "428c0cc40410351494e6a017cf0d9827eb1adc0ead036aa86499b0c8ddee5b41"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "2,55 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KUČERA ROMAN",
