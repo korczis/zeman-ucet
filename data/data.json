@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Král, Milan",
+    "zprava": "zítra odpo kolo, večer pivo v Cisterně, už se těším :-) Nazdar",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "zítra odpo kolo, večer pivo v Cisterně, už se těším :-) Nazdar",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "4461073e398a7b6a93c44a23103adb4c1498360562f6a2472f6248080c49da55"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dvořák, Jaroslav",
