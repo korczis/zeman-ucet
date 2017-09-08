@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,79 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Armeninov, Viktor",
+    "zprava": "Prosím, nebuď taková",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prosím, nebuď taková",
+    "mnozstvi": 0.79,
+    "mena": "CZK",
+    "id": "92440f86a2993855342d8177a9f7cc166601313986ea33cf7a64db2857c70a67"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sloupenský, Michal",
