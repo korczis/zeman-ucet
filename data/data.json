@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "2,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Armeninov, Viktor",
+    "zprava": "Kurva špatnej chat",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kurva špatnej chat",
+    "mnozstvi": 2.0,
+    "mena": "CZK",
+    "id": "bf916996c8d1768cfe02e26bb9fd5e284851216882a52cdc05de5da57d89133a"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Laurin, Tomáš",
