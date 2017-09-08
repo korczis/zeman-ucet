@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bc. Fabo, Michal",
+    "zprava": "Pozdrav zo Slovenska.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pozdrav zo Slovenska.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "43c0428dc27ad57b2670ef1c3addeadacd4fc9449c89b528ab2ec0b1b34e4cfc"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čapek, Jiří",
