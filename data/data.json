@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Simota, Martin",
+    "zprava": "Hledám ženu či dívku - trochu při těle -  do polívky. Jako druhý chod bude Ovar.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hledám ženu či dívku - trochu při těle -  do polívky. Jako druhý chod bude Ovar.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e514260cd55590d4d164fd77a99df1f4ff28613d403db998c629780e7fc516f2"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Obdržálek, Jiří",
