@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-08",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "DROBNY DANIEL",
+    "zprava": "Na nove tetovani. Doporucil bychnapis kunda v azbuce",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "DROBNY DANIEL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "32c3a04555c576e970922bef859f478e19706849f1de4ac2a1fcb3f73c193d06"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "HONCO s.r.o.",
     "zprava": "Napsali jsme Milosovi pisen http://bandzone.cz/ceskatrojka",
