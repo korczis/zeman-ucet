@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "HONCO s.r.o.",
+    "zprava": "inzerát - kdo chce koncert dříve, přijďte do Vagónu příští čtvrtek www.bandzone.cz/dickobrass",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "inzerát - kdo chce koncert dříve, přijďte do Vagónu příští čtvrtek www.bandzone.cz/dickobrass",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "77705263dd5e7bca0c749bdda55db395d819eb1628ea3725c4b6452c036a9824"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "500,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Weber, Tomáš",
