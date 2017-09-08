@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-08",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KLEMENS PETR",
+    "zprava": "prispevek od duchodce na letenku doMoskvy nebo Pekingu a pro blaho nas  duchodcu se uz nevracej",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KLEMENS PETR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b776e207ed0a4d7444da6b268b93a71c3609d3583e15af2a2feea1083c38cf68"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Němec, Jakub",
     "zprava": "JAKpoznáteZKUŠENÉHOmakléře?ŽEtohoPRODALstejně,jakoMILOŠnezřízeněVYPIL.ProdámNemovitostZaNejvyššíCenu.FotoDronem.KonzultaceZdarma.777760980",
