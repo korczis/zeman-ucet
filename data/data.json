@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-08",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Slabá, Zuzana",
+    "zprava": "chytrydiskuter.wordpress.com Vaše snaha zesměšnit a na čemkoliv načapat každého diskutujícího, který s vámi nesouhlasil, byla ubohá.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "chytrydiskuter.wordpress.com Vaše snaha zesměšnit a na čemkoliv načapat každého diskutujícího, který s vámi nesouhlasil, byla ubohá.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "dde0e554124430a8b11e424d1c5d118ecec55bdedd0ef14bb4a67e0565b94c4f"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Lukáš Koutník",
     "zprava": "byl to zahradník?",
