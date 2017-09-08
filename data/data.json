@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Laurin, Tomáš",
+    "zprava": "MyShirt.cz - SLEVA NA TRIKA A MIKINY 18% Aktivuj na této adrese http://bit.ly/miloš-ti-dá-slevu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MyShirt.cz - SLEVA NA TRIKA A MIKINY 18% Aktivuj na této adrese http://bit.ly/miloš-ti-dá-slevu",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "90aa3b887ba27b4f19510ae46a3cb839e86a1aa0a1bea099b8c2348963f41bed"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,79 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Armeninov, Viktor",
