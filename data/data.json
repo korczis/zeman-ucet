@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Weber, Tomáš",
+    "zprava": "Přeji zdar a sílu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přeji zdar a sílu!",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "11ee76c6fbf0527ea1924987ffab16503650b882e8fd914d617dae330b420e34"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "HONCO s.r.o.",
