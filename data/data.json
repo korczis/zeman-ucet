@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Slabá, Zuzana",
+    "zprava": "Jsme poslední země, kde se dávají miminka do kojeneckých ústavů a trpí tím pak celý život. A vy řešíte Kájínka a imigranty. Smutné!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jsme poslední země, kde se dávají miminka do kojeneckých ústavů a trpí tím pak celý život. A vy řešíte Kájínka a imigranty. Smutné!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1bb6fca4212229d673cdb255c91abba16de03e6c485089ebaa70fa8b0df85f63"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,45 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Cerman Leoš",
