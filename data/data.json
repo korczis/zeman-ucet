@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kaman, Martin",
+    "zprava": "Pro @transparentnimilos_cz - nešlo by udělat filtrování podle #hashtagů ?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro @transparentnimilos_cz - nešlo by udělat filtrování podle #hashtagů ?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "85b058a060bde78b9fce19b2058066fe53d6d69c12b22067e3e3af10dfca32cb"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Spolehlivá s.r.o.",
