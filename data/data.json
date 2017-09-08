@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ZPS PZSUN 1236 (CZK)",
+    "zprava": "Dar",
+    "ks": "0558",
+    "vs": "1709615913",
+    "ss": "",
+    "poznamka": "ZPS PZSUN 1236 (CZK)",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "d34fecb7f3b7c49267a0d56ccfe0c752580929858616db5a11c7d00f53730b50"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Wencel, Josef",
