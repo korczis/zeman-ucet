@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dvořák, Jaroslav",
+    "zprava": "Prodám 7 prasat, brojlery. K doptání u domovníka.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám 7 prasat, brojlery. K doptání u domovníka.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5b79ef854ca1f2ac0ca82ad2d935c9f87164145ca94a8e28a8f4c13e08b636e3"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "3,14 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Cileček Štěpán",
