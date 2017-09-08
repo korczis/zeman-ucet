@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kříž, Martin",
+    "zprava": "Když vidím Miloše momentálně v televizi a na aktuálních fotkách,tak to má stejně za pár",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Když vidím Miloše momentálně v televizi a na aktuálních fotkách,tak to má stejně za pár",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "664ad871504d1cffe33feee850f4b89bde743837cdaaec65b84b033f278c9590"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "5 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jícha Liboslav,JUDr.",
