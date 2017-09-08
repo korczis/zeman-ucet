@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "6,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vrážel, Radek",
+    "zprava": "Už máš sbaleno?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Už máš sbaleno?",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "4c722baa28d34d6baea8c01ce925c97f77759b086fa290b637fd19df4a81b35c"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "ADOSA a.s.",
