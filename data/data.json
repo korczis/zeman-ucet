@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Havlíček, Petr",
+    "zprava": "Miloše do koše",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4d75c64e88d7127709082387dff2560cc62994c246e02d40397ed9d5326406ea"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Havlíček, Petr",
+    "zprava": "S komunisty se nemluví",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "S komunisty se nemluví",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "821e079bbd974622737b62231f6c7b618ecccdc3e538c82367ea85967461cccd"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Spolehlivá s.r.o.",
