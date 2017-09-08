@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čapek, Jiří",
+    "zprava": "www.forex-factory.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.forex-factory.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "d120fed838e59be975e28b81c5b733fdf3a2874e5693e5cbe8cb9af87a316398"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
