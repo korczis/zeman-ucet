@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Spolehlivá s.r.o.",
+    "zprava": "Miloši příští rok už asi nezaseješ co ?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloši příští rok už asi nezaseješ co ?",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "6139d787072016ff8d3d47bebe44b00406ab093f8c5a30ce27cc1fc0bd6e291c"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kavka, Robert",
