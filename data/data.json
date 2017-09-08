@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bc. Střálka, Jan",
+    "zprava": "---=== www.promokupon.cz ===--- Slevové kupóny do českých e-shopů, promokódy na taxi a ubytování zdarma ---=== www.promokupon.cz ===---",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "---=== www.promokupon.cz ===--- Slevové kupóny do českých e-shopů, promokódy na taxi a ubytování zdarma ---=== www.promokupon.cz ===---",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "09bac1cabfea91a0975c3e4607280f53c549f8325a6207bee0f74607252661c5"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "30,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kilevník, Radek",
