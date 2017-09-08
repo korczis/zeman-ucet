@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "30,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kilevník, Radek",
+    "zprava": "Podnikat naplno je lepší než být prezidentem :) - ExitShop.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Podnikat naplno je lepší než být prezidentem :) - ExitShop.cz",
+    "mnozstvi": 30.0,
+    "mena": "CZK",
+    "id": "9ab0ce9021eb620b6f95b548593abd3caaafbaf0ad73bc87440ddcf57605bc58"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "HONCO s.r.o.",
