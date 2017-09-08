@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pipek, Petr",
+    "zprava": "neděkujeme a uz tahněte....ostuda národa",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "neděkujeme a uz tahněte....ostuda národa",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "00bf7fd25e9959a22f0be77e5f5660318b96853bd852aeb89a2f73d321dcfb63"
+  },
+  {
+    "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Karafa, Tomáš",
+    "zprava": "zdraví pražská kavárna z Mikulášovic",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "zdraví pražská kavárna z Mikulášovic",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fd41ab3370a2466669cd5ac0a781831a7ad689bde38d79a084b0a9ef0451583d"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Karafa, Tomáš",
