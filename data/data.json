@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Petržela, Tomáš",
+    "zprava": "Kunda sem, kunda tam - Ovcacek ctveracek - tahnete z hradu vy kundy",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kunda sem, kunda tam - Ovcacek ctveracek - tahnete z hradu vy kundy",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ad7dc4050af4f7c422601ea7aa16a770c1871949cef9d905552ffc1c72eca27b"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šleger, Vladimír",
