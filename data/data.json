@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novak, Roman",
+    "zprava": "Jste zatim nejllepsi polistopadovy prezident. Preji Vam pevne zdravi a doufam, ze vyhrajete.",
+    "ks": "0308",
+    "vs": "20180113",
+    "ss": "",
+    "poznamka": "Jste zatim nejllepsi polistopadovy prezident. Preji Vam pevne zdravi a doufam, ze vyhrajete.",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "39d251a004df2c73d9ff69b0ece35bf492e36fd5366172b74284492cf087be5a"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Mauer, Lukáš",
