@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Karafa, Tomáš",
+    "zprava": "Táhni stabilizovat společnost do Číny, vožralo. S tim Sobotkou si to na Hradě fakt posral :-( ...nejradši bych po tobě hodil popelníček.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Táhni stabilizovat společnost do Číny, vožralo. S tim Sobotkou si to na Hradě fakt posral :-( ...nejradši bych po tobě hodil popelníček.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "dd73a049acbe383adf981e695e335bc302f7176e35212e4ad6dc230af87a4c72"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "200,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ZPS PZSUN 1236 (CZK)",
