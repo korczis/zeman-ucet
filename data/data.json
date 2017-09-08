@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-08",
+    "castka": "2,55 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KUČERA ROMAN",
+    "zprava": "/DO2017-09-07/SPPOZDRAV Z SK",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "KUČERA ROMAN",
+    "mnozstvi": 2.55,
+    "mena": "CZK",
+    "id": "1553267e100fad39486c432820adfdd2c823c9bdd4807da9e6f0ec77dc915202"
+  },
+  {
+    "datum": "2017-09-08",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Hausvater, Ervín",
