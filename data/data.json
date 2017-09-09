@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,06 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Drinková, Eva",
+    "zprava": "Hladam byt 2+1 v Prahe, na druhej strane rieky od hradu. eva_drinkova@yahoo.com",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hladam byt 2+1 v Prahe, na druhej strane rieky od hradu. eva_drinkova@yahoo.com",
+    "mnozstvi": 0.06,
+    "mena": "CZK",
+    "id": "f18776b60bab73ed0564e35ad06c241121a9572eff3fb4b5d5bd68cdd252a630"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,03 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Otáhal, Milan",
