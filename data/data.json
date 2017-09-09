@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,19 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "7777",
+    "vs": "4911686848",
+    "ss": "0818325491",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.19,
+    "mena": "CZK",
+    "id": "3760f67d7c8719a8a8b93f016f01c0e7bdd0bf67f5e1dae0837b7fb5e7f44011"
+  },
+  {
+    "datum": "2017-09-09",
+    "castka": "0,17 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "7777",
+    "vs": "2243808685",
+    "ss": "8669708689",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.17,
+    "mena": "CZK",
+    "id": "25142747557002c32978a7728c36039606253f4486c5dd00e14df2be509ad7dd"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
