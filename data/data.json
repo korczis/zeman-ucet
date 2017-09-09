@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jestřabík, Miroslav",
+    "zprava": "Prima chatroom, díky Miloši. Nikde tady ale nevidím jinak mnohomluvného mluvčího. Jste tu někde Jiří ? Haló, haló, ozvěte se.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prima chatroom, díky Miloši. Nikde tady ale nevidím jinak mnohomluvného mluvčího. Jste tu někde Jiří ? Haló, haló, ozvěte se.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f01c514e156f26c211f4873425c9062fbd51580c8db59c1705164d379a0c300e"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,06 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Drinková, Eva",
