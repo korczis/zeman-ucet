@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Wimberský, Richard",
+    "zprava": "Zdravíme Eriku z Lignana, už jsme po obědě, pivo tu maj mizerný, za chvíli půjdem stavět kurt. Budem Tě informovat.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zdravíme Eriku z Lignana, už jsme po obědě, pivo tu maj mizerný, za chvíli půjdem stavět kurt. Budem Tě informovat.",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "dadc93e1311967b28cee69eee45933c970f817f7b0783cf4e0b9b90d84711935"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Stach, Karel",
