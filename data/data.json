@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pekarik, David",
+    "zprava": "I was there when Horus slew the Emperor",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "I was there when Horus slew the Emperor",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "42d8384df6ad47e4f18e8cc62c71b2c20d982b4b721c05565f3a9447de6e0264"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Wimberský, Richard",
