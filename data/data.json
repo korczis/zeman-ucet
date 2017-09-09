@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "5,09 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Löfflerová, Radka",
+    "zprava": "Všchni jsou mrtví, Dave!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Všchni jsou mrtví, Dave!!",
+    "mnozstvi": 5.09,
+    "mena": "CZK",
+    "id": "9c28a9fb4ac999e45d13cd82dac5eddc4de40c0326ddf9edb9657cd421312b34"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
