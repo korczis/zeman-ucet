@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 178 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 178 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6e0a3d67814c8649dcb037fac887f4b33073d0907d5dd2348161914a717e9025"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "77,77 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Lejska, Karel",
