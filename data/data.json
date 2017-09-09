@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-09",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vorel, Martin",
+    "zprava": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "854f4dcd20409c4f137317628f3adbee1903cebbd91c5f3eb0c6f277c6d5e12b"
+  },
+  {
+    "datum": "2017-09-09",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "MUDr. Vávra, Pavel",
+    "zprava": "Doma rádi pijeme kvalitní kávu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Doma rádi pijeme kvalitní kávu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "41c7a6a883d6cfdf4ec467950882da5c47b0d2477c27161170f6693520526e12"
+  },
+  {
+    "datum": "2017-09-09",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kuneš, Tomáš",
+    "zprava": "www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; VÁNOCE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; www.ozdoby-stromky.cz ; VÁNOCE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fdfaf7720e724cd4cd8379b2e96d0fbfea5f4c4fc88ecacf2c9dd6052b30e083"
+  },
+  {
+    "datum": "2017-09-09",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vaňáček, Jan",
