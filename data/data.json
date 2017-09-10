@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "MUDr. Svidenský, Karel",
+    "zprava": "Pokud já jsem podle tebe pitomec, tak ty jsi podle mě kretén na entou.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pokud já jsem podle tebe pitomec, tak ty jsi podle mě kretén na entou.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c17851de0870065a35a59074e338eab187f87bc501d5d732ba1c25a6c5dad7a0"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "100,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Buzín, Tomáš",
