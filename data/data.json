@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Hobza, Otakar MBA.",
+    "zprava": "GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ - GAMEE.CZ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "44c240227af22435b956bb40f91c78bab534d19e1bc5799e26303c5a139879f4"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Jatič, Jasmin Jan",
