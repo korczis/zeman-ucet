@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BENES JAKUB",
+    "zprava": "kaslete na Zemana a pojdte sizahrat moji novou fantasy hru Stinynad Mau - mau.osadnici.eu",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "BENES JAKUB",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "e0f664c42db14d11e4d7dc2590922a929a84add60a91d9005702e71e276b1048"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "DROBNY DANIEL",
