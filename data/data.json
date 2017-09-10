@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Martin Klíma",
+    "zprava": "Milosi, usetri nas vsechny a uz nekandiduj. Jsi ostuda naroda.",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Martin Klíma",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f85d7c5e4b35e04f2e861def80b38586838c60753ceedea0aacb6263e3084979"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "100,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TAKAC MILAN",
