@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-10",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "87a08bde3010cfae50a9dda88c1a9f745b3f6048433573b8efd46b226de72df3"
+  },
+  {
     "datum": "2017-09-09",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
