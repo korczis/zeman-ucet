@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Havlíček Radek",
+    "zprava": "MÁM RÁD ANANAS NA PIZZE!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Havlíček Radek",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "3c399e5d7e9f691be64410016f551c94ef49c282116cc093a6e3149a31423a9d"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Koutský Dušan,BBA.",
+    "zprava": "Ja nic na srdci nemam, ja jsem tu jen chtel byt taky",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Koutský Dušan,BBA.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "0600c15c31c0c68735b6cdd88bcdb2865c7701458bd08802f60b4426a455dc0b"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Klišová Lenka",
+    "zprava": "dekuji za Tyden s prezidentem",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Klišová Lenka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "baf388ffe4b1c79b030fef60912d5c59a976132cf2d66ac645df51af8f101d55"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MIKEŠ MAREK",
