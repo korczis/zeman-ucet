@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "500,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Martina Rázková",
+    "zprava": "děkuji",
+    "ks": "0000",
+    "vs": "",
+    "ss": "358",
+    "poznamka": "Martina Rázková",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "2e505b4aa952c02ca5b34df85799d59ed806c15d4dab40c71b237b51faa45e2c"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "rondo.cz s.r.o.",
