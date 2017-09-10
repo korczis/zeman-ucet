@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Buzín, Tomáš",
+    "zprava": "Zbavte se Mynáře, kterého jste slíbil odvolat a poradců typu Zavadil či Nejedlý a bude to OK.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Zbavte se Mynáře, kterého jste slíbil odvolat a poradců typu Zavadil či Nejedlý a bude to OK.",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "acd168f96f2b915b504229b6a93e75370af1daf76727076bee4504067e31ae7f"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sovová, Yvonne",
