@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jatič, Jasmin Jan",
+    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "fab5cd8f00ae7770039e6f56426fe9516665d83b30ab71c7edfbff6537bf33e5"
+  },
+  {
+    "datum": "2017-09-10",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jatič, Jasmin Jan",
+    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "fab5cd8f00ae7770039e6f56426fe9516665d83b30ab71c7edfbff6537bf33e5"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vaňáček, Jan",
