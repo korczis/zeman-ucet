@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Doležal, Petr",
+    "zprava": "Zdar Draku, nasdílej mi někde ten kus  toho včerejšího videa jak máš nahraný v mobilu, Díky",
+    "ks": "1148",
+    "vs": "456466133",
+    "ss": "6666666666",
+    "poznamka": "Zdar Draku, nasdílej mi někde ten kus  toho včerejšího videa jak máš nahraný v mobilu, Díky",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a04be97a5d8258c41d915d0f5f50a81b89dcd062ad2a6b42aed7e226a238d2f7"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "111,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Palas, Josef",
