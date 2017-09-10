@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "111,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Palas, Josef",
+    "zprava": "Prezident s medvědí pamětí, nejlepší ekonom, vizionář, toho Hrad potřebuje, proto vyhraje.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prezident s medvědí pamětí, nejlepší ekonom, vizionář, toho Hrad potřebuje, proto vyhraje.",
+    "mnozstvi": 111.0,
+    "mena": "CZK",
+    "id": "d9d22c1e50ae4558ccc7242a5072b5782a4495b9cd3d2fd603cc77e7d70f6f0a"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Němec, Jakub",
