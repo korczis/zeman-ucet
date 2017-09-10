@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pobořil, Jan",
+    "zprava": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "ks": "",
+    "vs": "42",
+    "ss": "",
+    "poznamka": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "469754077b3f2a4155baf213ada51ec8ab8655289a554d80edd1f19562105872"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Zmeškal, Miloš",
