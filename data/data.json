@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-10",
+    "castka": "100,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Špinar, Jiří",
+    "zprava": "Volím Vás.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Volím Vás.",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "ac626e2a99f11eca72c4cb205d575edeae865e43682179f8e8cec6706817f967"
+  },
+  {
+    "datum": "2017-09-10",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Rezek, Milan",
