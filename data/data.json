@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-11",
-    "castka": "0,25 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "SVINGAL MILAN",
-    "zprava": "http://jetencurakjesteprezidentem.cz, http://jetencurakjesteprezidentem.c",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "SVINGAL MILAN",
-    "mnozstvi": 0.25,
-    "mena": "CZK",
-    "id": "b1b6d643add2af7ff0c65d1cdb42839731105cde92851da55a4014fe057222c9"
-  },
-  {
-    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CVETLER S.R.O.",
