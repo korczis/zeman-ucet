@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SOUREK LADISLAV",
+    "zprava": "Ladislav Sourek Turnov - Pelesany",
+    "ks": "",
+    "vs": "19460822",
+    "ss": "",
+    "poznamka": "SOUREK LADISLAV",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "f260fb9151b44703cd3764c26cca6e36eddfb78973bd737288852ecf46a8567c"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "PAVLIKOVA MARKETA",
