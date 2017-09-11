@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Cvetler, Pavel",
+    "zprava": "Soudruhu, dost už bylo ostudy a lezení do rudých řití, měl by sis nafouknout svou jachtu a vyfičet na Veselák.",
+    "ks": "0308",
+    "vs": "12345",
+    "ss": "",
+    "poznamka": "Soudruhu, dost už bylo ostudy a lezení do rudých řití, měl by sis nafouknout svou jachtu a vyfičet na Veselák.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6ed78219bac5b4c267d02d141f5540605b330e7bfe8209b0f6f39a3e8413084a"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pudil Jiří",
