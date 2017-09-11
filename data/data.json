@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "10,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tran, Tuan Anh",
+    "zprava": "Turnaj mladých vietnamských volejbalistů 5",
+    "ks": "0008",
+    "vs": "24092017",
+    "ss": "24092017",
+    "poznamka": "Turnaj mladých vietnamských volejbalistů 5",
+    "mnozstvi": 10.0,
+    "mena": "CZK",
+    "id": "1ba4ffc80dc13780b15a7e13f7ec9ae76aad1133916cd86f2a6d4eecc517b018"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pastucha, Zdeněk",
