@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,02 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "DAVID HOLIENCIN",
+    "zprava": "Tohle je za nás oba, Markétko!PS: Miluji Tě, Ty můj ovcácku ;-)A nebuď tak sprostá jako on, Šmaus",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "DAVID HOLIENCIN",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "b2e05ec918cd2a40c42e825e549db67a7758c51854de46d46ae540f090170c62"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,89 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VLADIMÍR KORBEL",
