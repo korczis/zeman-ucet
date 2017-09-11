@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Doležal, Petr",
+    "zprava": "Tak jsem si ten termín opravil a na tu Sněžku jedeme, růžový triko mám (y)",
+    "ks": "1148",
+    "vs": "456466133",
+    "ss": "6666666666",
+    "poznamka": "Tak jsem si ten termín opravil a na tu Sněžku jedeme, růžový triko mám (y)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "33bb25d972f6266130a0ca5c265ed51503f7abbd0c4e37c5a813356b0e5d76a8"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "50,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tran, Tuan Anh",
