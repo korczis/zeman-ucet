@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-11",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rozen, David",
+    "zprava": "10% sleva na všechny svetry z ovčí vlny po zadání kódu: UŽ NE ZEMANE / www.tradicnisvetry.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "10% sleva na všechny svetry z ovčí vlny po zadání kódu: UŽ NE ZEMANE / www.tradicnisvetry.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0aa36943b60e9035817fd1815dc0e83c7f3b2f663d728828e8dc754d9a3211e7"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HEREJK JINDRICH",
     "zprava": "Mildo, kdybyste mi slibil, ze definitivne zmizite na Vysocinu, poslu 1.000.",
