@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,68 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Meiner, Pavel",
+    "zprava": "na antabus-stydím se za Vás",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "na antabus-stydím se za Vás",
+    "mnozstvi": 0.68,
+    "mena": "CZK",
+    "id": "a0eae486f537e9ac889aec5fd7ccf0562456a6c23636d6cfe768ba76b1fafd1e"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tichý, Jiří",
+    "zprava": "*PRO ZAJÍMAVOST: Datavou analýzu všech haléřových přispěvatelů zvládnete pomocí nástroje Tableau. www.tableau.com :) :D",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "*PRO ZAJÍMAVOST: Datavou analýzu všech haléřových přispěvatelů zvládnete pomocí nástroje Tableau. www.tableau.com :) :D",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "827a6f5748d24423fc6a9b0a25e020255a355b68b9464acabca2873252f84781"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "19,63 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Onlinetaxi.sk s.r.o.",
