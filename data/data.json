@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SKOKANOVA MICHAELA",
+    "zprava": "Na vyplatu sikovnym balzamovacum.Skoro neni poznat, ze je mrtvej.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SKOKANOVA MICHAELA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "713ea6ae1ba5c497991924e5c71d9735cabdeb6f69acacbadda8ec09cd5c0175"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,02 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MLEZIVA ZDENEK",
+    "zprava": "Na cestu z hradu a ovecku sivemte sebou!!!",
+    "ks": "",
+    "vs": "10101010",
+    "ss": "",
+    "poznamka": "MLEZIVA ZDENEK",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "29c447df99f5a89d9b2ea833b940e92b4403815fa57e035f2db240753b7081e7"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "25,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Alexandr Heczko",
