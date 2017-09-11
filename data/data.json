@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "500,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ISTENES PETER",
+    "zprava": "STYDĚL BYCH SE NEPŘISPĚT !!!",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "ISTENES PETER",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "e734afa0b8cdc2d0f09df0fd5c0b60709e862a0da96d985edbe7f9e191805a0f"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,12 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Michal Bulis",
+    "zprava": "Zdravím kamarádi posílám mu 12 halmoje banka míň poslat nechce :) jinak obare je čas trénovat jízdu na lafetě doufám že do švestěk to dáš",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Michal Bulis",
+    "mnozstvi": 0.12,
+    "mena": "CZK",
+    "id": "95ea7511adc1770d1ac8d81a8ed8a504ab97c9d112b70b1f542a903e33e71bbf"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Vašíček Michal",
