@@ -1,34 +1,6 @@
 [
   {
     "datum": "2017-09-11",
-    "castka": "0,25 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "SVINGAL MILAN",
-    "zprava": "http://jetencurakjesteprezidentem.cz, http://jetencurakjesteprezidentem.c",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "SVINGAL MILAN",
-    "mnozstvi": 0.25,
-    "mena": "CZK",
-    "id": "b1b6d643add2af7ff0c65d1cdb42839731105cde92851da55a4014fe057222c9"
-  },
-  {
-    "datum": "2017-09-11",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CVETLER S.R.O.",
-    "zprava": "Soudruhu, dost uz bylo ostudy,mel by sis nafouknout svou jachtua spolecne se svym kamosem Buresemvyficet na Veselak.",
-    "ks": "0308",
-    "vs": "12345",
-    "ss": "",
-    "poznamka": "CVETLER S.R.O.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "35cbcc4f95e9ed22f13da9e3219c52ea808708651da35c6be1a2e7081608b38d"
-  },
-  {
-    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pavel Horák",
