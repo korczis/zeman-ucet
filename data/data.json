@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PAVLIKOVA MARKETA",
+    "zprava": "SEND NUDES. Br!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "PAVLIKOVA MARKETA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "37961e1d0c89df5bac7e338e927bfbcb28b10da893c6ed1db3de41dc2ad432bd"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MACAK TOMAS",
+    "zprava": "Jan Lucemburk zvany Slepy videl vicnez ty. Pozvedni standartu z treneka jed na oslu ku Krescaku! Halirje pro osla. Neprochlastat !!!",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "MACAK TOMAS",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d4727ad406aeb2eb5fe5d358d0335840fab1d792ecbc8d5b2ac471e41d25683e"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MACAK TOMAS",
+    "zprava": "Vic, nez halir neposilejte! Vsechnostejne prochlasta. Lepe vecne dary.Potrebuje nove trenky. Ja cistdenne TELETEXT, je ze me taky TELE.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "MACAK TOMAS",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0ab214c146d051ed7f8326bc0635b5a7efa77a6a79f8a09d488477ab4ec26a29"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "100,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "GROSMAN TOMAS",
