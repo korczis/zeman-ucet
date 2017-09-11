@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "100,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VOPRAVILOVA DANIELA",
+    "zprava": "",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "VOPRAVILOVA DANIELA",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "e90a4b510c655450000cfe7139e55f19b4698ab712a58ecfd1ed69963a6b9571"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "SPALA VIKTOR",
