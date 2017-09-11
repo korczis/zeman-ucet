@@ -1,48 +1,6 @@
 [
   {
     "datum": "2017-09-11",
-    "castka": "19,63 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Onlinetaxi.sk s.r.o.",
-    "zprava": "/DO2017-09-08/SPWWW.TAXIKEY.COM - TAXI-TRZISTE OBJEDNAVEK SPOJUJEME A PODPORUJEME TAXISLUZBY AJ V CESKE REPUBLICE - TAXIKEY.COM",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Onlinetaxi.sk s.r.o.",
-    "mnozstvi": 19.63,
-    "mena": "CZK",
-    "id": "222a8b7e41952b72bb8887208323f34c1fdd3a75f75a42b8df61c6d6a1e7b7a1"
-  },
-  {
-    "datum": "2017-09-11",
-    "castka": "0,25 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Kateřina Patáková",
-    "zprava": "ZA VIC MI NESTOJÍTE A I TOTO JE MOC",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Kateřina Patáková",
-    "mnozstvi": 0.25,
-    "mena": "CZK",
-    "id": "1bc405b27d556c5708d9cf18a6c5fb50093ed75699008ce1c7b1996f8fadf01d"
-  },
-  {
-    "datum": "2017-09-11",
-    "castka": "0,25 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "SVINGAL MILAN",
-    "zprava": "http://jetencurakjesteprezidentem.cz, http://jetencurakjesteprezidentem.c",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "SVINGAL MILAN",
-    "mnozstvi": 0.25,
-    "mena": "CZK",
-    "id": "b1b6d643add2af7ff0c65d1cdb42839731105cde92851da55a4014fe057222c9"
-  },
-  {
-    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CVETLER S.R.O.",
