@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ING. JIŘĺ BATELKA",
+    "zprava": "",
+    "ks": "",
+    "vs": "430828",
+    "ss": "",
+    "poznamka": "ING. JIŘĺ BATELKA",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "b9e4bdeffc178b5b35b64d8e75a85494440237654ecfb014b251de5a35cc346a"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,02 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "DAVID HOLIENCIN",
