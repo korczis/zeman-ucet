@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KATALOG SIP S.R.O.",
+    "zprava": "POSÍLÁM I ZA SVÉ ZAMĚSTNACE,  VÍCENECHTĚLI DÁT  :-)",
+    "ks": "0558",
+    "vs": "123456789",
+    "ss": "0",
+    "poznamka": "KATALOG SIP S.R.O.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "1219bd3c8c83ce183e2caf29c8a9941a9a23aae0b3460b8d88db85b4a3f4befd"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
