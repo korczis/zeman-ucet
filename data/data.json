@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sáblík, David",
+    "zprava": "Kde bych sehnal komplet vydání Souostroví Gulag v češtině? Nemůžu to nikde najít.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kde bych sehnal komplet vydání Souostroví Gulag v češtině? Nemůžu to nikde najít.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "08f39be307162951c574d606311027d609ad63013fbf36554e54f8450a86b479"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,68 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Meiner, Pavel",
