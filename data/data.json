@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,99 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Roušalová Ivana,Ing.",
+    "zprava": "Tak jsem se plácla přes kapsu a posílám na cestu do Ruska nebo Číny bez zpáteční jízdenky. Užijte si to!",
+    "ks": "",
+    "vs": "2017",
+    "ss": "",
+    "poznamka": "Roušalová Ivana,Ing.",
+    "mnozstvi": 0.99,
+    "mena": "CZK",
+    "id": "1ed1aa5e40a0b2a9933453c7e683b142be292a6a9caee8718e85ae2740e19eac"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Mach",
