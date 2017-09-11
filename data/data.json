@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "100,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "GROSMAN TOMAS",
+    "zprava": "Podporte prosim facebookovoustranku Columbus Blue JacketsCZ/SK. Diky. :-)",
+    "ks": "",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "GROSMAN TOMAS",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "e977548b27c2eae18cb44fe42cb2610b3673fb0a8d8af8fa34ad8b90b138ea1f"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HAHN PETR",
