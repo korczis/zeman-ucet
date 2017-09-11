@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "25,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Alexandr Heczko",
+    "zprava": "20% sleva na půjčení zařízení. www.nekonecnazabava.cz , kód MILOSNAHRAD",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Alexandr Heczko",
+    "mnozstvi": 25.0,
+    "mena": "CZK",
+    "id": "6a8446dbf8e32e743943e1c33bb6e41c56438ccd954350b2059faa48d6074119"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Rozen, David",
