@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Chalupa Radek",
+    "zprava": "vejce na oči, to tě naučí",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Chalupa Radek",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "bde05a3bd9240fc6997f15cec799e550db66299e190bac169d97dd2a4af16a05"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Nekuda Luděk",
