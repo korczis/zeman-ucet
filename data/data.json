@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SRUBEK RICHARD ING.",
+    "zprava": "Prispevek na koupi jednosmerne jizdenky na Vysocinu",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SRUBEK RICHARD ING.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "84aa895d887f2623ffe788f4420b03253b6454c047ed13bd95298758842c263a"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "200,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "SOUREK LADISLAV",
