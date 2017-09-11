@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-11",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "RUDOLF SLABA",
+    "zprava": "KOLABORANTSKÁ OSTUDO VÝCHODNÍHO TYPU - PROHRAJ A ZMIZ JEDNOU PRO VŽDY!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "RUDOLF SLABA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d81971f646ae829b3e4cd52aa3d514dd1e235be312c155b72e589fb1acafdcfa"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Butterfly Effect s.r.o.",
     "zprava": "Nějaká osmnáctka na pokec?",
