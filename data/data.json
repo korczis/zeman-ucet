@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SPALA VIKTOR",
+    "zprava": "Zmen 3 pismena ve slove ZEMAN.Mne vyslo: BECHCA. Nahoda?",
+    "ks": "0298",
+    "vs": "111110111",
+    "ss": "1010100011",
+    "poznamka": "SPALA VIKTOR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ac36bec1218fe60e19382f4f3476207d8af7e42696fced0097bb15781562566e"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SPALA VIKTOR",
+    "zprava": "Zmen 5 pismen ve slove ZEMAN.Mne vyslo: PUSSY. Nahoda?",
+    "ks": "0298",
+    "vs": "1100110101",
+    "ss": "1110101100",
+    "poznamka": "SPALA VIKTOR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d74d91b2cf40e40cdaec9a1c8602615779a8651268a8d4ae2574c39249f01a57"
+  },
+  {
+    "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SPALA VIKTOR",
+    "zprava": "Zmen 4 pismena ve slove ZEMAN.Mne vyslo: BIMBO. Nahoda?",
+    "ks": "0298",
+    "vs": "101010101",
+    "ss": "1110011",
+    "poznamka": "SPALA VIKTOR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fed8f91a0232e4ee4a0a3b3b53033dea115eaa37df6d5c383ee5779a64706bb6"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "500,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ISTENES PETER",
