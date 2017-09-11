@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "David Kubíček",
+    "zprava": "Na Sama, aby zauil lepsiho prezidenta",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "David Kubíček",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "cc92a3bd5282e12da1df42b952518f7aa5c2eab0d69a92444afe1a15a7ff0787"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Čapek, Jiří",
