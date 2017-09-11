@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-11",
-    "castka": "0,68 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Meiner, Pavel",
-    "zprava": "na antabus-stydím se za Vás",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "na antabus-stydím se za Vás",
-    "mnozstvi": 0.68,
-    "mena": "CZK",
-    "id": "a0eae486f537e9ac889aec5fd7ccf0562456a6c23636d6cfe768ba76b1fafd1e"
-  },
-  {
-    "datum": "2017-09-11",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tichý, Jiří",
