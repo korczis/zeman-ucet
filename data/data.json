@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,89 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "VLADIMÍR KORBEL",
+    "zprava": "\"In the Beginner's mind there are many possibilities, in the expert'smind there are few\" - S. Suzuki",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "VLADIMÍR KORBEL",
+    "mnozstvi": 0.89,
+    "mena": "CZK",
+    "id": "14d22f27060fb07e201a6de3cd5eedca7fe1ad8f27ccba4eb590ef05fdef52ef"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "500,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SLEZAK KAREL",
+    "zprava": "držte se",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "SLEZAK KAREL",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "67fdcf03dda1fe4776282a5cfd54e5bd5cc97f0274edec6217afdcd9fd090676"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CHVOJKA JAN",
+    "zprava": "Vsechno nejlepsi k narozeninam Kato!!!Vsechno nejlepsi k narozeninam Kato!!! @@@WWW@@@%%%___@@@___",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CHVOJKA JAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d672318906d29096c226404d68bff5db7d62b4564fb90237f924d5e4a6bab3ac"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CHVOJKA JAN",
