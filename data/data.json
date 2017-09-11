@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-11",
+    "castka": "50,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Tran, Tuan Anh",
+    "zprava": "TA DEP ZAI 2017",
+    "ks": "",
+    "vs": "1989",
+    "ss": "",
+    "poznamka": "TA DEP ZAI 2017",
+    "mnozstvi": 50.0,
+    "mena": "CZK",
+    "id": "3b570970c63e4ae3d4768f13789c29866c0fcce7c19d7417da70a9b2a5c08edf"
+  },
+  {
+    "datum": "2017-09-11",
     "castka": "10,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Tran, Tuan Anh",
