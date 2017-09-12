@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPECKY DAVID",
+    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOPECKY DAVID",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5cd5bedc274e1b29ec28e8caed04cd3cdcabd5525470cd9a1c84862fcd778f78"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "74baa5e8713a9460781986c88d3296aab65163ad5bcd21ab464a1f539c7ac11d"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "BLECHOVA MARKETA",
