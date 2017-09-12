@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "In Creative s.r.o.",
+    "zprava": "Brněnská digitální agentura In creative hledá Copy kinga soc. sítí. Jsi to Ty? Tak nám napiš: goo.gl/HxjYNr",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Brněnská digitální agentura In creative hledá Copy kinga soc. sítí. Jsi to Ty? Tak nám napiš: goo.gl/HxjYNr",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "6b27d0913a1fc41d506d88209882ea143fdd0da305fc1d819d9981142ba35bf8"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,20 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Michal Kosňovský",
