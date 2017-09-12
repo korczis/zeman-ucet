@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,10 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BRÁZDA DAVID",
+    "zprava": "DB                            DÍKYLUKÁŠI ZA RADY!",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "BRÁZDA DAVID",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "b7937a9b17e5c1ab7b24507ac51a7e1f0afd36be3add9f81750a7afe82fb61f4"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,99 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ŠŮNA PETR",
