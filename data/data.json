@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-12",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8a0cf784db2db55b3572cfa18ee72c9161945ac0988595e189c141dbec10b9a5"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Friedlová Jana",
     "zprava": "BIBLE MDR 6.1-11 OD JANY",
