@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Pokorná Marie,JUDr.",
+    "zprava": "za propagaci Hedvábné Stezky a kanálu D-O-L",
+    "ks": "0308",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pokorná Marie,JUDr.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "92b837937b2ecc60cff5c0aee180b87ac23b909b1e0b5aa50bca4149cd69ceac"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Růžička Martin",
+    "zprava": "Kdyz jde o dobrou vec, clovek se neboji hrabnout do uspor!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Růžička Martin",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "f66f73512e341a185eba60b65bc1223e236e5a3221c02289081b275377201564"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Štěrba, Luděk",
