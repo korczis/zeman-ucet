@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PLÁNIČKA JIŘÍ",
+    "zprava": "MILOŠI ZEMANE: \"HUBERO KORORO\"",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "PLÁNIČKA JIŘÍ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e89de5db1da156f1c6b5793c3297b71debb739d142f7d55ffaf20949887d0c6b"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,05 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOPTA MICHAL",
