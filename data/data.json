@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Pištěk, Petr",
+    "zprava": "Jen pitomec neví, že banka nezpoplatňuje odchozí haléře. Miloš Zeman to neví",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jen pitomec neví, že banka nezpoplatňuje odchozí haléře. Miloš Zeman to neví",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8b23c97393e8fcba1a11c486cee676b011094e13254e20a9488a85c0d82bad2a"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "20,18 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Němeček, Martin",
@@ -27928,20 +27942,6 @@
     "mnozstvi": 13.0,
     "mena": "CZK",
     "id": "f703ea28283a604ed9733e48ab06c40df83af5b33e89d855ac3ddba54ae8dffe"
-  },
-  {
-    "datum": "2017-09-08",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d75ef90d4f7fda98ed1b42a8238d61672faeb2d2bf1210f6e0600f6203275f0c"
   },
   {
     "datum": "2017-09-08",
