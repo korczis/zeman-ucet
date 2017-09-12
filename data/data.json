@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "HUSTAVA Milan",
+    "zprava": "Prispevek na zaslouzeny odpocinek.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "HUSTAVA Milan",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "e33cc58652f1cf1ae00539725012b598b4a72039e156bff69741c39ee0a51577"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "1,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kopecký, František",
