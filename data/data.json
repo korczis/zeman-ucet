@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,66 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MUŘÍN JAKUB",
+    "zprava": "SNOMAS",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "MUŘÍN JAKUB",
+    "mnozstvi": 0.66,
+    "mena": "CZK",
+    "id": "e70ec374386ea5a80719b198daf6cef3e3283e9db3a782433cf667b105594029"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KABELKA JAN",
+    "zprava": "JÁ HO VEMU NAPLOCHO MEČEM, NE?",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KABELKA JAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9595ff1c5d189c8cb0dcf64ba6a75ef9ca32a7544c6ed3da8be2c50a5ccbb62e"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOZDERA ALEŠ",
