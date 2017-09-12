@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CESKA POSTA, S.P.",
+    "zprava": "posta 125071 08.09.2017 c 5004BLAZEJV R A*BPRISE*UER KZESE*I POLIT**EHO*KIIYAT",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CESKA POSTA, S.P.",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "73248011dea7a16b132d507de6e249fe9e7f0164b354db4ca71a24a8332a4f14"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
