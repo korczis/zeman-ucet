@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,99 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ŠŮNA PETR",
+    "zprava": "NA VYSOČINSKÝ ODPOČINEK ;-)",
+    "ks": "0000",
+    "vs": "20180307",
+    "ss": "20180307",
+    "poznamka": "ŠŮNA PETR",
+    "mnozstvi": 0.99,
+    "mena": "CZK",
+    "id": "1b555ca716c0d37f9bc61dd4020ddd021cfb40b096d07b7d26b6daafb593fb62"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Slabá, Zuzana",
+    "zprava": "www.chytrydiskuter.wordpress.com Ani u hulvátů by se člověk neměl snižovat na jejich úroveň. Takže pane Zemane, děkujeme odejděte.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.chytrydiskuter.wordpress.com Ani u hulvátů by se člověk neměl snižovat na jejich úroveň. Takže pane Zemane, děkujeme odejděte.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "38a57b60a48c8fd99cd60cf7469356a9f56bf7fb1aaab0a5e9a2b71377e93e43"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "VÁGENKNECHTOVÁ KATEŘ",
