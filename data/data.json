@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Sládek, Josef",
+    "zprava": "\"Pane prezidente, co byste na startu nového školního roku vzkázal studentům?\" \"Nebojím se vás!\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "\"Pane prezidente, co byste na startu nového školního roku vzkázal studentům?\" \"Nebojím se vás!\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2c287c20318a18ea20e0c8a9fdecc12c710fab616bbd1034d06f86cf924e3b16"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,25 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HUSTAVA Milan",
