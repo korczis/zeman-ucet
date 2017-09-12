@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-12",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CEHOVSKY JAROSLAV",
+    "zprava": "inzerat: koupim kavovy mlynek bezzasobniku,displeje,membranovychtlacitek a dalsich zbytecnosti.Praha wingman@centrum.cz",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CEHOVSKY JAROSLAV",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "23fcbea0fd5d4987e6ddc91128b665c41311eea981cc885579ce374d3adae029"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Lorenc, Jan",
     "zprava": "echo ROCKET CHAT NAINSTALOVÁN, CHATOVÁNÍ BUDE NYNÍ JEDNODUŠŠÍ :-)",
