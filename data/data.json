@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,05 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPTA MICHAL",
+    "zprava": "MICHAL KOPTA                  OTOČSE NA PĚTNÍKU A UTÍKEJ",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KOPTA MICHAL",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "9850afce5928414b9d1f7bbade4ea05959463f790c42bb20e02f436794a16680"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LITERÁK RADIM",
+    "zprava": "A NA HRAD UŽ SE NEVRACEJ!!!   DO DŮCHODU NA VYSOČINĚ.",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "LITERÁK RADIM",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "73d7774cb978807a0d24090cbedf7d13acea1d57ffc2e139d42d6edc737dc440"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KAPRÁLOVÁ SILVIE",
