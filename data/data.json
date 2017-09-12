@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "PAVLÍČEK JINDŘICH",
+    "zprava": "ZLÍ DĚDCI SOBĚ!",
+    "ks": "0000",
+    "vs": "543210",
+    "ss": "0",
+    "poznamka": "PAVLÍČEK JINDŘICH",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "96da1afdceacc4fa09e2e1c5086a712e48611097d10cb9c39d7a3a2e58afe4da"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "1,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Turnovcová Karolína",
