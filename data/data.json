@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-12",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sovová, Yvonne",
+    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "30cb940cf0fb5a2bdafd187c489720f40987cb580958374c113b91fdcff717f4"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KOHOUT MARTIN",
     "zprava": "Mrkni na nový Ajfony: www.FreeBit.cz",
