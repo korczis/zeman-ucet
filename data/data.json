@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,69 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ČÁLEK PETR",
+    "zprava": "NA LEXAURIN PRO OVCI",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "ČÁLEK PETR",
+    "mnozstvi": 0.69,
+    "mena": "CZK",
+    "id": "f450a69350c1cda167db1f99d5c6b6ffbfe4aad750341f55f91bd8ddb7839394"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STARÝ ZDENĚK",
+    "zprava": "NEJDE O POPLATEK ZA PLATBU.",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "STARÝ ZDENĚK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8e94d332314ff9276bb0d8a40c82789d82a74f4549789f94d0ab4bbc9fca1d59"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "STARÝ ZDENĚK",
+    "zprava": "JDE O VYJADRENI NAZORU.",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "STARÝ ZDENĚK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "de5328252dff6f99634795e61c00566ef21c6685f7dd68cdb649035d42075acd"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,66 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MUŘÍN JAKUB",
