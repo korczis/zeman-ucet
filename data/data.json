@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KAPRÁLOVÁ SILVIE",
+    "zprava": "AVADA KEDAVRA!",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "KAPRÁLOVÁ SILVIE",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c1b663ed743a6d5af540f53ac645faa0291bdd044179bc2adf197125f2795c97"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "BRÁZDA DAVID",
