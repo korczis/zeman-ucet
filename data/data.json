@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Loucký Karel,Ing.",
+    "zprava": "děkuji, už ne",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Loucký Karel,Ing.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "9f16553368e855e6df18b1b6cad90ad2d131a5db961f07541813260f7f3b80c8"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CHVOJKA JAN",
