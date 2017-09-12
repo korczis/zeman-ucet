@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-12",
+    "castka": "1,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kopecký, František",
+    "zprava": "PRO ROZVOJ PROGNOSTICKEHO USTAVU A NA SLAVNOU DRUZBU S CINOU",
+    "ks": "",
+    "vs": "1",
+    "ss": "",
+    "poznamka": "PRO ROZVOJ PROGNOSTICKEHO USTAVU A NA SLAVNOU DRUZBU S CINOU",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "9bf87b94ff42b34b7a3cdcd80772f8d4f0e0d820c69666959296b68849999ea9"
+  },
+  {
+    "datum": "2017-09-12",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pavel Tauer",
