@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-16",
+    "castka": "3,50 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Obdržálek, Jiří",
+    "zprava": "Milousi,posilam dalsi splatku za omilostneni,moc toho ale zatim neni.P.S.:Nemoh bych ti delat vyhazovace na hrade?Navzdy tvuj Jirka Kajinek.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Milousi,posilam dalsi splatku za omilostneni,moc toho ale zatim neni.P.S.:Nemoh bych ti delat vyhazovace na hrade?Navzdy tvuj Jirka Kajinek.",
+    "mnozstvi": 3.5,
+    "mena": "CZK",
+    "id": "af03a78330b5400e7debd92c3ec2dbe9ee9fb6535a8ef12d0a35b83f5cf470f8"
+  },
+  {
+    "datum": "2017-09-16",
     "castka": "5,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pařil, Lubomír",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.1,
     "mena": "CZK",
     "id": "5c9eed6b6884d98d57a96df08e112a9ab0d2dd653e7b4ef6e6bf8094e86e61dc"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,10 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "VALENTA LUKÁŠ",
-    "zprava": "TAHNI DO PRDELE, ZMETKU!",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "VALENTA LUKÁŠ",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "46ca547566ebb7b562484a59407d8f30b0637fd81c977babf5ac66d47876ee5e"
   }
 ]
