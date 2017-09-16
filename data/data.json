@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-16",
+    "castka": "5,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pařil, Lubomír",
+    "zprava": "Na Bechera nemám, tak ať máš alespoň na rohlíky. Mosteckou kavárnu jsi zrujnoval nezaměstnaností v cizí prospěch, tak se spokoj s rohlíkama.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Na Bechera nemám, tak ať máš alespoň na rohlíky. Mosteckou kavárnu jsi zrujnoval nezaměstnaností v cizí prospěch, tak se spokoj s rohlíkama.",
+    "mnozstvi": 5.0,
+    "mena": "CZK",
+    "id": "4bc11cb647c5b62e0a5b48037fe6e4010e4e12b807f21bb6847b9bdc3fb4d04e"
+  },
+  {
+    "datum": "2017-09-16",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pařil, Lubomír",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.1,
     "mena": "CZK",
     "id": "46ca547566ebb7b562484a59407d8f30b0637fd81c977babf5ac66d47876ee5e"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,10 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "VALENTA LUKÁŠ",
-    "zprava": "VRATA JE GAUNER!",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "VALENTA LUKÁŠ",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "a37e51e1893d903c1b4b133b63ff8b90886bb7b92b6d0a3bf4522a5a69b318f7"
   }
 ]
