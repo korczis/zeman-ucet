@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Košíček, Petr",
+    "zprava": "Kundo: Čas pomsty -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Pozvánka do kina: www.csfd.cz/film/345767-kundo-cas-pomsty",
+    "ks": "0666",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "Kundo: Čas pomsty -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Pozvánka do kina: www.csfd.cz/film/345767-kundo-cas-pomsty",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bd9a8650d67f6697f06b0f130361f22e13dac33d7b5eb458515dc17b387661c4"
+  },
+  {
     "datum": "2017-09-16",
     "castka": "3,50 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2a83d13949ef9582f61d6fd9669f65b701215cdd85a3cac3146816ed9a4d44a8"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,10 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "VALENTA LUKÁŠ",
-    "zprava": "EXEKUTORSKÝ ŘÁD - VLÁDA MZ    EXEKUTORSKÝ ŘÁD - VLÁDA MZ",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "VALENTA LUKÁŠ",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "5c9eed6b6884d98d57a96df08e112a9ab0d2dd653e7b4ef6e6bf8094e86e61dc"
   }
 ]
