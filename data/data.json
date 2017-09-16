@@ -3,6 +3,20 @@
     "datum": "2017-09-16",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pařil, Lubomír",
+    "zprava": "Dosáhnul jsi zisku, když jsi prodal MUSku??? Zaprodal jsi nás za peníze státu a ještě hájíš odvody miliard z ČR na Kypr. Skonči už!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Dosáhnul jsi zisku, když jsi prodal MUSku??? Zaprodal jsi nás za peníze státu a ještě hájíš odvody miliard z ČR na Kypr. Skonči už!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9771b47249c1d2d192ba5cae493f1fb32bce58c635c20e3c6a413abc83c83b4e"
+  },
+  {
+    "datum": "2017-09-16",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.1,
     "mena": "CZK",
     "id": "a37e51e1893d903c1b4b133b63ff8b90886bb7b92b6d0a3bf4522a5a69b318f7"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "PLÁNIČKA JIŘÍ",
-    "zprava": "MILOŠI ZEMANE: \"HUBERO KORORO\"",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "PLÁNIČKA JIŘÍ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e89de5db1da156f1c6b5793c3297b71debb739d142f7d55ffaf20949887d0c6b"
   }
 ]
