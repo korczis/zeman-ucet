@@ -3,6 +3,20 @@
     "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Doležal, Petr",
+    "zprava": "Úhrada vaší faktury č. 12348 za Řád Bílého lva - 2x + Medaile za hrdinství 1ks (akce 2+1)",
+    "ks": "1148",
+    "vs": "8523111",
+    "ss": "456456133",
+    "poznamka": "Úhrada vaší faktury č. 12348 za Řád Bílého lva - 2x + Medaile za hrdinství 1ks (akce 2+1)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "134864e24df8828792c7ac97a4935fde3ed9b205f0ab6ae4835f2c48dee20f8f"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Lipavský, Matěj",
     "zprava": "-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -....",
     "ks": "",
@@ -27830,20 +27844,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2bc0d709ed4694948ca92bcb46d270e9f264a73e500c4ac8de161674c445a279"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37"
   },
   {
     "datum": "2017-09-12",
