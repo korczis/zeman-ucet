@@ -3,6 +3,34 @@
     "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "32e830bf5f879ce9849a3ee77f5c8db46109bc8a67bcce791d2744202f35d807"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "be7c609e129141ae4d6d1ef4e0c210ced538d65975c35f769c5264db043b398b"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Sládek, Josef",
     "zprava": "\"Pane prezidente, co byste na startu nového školního roku vzkázal studentům?\" \"Nebojím se vás!\"",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d400929e6f8b61bb2e3b55d41718c3f0ab196181c45bf25c850d89e86e66335f"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,10 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jakub Štěpán",
-    "zprava": "svatební fotograf www.jakubstepan.com",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jakub Štěpán",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "e4b97b7ce88b95a0e21c2533a6b5b5b17075373f24f778c1fb9f78e0478f9045"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Michaila Džakovová",
-    "zprava": "Na dobrého psychiatra pro arogantního a žlučovitého starce a na svačinu pro jeho tým - chátra, kterou zaneřádil Hrad.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Michaila Džakovová",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "faf9db0eaf02110dcdc4ecda80b388f9b6b61c638a47cc26066d3da22ccd1899"
   }
 ]
