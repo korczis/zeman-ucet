@@ -3,6 +3,20 @@
     "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Sládek, Josef",
+    "zprava": "\"Pane prezidente, co byste na startu nového školního roku vzkázal studentům?\" \"Nebojím se vás!\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "\"Pane prezidente, co byste na startu nového školního roku vzkázal studentům?\" \"Nebojím se vás!\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4ff16b464854d9b08429236913b1134b2ccb6e79b016a280c62c6611c7b37ed3"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
     "zprava": "Ještě se 170 krát vyspím a Miloš jde z Hradu!",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "faf9db0eaf02110dcdc4ecda80b388f9b6b61c638a47cc26066d3da22ccd1899"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Petr Bouzek",
-    "zprava": "Kdo nevoli Miloše, hraje Clone Armies! Nejlepsi hra Českého národa - Ferdinand Peroutka; Stahujte na Google Play",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Petr Bouzek",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "9246770acf1a7e80689329cc8e6bcca69105dd9287aba34b833153bf5a98d4e5"
   }
 ]
