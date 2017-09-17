@@ -3,6 +3,20 @@
     "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Lipavský, Matěj",
+    "zprava": "MMMMMMMMMMMMMMMMMMMMMMMo:NhMMMMo        yMMMMMMMMMMMMMMMMMMMM",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MMMMMMMMMMMMMMMMMMMMMMMo:NhMMMMo        yMMMMMMMMMMMMMMMMMMMM",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1b5da9b9e5052001c44f00bf970cbbde83dbbdcd75dca5751300098c0304a809"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Rezek, Milan",
     "zprava": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
     "ks": "8960",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Ručka",
-    "zprava": "Inzerát: Doučuji francouzštinu na jakékoli úrovni zdarma, Ostrava a okolí,dojíždím na vlastní náklady. jeanmain1952@gmail.com",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Ručka",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d400929e6f8b61bb2e3b55d41718c3f0ab196181c45bf25c850d89e86e66335f"
   }
 ]
