@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-17",
+    "castka": "0,02 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Vorel, Martin",
+    "zprava": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "https://AndroidForum.cz  otevřená komunita pro otevřenou platformu. Mrkněte na AndroidForum.cz !",
+    "mnozstvi": 0.02,
+    "mena": "CZK",
+    "id": "902715f8cc3b8b9f094e645a7f8f7d86d4a95898aad9e056b4d426b2d0c7190c"
+  },
+  {
+    "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vaňáček, Jan",
@@ -27970,20 +27984,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "26de4c071f26497f978b4e7a6082922b0f6a7300b05d8e03c74a00f7f305cea6"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KOHOUT TOMÁŠ",
-    "zprava": "_____________________________________________________________oooooo____________oooooo_______________________________________________________",
-    "ks": "",
-    "vs": "7",
-    "ss": "",
-    "poznamka": "KOHOUT TOMÁŠ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "4c10dd6d38b7641a6ab2f0218cc1f5198b0af065e7e08d2d379ef8ad21cfd61c"
   },
   {
     "datum": "2017-09-12",
