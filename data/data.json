@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-17",
-    "castka": "0,05 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Pobořil, Jan",
-    "zprava": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
-    "ks": "",
-    "vs": "42",
-    "ss": "",
-    "poznamka": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
-    "mnozstvi": 0.05,
-    "mena": "CZK",
-    "id": "7e808526339bbe6fb299ee0ce801d4849376f1c87d9dad2cbfc5a1a1134be460"
-  },
-  {
-    "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "454794d553f5b6f62b18eb55decd613f0e1cdb34bd3491700a1af474bd13cb23"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Věra Hrnčířová",
+    "zprava": "Halenkovský blešák 13.říjnapřijďte se zbavit starých nepotřebných věcí",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Věra Hrnčířová",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "20179b7a698c4f5c5aa7fd96c9c0bd6379643631e39b96180ea7a7aceee903fd"
   }
 ]
