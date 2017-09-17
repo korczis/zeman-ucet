@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8a8b9ef0beee132ea8f214b4a7601d3efc58ebc942d9a9f5a53255abdb77e632"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "994d0caa5538f7502023984afca8f55aeaa0fc40f02511ef8c5c1e7a8628f836"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "89d9ff265db87ce2c9a64e8ffb724a070178b0c6edd964caae637d7f69614728"
+  },
+  {
+    "datum": "2017-09-17",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vorel, Martin",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "c2f900bdeaf99ea25e36966a82f0045278d6f343e940846652cefab66ff50ba9"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "FLEK ONDŘEJ",
-    "zprava": "Na další Becherovku Miloši   ;)   A pokud už nezvládáš ani chlastat tak Ovčáčkovi na krmivo.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "FLEK ONDŘEJ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e26e36ddc859abbe38582f38b72365ae0eb4b092f6eccb6edd186a8dcc6ae3fd"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KOHOUT TOMÁŠ",
-    "zprava": "___________________________________________________________________oooooooooooo_____________________________________________________________",
-    "ks": "",
-    "vs": "7",
-    "ss": "",
-    "poznamka": "KOHOUT TOMÁŠ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "26de4c071f26497f978b4e7a6082922b0f6a7300b05d8e03c74a00f7f305cea6"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KOHOUT TOMÁŠ",
-    "zprava": "_____________________________________________________________oooooo____________oooooo_______________________________________________________",
-    "ks": "",
-    "vs": "7",
-    "ss": "",
-    "poznamka": "KOHOUT TOMÁŠ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "4c10dd6d38b7641a6ab2f0218cc1f5198b0af065e7e08d2d379ef8ad21cfd61c"
   }
 ]
