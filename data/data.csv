@@ -1,4 +1,7 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",...........-/odMMMMMMMMMMM+..-/++odo/.............:NMMMMMMMM,"","","",...........-/odMMMMMMMMMMM+..-/++odo/.............:NMMMMMMMM,0.01,CZK,cc7815dba3c7465ceb2bf70f72ebf9b1af1eb53c22c0f7743d2315cc06c6889c
+2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",........-odMMMMMMMMMMMMMMMh....:/+o-..............dMMMMMMMMM,"","","",........-odMMMMMMMMMMMMMMMh....:/+o-..............dMMMMMMMMM,0.01,CZK,1bcbf2f41e9ca86d2728bd471f4bcd608ed4d62ce0526bb8d964fbb42467b774
+2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",......-sNMMMMMMMMMMMMMMMMMN-...:yy...............sMMMMMMMMMM,"","","",......-sNMMMMMMMMMMMMMMMMMN-...:yy...............sMMMMMMMMMM,0.01,CZK,a9a8704412a92026ee4eb3b0b257e9c93a30a1435798c3d9ffa7785c6e2bced0
 2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",-....-dMMMMMMMMMMMMMMMMMMMM+-.+NMNs-............+MMMMMMMMMMM,"","","",-....-dMMMMMMMMMMMMMMMMMMMM+-.+NMNs-............+MMMMMMMMMMM,0.01,CZK,7e4c3a051c18798a27d0a60a57bd5172ce42da4d8a0e9655a5b8f4a56b35b1ee
 2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",-....oMMMMMMMMMMMMMMMMMMMMMh--mmMmNd:.........-/NMMMMMMMMMMM,"","","",-....oMMMMMMMMMMMMMMMMMMMMMh--mmMmNd:.........-/NMMMMMMMMMMM,0.01,CZK,53dbcd1de4d4dd2600f724de1103068a1d487ec5d204d33f504f96fefed44a7b
 2017-09-17,"0,01 CZK",Platba převodem uvnitř banky,"Lipavský, Matěj",:MMMMMMMMMMMMMMMMMMMMMs  ymMNMs            hMMMMMMMMMMMMMMMMM,"","","",:MMMMMMMMMMMMMMMMMMMMMs  ymMNMs            hMMMMMMMMMMMMMMMMM,0.01,CZK,9e58377fc01109cee58b9734cacbb7ab7756cb185a03e22c17fa275077b4f39f
@@ -1950,9 +1953,6 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Jablunka,http://www.zemancountdown.cz/,"","","",Jan Jablunka,0.01,CZK,2bc0d709ed4694948ca92bcb46d270e9f264a73e500c4ac8de161674c445a279
-2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
-2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
-2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
 2017-09-12,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37
