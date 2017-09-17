@@ -3,20 +3,6 @@
     "datum": "2017-09-18",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "už je to tady,systém banky asi dovede oddělit zaúčtování a zobrazení,dochází k třídění plateb. Konec TRANSPARENTNOSTI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "ccc969ea3c75dce2edec687a7983cf2c890292e5d4ad48acffc40d40fa11e317"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "Roška Jan",
     "zprava": "Mílo, přejeme Ti s Míšou vše nejlepší k narozeninám. Hlavně ať jsi zdravější a oblíbenější než Miloš.",
     "ks": "",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jan Ručka",
+    "zprava": "Inzerát: Doučuji francouzštinu na jakékoli úrovni zdarma, Ostrava a okolí,dojíždím na vlastní náklady. jeanmain1952@gmail.com",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jan Ručka",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d400929e6f8b61bb2e3b55d41718c3f0ab196181c45bf25c850d89e86e66335f"
   }
 ]
