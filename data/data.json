@@ -3,34 +3,6 @@
     "datum": "2017-09-17",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Ing. Šulista, Roman",
-    "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "ca4e001b4463cf8faff6961dce5441ee00719d2ab68ea95c67984462765d343c"
-  },
-  {
-    "datum": "2017-09-17",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Novotný, Pavel",
-    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
-    "ks": "0308",
-    "vs": "666",
-    "ss": "666",
-    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "767b42fe229e4b83e92d2b0c087b4088ce296a2cbd22319e175ab9880fd8739d"
-  },
-  {
-    "datum": "2017-09-17",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Novotný, Luboš",
     "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
     "ks": "0007",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "31adb7dbb2e49a68dd0626e5cc4d8f48e15fb9a3d89443b8996b0ac6a157ee6d"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Michal Bock",
+    "zprava": "PAN ZEMAN BUDE PREZIDENTEM VY SPROSTI NERADI",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Michal Bock",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8583fd75c6306c5c2a6001b7c1239383c178fe78e635f74d5d8cfc50017db32e"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Michal Bock",
+    "zprava": "PAN ZEMAN BUDE PREZIDENTEM VY SPROSTI NERADI",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Michal Bock",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8583fd75c6306c5c2a6001b7c1239383c178fe78e635f74d5d8cfc50017db32e"
   }
 ]
