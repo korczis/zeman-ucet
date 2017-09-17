@@ -4,6 +4,20 @@
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Lipavský, Matěj",
+    "zprava": ".............:++o+/////:::+sssso////:+//+sydyo+ss+//:-hMMMMM",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": ".............:++o+/////:::+sssso////:+//+sydyo+ss+//:-hMMMMM",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "48cf2961c68c3420ef9a37846398aebc7fa60a24a25c536b6f45712de9255f58"
+  },
+  {
+    "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Lipavský, Matěj",
     "zprava": "............../+//sossooosso/////////++/+shho++oho/---hMMMMM",
     "ks": "",
     "vs": "",
@@ -27452,20 +27466,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2bc0d709ed4694948ca92bcb46d270e9f264a73e500c4ac8de161674c445a279"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "ca4dfcd10a7f33789f2778cdb1b178cb042393a81681b058d22aaa5bc93e2e37"
   },
   {
     "datum": "2017-09-12",
