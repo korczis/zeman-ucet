@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-17",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 170 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 170 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "34c75cdeb6f093ab8bec903647dca4395c83d9477ab5783d508e9169a3ea233f"
+  },
+  {
+    "datum": "2017-09-17",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "9246770acf1a7e80689329cc8e6bcca69105dd9287aba34b833153bf5a98d4e5"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Tomáš Malina",
-    "zprava": "Že prý ne-kampaň, jo? Tak to potomje tenhle účet vlastně k ničemu, to by měl všechny peníze zase vrátit.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Tomáš Malina",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "454794d553f5b6f62b18eb55decd613f0e1cdb34bd3491700a1af474bd13cb23"
   }
 ]
