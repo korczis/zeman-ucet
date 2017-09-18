@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-19",
+    "castka": "0,15 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "JIŘĺ BERGER",
+    "zprava": "http://www.gridcoin.us10,000 Gridcoin giveawayhttps://wn.nr/FyF9MZ",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "JIŘĺ BERGER",
+    "mnozstvi": 0.15,
+    "mena": "CZK",
+    "id": "bf4dd55af82bef33af563f61601544fb61da1cf06c2156af3041cb502fff953a"
+  },
+  {
+    "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Ing. Tomáš Saifrt",
@@ -27704,20 +27718,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "5a1a9a6ae3bf018944c943600a324ccac836195119da2e9749dca160fd00b3dc"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5d684941cab9786faf177a30d6daa8af27fad11ae4a89afb850ec908e1d184ab"
   },
   {
     "datum": "2017-09-13",
