@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Heidelberger, David",
+    "zprava": "Prodám pěkný kancelářský stůl, PRAHA 3: https://nabytek.bazos.cz/inzerat/79365690/Kvalitni-kancelarsky-stul-160x80.php",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Prodám pěkný kancelářský stůl, PRAHA 3: https://nabytek.bazos.cz/inzerat/79365690/Kvalitni-kancelarsky-stul-160x80.php",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b76c78bb55aa4db1e85690c696c172f9962ffdbe36cc8dc597de5686981b887f"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Alabastr Clean, s.r.o.",
     "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "f58a1f35c5ae1f7253e18f8b8e95c30e94ea7fae90a32562c8340525ef1a51a9"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Ing. Šulista, Roman",
-    "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "666d2d8276993ffde3a742ecb6e35d89ae194dc13212f90005a54b3b4e88a6f4"
   }
 ]
