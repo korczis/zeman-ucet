@@ -3,6 +3,20 @@
     "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Ing. Tomáš Saifrt",
+    "zprava": "Koukám kágebáku že jedeš za velkoulouži tak, prosím, moc nechlastej ať se tam někde nesvalíš... Nějak těch pár měsíců s tebou už doklepeme.",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ing. Tomáš Saifrt",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "368db05592cd59ce52203ab939f2c52b662c5143efb51d178ebd6d3f3368aa47"
+  },
+  {
+    "datum": "2017-09-19",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Maixner",
     "zprava": "Miloše do koše",
     "ks": "",
@@ -27690,20 +27704,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "5a1a9a6ae3bf018944c943600a324ccac836195119da2e9749dca160fd00b3dc"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5d684941cab9786faf177a30d6daa8af27fad11ae4a89afb850ec908e1d184ab"
   },
   {
     "datum": "2017-09-13",
