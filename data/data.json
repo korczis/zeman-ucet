@@ -3,20 +3,6 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "KOPECKY DAVID",
-    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "KOPECKY DAVID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5a9662cfe72a9e776b4b7cfb07fd041d87eb95befb55fd5981b4f894768428ef"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "LOUCKY KAREL",
     "zprava": "Stydim se za sveho prezidenta",
     "ks": "",
@@ -27942,6 +27928,20 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "88fc64435755313172cbe1a4636c6abf016fef9603d2c6a00c4644137ef44b44"
+  },
+  {
+    "datum": "2017-09-12",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ONDREJ SMID",
+    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ONDREJ SMID",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
   },
   {
     "datum": "2017-09-12",
