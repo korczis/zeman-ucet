@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 169 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 169 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a6b64dc1bf284ee059a31eb796e9fcc36da0fccdbba4b8d85ee39a6adb2b89fd"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "MUDr. Vávra, Pavel",
     "zprava": "Doma rádi pijeme kvalitní kávu.",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "06997230cfaf6a5226b3813806691dffbca4205a2e04a40544349d99a1ad877c"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "2 Petrův 2:22 Přihodilo se jim to, co říká pravdivé přísloví: 'Pes se vrátil k vlastnímu vývratku' a umytá svině se zase válí v bahništi.",
-    "ks": "",
-    "vs": "14",
-    "ss": "",
-    "poznamka": "2 Petrův 2:22 Přihodilo se jim to, co říká pravdivé přísloví: 'Pes se vrátil k vlastnímu vývratku' a umytá svině se zase válí v bahništi.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "31bda5c57ea3767a6eb95fbd2fb23d5699bbb55f731b4ddd60b45f3055fa103e"
   }
 ]
