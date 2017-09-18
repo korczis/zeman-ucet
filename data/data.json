@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Alabastr Clean, s.r.o.",
+    "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c64f700b58989945e91bb9d033c560f8dadc8e0c22ae16d6a8f44a7a87d97d28"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vojta, Tomáš",
     "zprava": "Kuba: Díky za přání k narozeninám. Nezajdeme zítra na jedno do Liberálu?",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "666d2d8276993ffde3a742ecb6e35d89ae194dc13212f90005a54b3b4e88a6f4"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Novotný, Pavel",
-    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
-    "ks": "0308",
-    "vs": "666",
-    "ss": "666",
-    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b8546bcf1d5058c31eba20565d018a6959156927686fbff75a5de42199e01976"
   }
 ]
