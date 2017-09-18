@@ -2,20 +2,6 @@
   {
     "datum": "2017-09-18",
     "castka": "1 000,00 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "MVDr. Stuchlíková, Pavla",
-    "zprava": "",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "",
-    "mnozstvi": 1.0,
-    "mena": "000,00",
-    "id": "aab0c995cf552845147857392a762a2767aa4e41d6fc4d9b023758aae389b2a3"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "1 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Slaba Václav",
     "zprava": "panu prezidentovi  Milošovi Z. do voleb",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d0a94a9e71a8beab22c085eb1f00b04f61cda234d8363768c251aca591e69c71"
+  },
+  {
+    "datum": "2017-09-13",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "5e9caf60d7676511b185bc86c0cddd5fcf7b729c9de83e6b7012cfea9fd71687"
   }
 ]
