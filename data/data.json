@@ -3,6 +3,34 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "MATOUS HAJEK",
+    "zprava": "PŘÍSPĚVEK NA NOVÝ NAFUKOVACÍ ČLUN.A+M+B",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MATOUS HAJEK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d57f0d1ed629009888c78959bd92fa91b8f7de117b2a98a4b4b6f0bf55e98bb3"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MGR. MIROSLAV TROCHT",
+    "zprava": "'NOVINARI BY SE MELI LIKVIDOVAT.' MILOS ZEMAN, PREZIDENT CR",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MGR. MIROSLAV TROCHT",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "281bf10dcf8fab4b1bf26b4a57e1c5455ca3ccdaa0fbd8d7c9a19e231499d19c"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Ručka",
     "zprava": "Inzerát: Doučuji francouzštinu na jakékoli úrovni zdarma, Ostrava a okolí,dojíždím na vlastní náklady. jeanmain1952@gmail.com",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "00fc5e048f5ebdcba2fe08310271ca99a87d2c8205b753d6783b862953515a7c"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "1 Janův 1:9 Jestliže doznáváme své hříchy, on je tak věrný a spravedlivý, že nám hříchy odpouští a očišťuje nás od každé nepravosti.",
-    "ks": "",
-    "vs": "10",
-    "ss": "",
-    "poznamka": "1 Janův 1:9 Jestliže doznáváme své hříchy, on je tak věrný a spravedlivý, že nám hříchy odpouští a očišťuje nás od každé nepravosti.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "76805f615e5e59eea14dbc6d10cad5526d8160440bf33e8d1dff73a164212703"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "2 Korintským 13:13 Milost našeho Pána Ježíše Krista a láska Boží a přítomnost Ducha svatého se všemi vámi.",
-    "ks": "",
-    "vs": "8",
-    "ss": "",
-    "poznamka": "2 Korintským 13:13 Milost našeho Pána Ježíše Krista a láska Boží a přítomnost Ducha svatého se všemi vámi.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b0a7a9162b67394d25472a34dae7bd1bda3335c515878b89daaacffdb64e2460"
   }
 ]
