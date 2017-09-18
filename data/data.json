@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-18",
+    "castka": "500,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Vladimír Švec",
+    "zprava": "",
+    "ks": "0379",
+    "vs": "450518139",
+    "ss": "",
+    "poznamka": "Vladimír Švec",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "272893222718e4fc48a6eaf0ad90c527424f046e2fa9f8bf6285968cf05054ba"
+  },
+  {
+    "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Bc. Oldřich Turner",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "673b494ea80bc0e535c785be3e23bd03f097003a2c44867c78385c2174dfe5bd"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Studenovský, Karel",
-    "zprava": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a81adde1034edf59db1061e4415c3d8f7a12b8d12ea249678f1fa188b3a53e4f"
   }
 ]
