@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "MUDr. Vávra, Pavel",
+    "zprava": "Doma rádi pijeme kvalitní kávu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Doma rádi pijeme kvalitní kávu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1e6490ccdb0568d4412051aa92e621f8e51475035b28ce318be685ffce2980f3"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MATOUS HAJEK",
     "zprava": "PŘÍSPĚVEK NA NOVÝ NAFUKOVACÍ ČLUN.A+M+B",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "31bda5c57ea3767a6eb95fbd2fb23d5699bbb55f731b4ddd60b45f3055fa103e"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "1 Janův 4:15 Kdo vyzná, že Ježíš je Syn Boží, v tom zůstává Bůh a on v Bohu.",
-    "ks": "",
-    "vs": "11",
-    "ss": "",
-    "poznamka": "1 Janův 4:15 Kdo vyzná, že Ježíš je Syn Boží, v tom zůstává Bůh a on v Bohu.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "00fc5e048f5ebdcba2fe08310271ca99a87d2c8205b753d6783b862953515a7c"
   }
 ]
