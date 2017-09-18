@@ -3,6 +3,34 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "828509f18578a4b14675c7e7e930981b8660fe7f16f256c31f7492a3bdf26815"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "231af975d0598d2f2cba32eb43bd499a6d0e5400f5a0ca3abb6f319dc2ab1694"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Muška, Karel",
     "zprava": "Znám jistého sympatizanta s masovým vrahem Putinem, ožralého hůř než prase nad korunovačními klenoty.",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "089b2fde7ae61212b29d1728e9fe8c0a59c6eb1accc5a9aa7855cd3e109290ea"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vintrová, Lenka",
-    "zprava": "prodám dárkové cerfifikáty Invia a také Student Agency se slevou, mob: 776 276 631 ...Drahoš na hrad",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "prodám dárkové cerfifikáty Invia a také Student Agency se slevou, mob: 776 276 631 ...Drahoš na hrad",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "f32f21bbe9a74dbe9c54f1287fde31339a570e889b9a74d7e3a8b04631beea52"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vintrová, Lenka",
-    "zprava": "koupím poukázky Flexi pass, stravenky, Ticket multi, Unišek, aj. mob:776276631...Drahoš na hrad",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "koupím poukázky Flexi pass, stravenky, Ticket multi, Unišek, aj. mob:776276631...Drahoš na hrad",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3fc13052d9891677d62b43bbbdbef528d3fcea1bed1673055ba890eba6fcf6d9"
   }
 ]
