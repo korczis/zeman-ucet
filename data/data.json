@@ -3,6 +3,34 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Tereza Hanzlová",
+    "zprava": "To je za ten komentar k burkinam. Prase",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tereza Hanzlová",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6e2d962baebbd69f0ea96ece08278baa83b37777098ba798104659e7a2ad7069"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Adam Kašpárek",
+    "zprava": "PRODÁM PANDU. CENA DOHODOU.",
+    "ks": "4887",
+    "vs": "854873267",
+    "ss": "4573678744",
+    "poznamka": "Adam Kašpárek",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "93d7f63a9ed038e647b60253f3ca5a23313515ab21d3ba65dbc823d5e176745c"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "SKUCIUS TOMÁŠ",
     "zprava": "@VratislavDrinek nespamuj vole.",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "88fc64435755313172cbe1a4636c6abf016fef9603d2c6a00c4644137ef44b44"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
   }
 ]
