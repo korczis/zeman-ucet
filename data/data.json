@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Muška, Karel",
+    "zprava": "Znám jistého sympatizanta s masovým vrahem Putinem, ožralého hůř než prase nad korunovačními klenoty.",
+    "ks": "",
+    "vs": "001",
+    "ss": "",
+    "poznamka": "Znám jistého sympatizanta s masovým vrahem Putinem, ožralého hůř než prase nad korunovačními klenoty.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "73f5772ddc49ee0a109b5080222bc533c75ed6cb9faa40284669fc2b7bb4efd4"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Heidelberger, David",
     "zprava": "Prodám pěkný kancelářský stůl, PRAHA 3: https://nabytek.bazos.cz/inzerat/79365690/Kvalitni-kancelarsky-stul-160x80.php",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3fc13052d9891677d62b43bbbdbef528d3fcea1bed1673055ba890eba6fcf6d9"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sloupenský, Michal",
-    "zprava": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
-    "ks": "0258",
-    "vs": "0099",
-    "ss": "598",
-    "poznamka": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "f58a1f35c5ae1f7253e18f8b8e95c30e94ea7fae90a32562c8340525ef1a51a9"
   }
 ]
