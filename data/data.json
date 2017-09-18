@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c82b6c7494c531d8f12336761e74a6d2fc3152e0bad822f2043f654ff17b3441"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "KOLMAN MIROSLAV",
     "zprava": "Kdy Vam Vase pani da pres pusu dlani ?",
     "ks": "0308",
@@ -27914,20 +27928,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "88fc64435755313172cbe1a4636c6abf016fef9603d2c6a00c4644137ef44b44"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
   },
   {
     "datum": "2017-09-12",
