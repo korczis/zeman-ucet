@@ -3,6 +3,20 @@
     "datum": "2017-09-18",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "SKUCIUS TOMÁŠ",
+    "zprava": "@VratislavDrinek nespamuj vole.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "SKUCIUS TOMÁŠ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a1e68f61b6761d1c3e6379d7b123e6ba5a6f8b4948d0fea6303c669e93a55f1c"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "SEIDL JAN",
     "zprava": "pro studenty MU: v PS 2017 poprvekurz  Czech Queer History , 5 kr.,kod ROM0B140, ut 12.30-14.05 K33,vyucovaci jazyk anglictina",
     "ks": "",
@@ -27956,20 +27970,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "88fc64435755313172cbe1a4636c6abf016fef9603d2c6a00c4644137ef44b44"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
   },
   {
     "datum": "2017-09-12",
