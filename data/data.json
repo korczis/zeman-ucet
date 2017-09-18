@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-18",
+    "castka": "200,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BURDAK VLASTIMIL",
+    "zprava": "Pane prezidente,velmi si Vas vazimVydrzte",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "BURDAK VLASTIMIL",
+    "mnozstvi": 200.0,
+    "mena": "CZK",
+    "id": "a60e9570796a06fbf22e9b7397f22f202d12a64d85c9c0ed48a53105f5d4f152"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "NOVOSAD ADRIAN",
+    "zprava": "Sme programovali v SQL o 11 vecer,party hard, Domca zozrala vsetkysusenky (6/8), pripijame na vasuhorovou limonadou, pekny vecer.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "NOVOSAD ADRIAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "113ce02cd54f4ffccaa55970c203c82977fca7d4505ebbff721d1a747286709a"
+  },
+  {
+    "datum": "2017-09-18",
     "castka": "0,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KARMAZIN ILJA",
@@ -27844,34 +27872,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "88fc64435755313172cbe1a4636c6abf016fef9603d2c6a00c4644137ef44b44"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
-  },
-  {
-    "datum": "2017-09-12",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "MILOŠKU, DÁVEJ PROSÍM KAČENCE VĚTŠÍ KAPESNÉ, AŤ NEMUSÍ HRÁT V  PÉČKU.A KDYBYS NEMĚL, ŘEKNI RUSÁKŮM.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3b810d2baf2e1b9528de26b9627b2abb7a7ab8be29769e80a9036a3d8d6ce267"
   },
   {
     "datum": "2017-09-12",
