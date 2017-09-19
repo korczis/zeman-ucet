@@ -3,34 +3,6 @@
     "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sovová, Yvonne",
-    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "bd217de22663c00e033965f687a53b224552674c38c8917a806025f31d7886c8"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sovová, Yvonne",
-    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "bd217de22663c00e033965f687a53b224552674c38c8917a806025f31d7886c8"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Kubinová, Dagmar",
     "zprava": "Ještě se 168 krát vyspím a Miloš jde z Hradu!",
     "ks": "",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "b96de214b658e0eee7f0a2de1a0758837e85193254ca457c89ce948ed0b91258"
+  },
+  {
+    "datum": "2017-09-13",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b96de214b658e0eee7f0a2de1a0758837e85193254ca457c89ce948ed0b91258"
+  },
+  {
+    "datum": "2017-09-13",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SCHATZ FILIP",
+    "zprava": "Ztratila se bila kamera (radobygopro) se zlutym plovakem. Odmenapro nalezce. (kongmato@gmail.com)",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SCHATZ FILIP",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d0cc3442df1f936a00ffa8adabc7f052b8c205156bed2e2592c0629b5811d4c7"
   }
 ]
