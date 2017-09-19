@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "CELKO VLADIMIR",
+    "zprava": "Vzkaz pro MZ: Nejvetsim projevem sily neni pomsta, ale odpusteni.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "CELKO VLADIMIR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "93d5bed22ddc44aa1bb88b15363f0903d1d52c1c9b4bdd5ef24dd65a9ca591a0"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,20 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "JIŘĺ BERGER",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "c2a579871cfbed26de33928ec7f6078f9c9172f162ff5b24e41033035ccb45c3"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Pastucha, Zdeněk",
-    "zprava": "Nezlobte se, že vás zase obtěžuju, ale já jsem si vzpomněl, že jsem se vás nezeptal, jestli má Mynář prověrku. Má Mynář prověrku?",
-    "ks": "1142",
-    "vs": "1245545744",
-    "ss": "4574542424",
-    "poznamka": "Nezlobte se, že vás zase obtěžuju, ale já jsem si vzpomněl, že jsem se vás nezeptal, jestli má Mynář prověrku. Má Mynář prověrku?",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "4fb117a636334a4b1f246ebd39265a55f4e6a9718a756743659be6907d940a3d"
   }
 ]
