@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-20",
-    "castka": "0,20 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "JIŘĺ BERGER",
-    "zprava": "www.gridcoin.us     možnost vyhrát10000 GRC    https://wn.nr/FyF9MZ",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "JIŘĺ BERGER",
-    "mnozstvi": 0.2,
-    "mena": "CZK",
-    "id": "a9e620e5653ab33745bd2b24534b530b1b826f5917f3c1646dd9291f5b44293e"
-  },
-  {
-    "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MARTIN KOS",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "4fb117a636334a4b1f246ebd39265a55f4e6a9718a756743659be6907d940a3d"
+  },
+  {
+    "datum": "2017-09-13",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b96de214b658e0eee7f0a2de1a0758837e85193254ca457c89ce948ed0b91258"
   }
 ]
