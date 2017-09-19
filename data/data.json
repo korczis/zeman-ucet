@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-19",
+    "castka": "6,67 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bc. Němec, Jan",
+    "zprava": "1KXyF5yiPUYRKDpqXH3kLnnopZvta6GNyT     Dík. Ale měli by se rozhoupat i další a nějakej ten Bitcoin poslat.",
+    "ks": "8888",
+    "vs": "8888888888",
+    "ss": "8888888888",
+    "poznamka": "1KXyF5yiPUYRKDpqXH3kLnnopZvta6GNyT     Dík. Ale měli by se rozhoupat i další a nějakej ten Bitcoin poslat.",
+    "mnozstvi": 6.67,
+    "mena": "CZK",
+    "id": "47315d04c538cc439317688a87eef8aa572a02d50690afc49d6381f442cdc9a0"
+  },
+  {
+    "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27970,20 +27984,6 @@
     "mnozstvi": 0.02,
     "mena": "CZK",
     "id": "a8788be214bf505ca12ac6e1fbd1810003d69aaad77031b14c3c97c73430f68d"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Alabastr Clean, s.r.o.",
-    "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "43c34a441edc6de150af992dea29c12d5a33ba023317a3cbf5ab0bbc8eff4026"
   },
   {
     "datum": "2017-09-13",
