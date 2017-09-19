@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-19",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "vejtaha,všeználek,vykladač dějin",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "38625f8851a7783bf9fc782d5bbd6ebaa993ef85c287d6ad1d8978aa7f9d8ac8"
+  },
+  {
+    "datum": "2017-09-19",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27662,20 +27676,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "bb438cfbfba888003054cd1b3f4efee4e57a5223708c39950141da968dad3e24"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "E. MORAVEC, ČURDA, GOTTWALD, HUSÁK, GREBENÍČEK... A ZEMAN. JAKO BY TOBYLA JEDNA RODINA: VŠECHNO ZRÁDCI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "1d215d3b5382785b91703c53281766d4633e2a55f6867bc3ef07cbab77b9ecb4"
   },
   {
     "datum": "2017-09-13",
