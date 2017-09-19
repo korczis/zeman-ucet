@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-19",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Uvíra Radislav",
+    "zprava": "Na obojek pro ovčáčka",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Uvíra Radislav",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "fdafafa0922d1042bf2c52cc5eb9a2479255ab6d2aa60c4d9cf172f5c0642a81"
+  },
+  {
+    "datum": "2017-09-19",
     "castka": "200,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Culek Miloš,Ing.",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "32daa2e045d0c54efca98705440620ab3d562220bd51774b0cd59767078e9080"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Studenovský, Karel",
-    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b96de214b658e0eee7f0a2de1a0758837e85193254ca457c89ce948ed0b91258"
   }
 ]
