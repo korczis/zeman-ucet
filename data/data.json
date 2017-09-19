@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-19",
+    "castka": "0,25 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MIROSLAV KOLMAN",
+    "zprava": "/ROC/NOT PROVIDED//OCENENI PRACE PR //O VLAST",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MIROSLAV KOLMAN",
+    "mnozstvi": 0.25,
+    "mena": "CZK",
+    "id": "6393981698d41198b949bbe312e0f32c906ca6ac5ab55a9237fb3224798f26f3"
+  },
+  {
+    "datum": "2017-09-19",
     "castka": "1,10 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Vašek Milan,Doc.Ing.",
@@ -27760,20 +27774,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "bb438cfbfba888003054cd1b3f4efee4e57a5223708c39950141da968dad3e24"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "E. MORAVEC, ČURDA, GOTTWALD, HUSÁK, GREBENÍČEK... A ZEMAN. JAKO BY TOBYLA JEDNA RODINA: VŠECHNO ZRÁDCI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "1d215d3b5382785b91703c53281766d4633e2a55f6867bc3ef07cbab77b9ecb4"
   },
   {
     "datum": "2017-09-13",
