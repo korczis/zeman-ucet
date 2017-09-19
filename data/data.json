@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Alabastr Clean, s.r.o.",
-    "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "7a57ac23f6169eebd586a97899f281ee6469b1c69a2dbe09cda9f72d27b9b5b6"
-  },
-  {
-    "datum": "2017-09-19",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Uvíra Radislav",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "43c34a441edc6de150af992dea29c12d5a33ba023317a3cbf5ab0bbc8eff4026"
+  },
+  {
+    "datum": "2017-09-13",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sviták, František",
+    "zprava": "Stále nevidím žádný výdaj. Copak on nejí, nechlastá a nekouří?",
+    "ks": "0558",
+    "vs": "19470625",
+    "ss": "",
+    "poznamka": "Stále nevidím žádný výdaj. Copak on nejí, nechlastá a nekouří?",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "32daa2e045d0c54efca98705440620ab3d562220bd51774b0cd59767078e9080"
   }
 ]
