@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MARTIN KOS",
+    "zprava": "AŤ MÍR DÁL ZŮSTÁVÁ S TOUTO KRAVINOU...",
+    "ks": "0308",
+    "vs": "123456",
+    "ss": "98765",
+    "poznamka": "MARTIN KOS",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "16917703033ec777f4daab239188582db32d50f28f5468b7d284bc42153272ad"
+  },
+  {
     "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27970,20 +27984,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "4fb117a636334a4b1f246ebd39265a55f4e6a9718a756743659be6907d940a3d"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Studenovský, Karel",
-    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b96de214b658e0eee7f0a2de1a0758837e85193254ca457c89ce948ed0b91258"
   },
   {
     "datum": "2017-09-13",
