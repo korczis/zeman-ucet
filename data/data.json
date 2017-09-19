@@ -3,6 +3,20 @@
     "datum": "2017-09-19",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "99260168911ceb103476198d4c7ec753b957e006b1fa6808e8a2bd4a24b435b2"
+  },
+  {
+    "datum": "2017-09-19",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Alabastr Clean, s.r.o.",
     "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
     "ks": "",
@@ -27956,20 +27970,6 @@
     "mnozstvi": 0.02,
     "mena": "CZK",
     "id": "a8788be214bf505ca12ac6e1fbd1810003d69aaad77031b14c3c97c73430f68d"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Alabastr Clean, s.r.o.",
-    "zprava": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Nejlevnější mytí výloh v Praze, rychlý servis, školení pracovníci, 7 dní týdně. http://www.levnemytivyloh.cz/ 608-820 647",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "43c34a441edc6de150af992dea29c12d5a33ba023317a3cbf5ab0bbc8eff4026"
   },
   {
     "datum": "2017-09-13",
