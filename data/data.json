@@ -3,6 +3,20 @@
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Luboš",
+    "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "ks": "0007",
+    "vs": "7",
+    "ss": "7",
+    "poznamka": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a82210dc99571a4f3a5be9ff93bddb0f5e3177a830c82394c40bdd1716f246ee"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pastucha, Zdeněk",
     "zprava": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d44eb04eb8245dc0b533da0897546eb3553a6c73b9ba3f8afd5a06f753974cd8"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.CARNOLT.CZ Auto na KlícSleva 2000Kc na komplet asistenciHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "aff9f1b855a74926b9306d6060ce349e40d1436a769534060d5ab10b1508f473"
   }
 ]
