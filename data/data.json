@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7d29a94b896f4c857e047ad86debd7829be4c96bfc45a6d6b9a4b7e3197ee13f"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "CELKO VLADIMIR",
     "zprava": "Vzkaz pro MZ: Nejvetsim projevem sily neni pomsta, ale odpusteni.",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "749b64ad90311b9943136500c2cf4b59e1a9566746e4a381ec42e9bbcac9496c"
-  },
-  {
-    "datum": "2017-09-13",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Ing. Prouzová, Zdenka",
-    "zprava": "Z facebookových statusů nedostudovaného novináře: Jiří Ovčáček   Laskavá EU nám daruje muslimské migranty a nádavkem více kakaa.",
-    "ks": "",
-    "vs": "111",
-    "ss": "",
-    "poznamka": "Z facebookových statusů nedostudovaného novináře: Jiří Ovčáček   Laskavá EU nám daruje muslimské migranty a nádavkem více kakaa.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c2a579871cfbed26de33928ec7f6078f9c9172f162ff5b24e41033035ccb45c3"
   }
 ]
