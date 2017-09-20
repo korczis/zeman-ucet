@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "0,22 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Garský, Petr",
+    "zprava": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "mnozstvi": 0.22,
+    "mena": "CZK",
+    "id": "0c0ceb5cf4a3cdf604949ce1a833a029ce9f697085400339a73b85dc3b799fc1"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Beran, Miroslav",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d5ce6b5598e24c1b49bc16babc5e913cf6e61129b9b14c04b12e214020eb75d9"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "MIROSLAV MERINSKY",
-    "zprava": "PAN BABIŠ JE NEVĚROHODNÝ! MZ",
-    "ks": "",
-    "vs": "3363704956",
-    "ss": "5059246787",
-    "poznamka": "MIROSLAV MERINSKY",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "749b64ad90311b9943136500c2cf4b59e1a9566746e4a381ec42e9bbcac9496c"
   }
 ]
