@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 167 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 167 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "eb804856824dd7bda228c1f3fc0fa74d7118596e76a9ec18d359b7255c218d9d"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Matěj Dirr",
     "zprava": "Konec se blíží.....",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d6c815172ee07382c2c5cf1abcc63d10c7dcae2da9a5f300adab2400aedf8bb1"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "FIALA JAN",
-    "zprava": "VAŠE VYPOVÍDAJÍCÍ HODNOTA!    VAŠEVYPOVÍDAJÍCÍ HODNOTA!",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "FIALA JAN",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "be7e91dc17177b142f30283639c4390ef0a349d2657ec3a73ca6e7dc0e9bb8c2"
   }
 ]

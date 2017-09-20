@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-20,"0,01 CZK",Platba převodem uvnitř banky,"Ing. Kubinová, Dagmar",Ještě se 167 krát vyspím a Miloš jde z Hradu!,"","","",Ještě se 167 krát vyspím a Miloš jde z Hradu!,0.01,CZK,eb804856824dd7bda228c1f3fc0fa74d7118596e76a9ec18d359b7255c218d9d
 2017-09-20,"0,01 CZK",Bezhotovostní příjem,Matěj Dirr,Konec se blíží.....,3210,123456789,9876543210,Matěj Dirr,0.01,CZK,eca16d29978352c42dd1596b2896ced4c1a409a12729c5747e482f86362d4068
 2017-09-20,"0,01 CZK",Bezhotovostní příjem,Jakub Hlaváček,"","","","",Jakub Hlaváček,0.01,CZK,0763912b502c01fc487ec2976bb36343e79e26466aea0e8b9969bd4759968c00
 2017-09-20,"0,01 CZK",Bezhotovostní příjem,Lukáš Štětina,"Dobry den vsem, podporte dobrou vec, prispejte na Obnovenou Schwarzenberskou granatnickou gardu. www.krumlovskagarda.cz/sponsoring/","","","",Lukáš Štětina,0.01,CZK,9feb078610c3d0a21bd5cd91ef3440cb057d77dd1d53e32b38a0b4e83f6271ef
@@ -1998,4 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-14,"0,11 CZK",Bezhotovostní příjem,"Loucký Karel,Ing.","děkuji, už ne","","","","Loucký Karel,Ing.",0.11,CZK,b111a4b0f885cc08ce580fd22105f79e8875d4c52a0ce7fdc47c5404075f2ad9
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,FIŠER RADOVAN,"MILOUŠI, JSI OSTUDA NÁRODA.   MILOUŠI, JSI OSTUDA NÁRODA.",0000,0,0,FIŠER RADOVAN,0.01,CZK,a60d4b4cf142958b198cb29ad1d4f07e1dd74d508b6f21456e7c9db25119777a
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,THELEN DANIEL,"KUNDA SEM, KUNDA TAM          KUNDA SEM, KUNDA TAM",0000,0,0,THELEN DANIEL,0.01,CZK,d6c815172ee07382c2c5cf1abcc63d10c7dcae2da9a5f300adab2400aedf8bb1
-2017-09-14,"0,01 CZK",Bezhotovostní příjem,FIALA JAN,VAŠE VYPOVÍDAJÍCÍ HODNOTA!    VAŠEVYPOVÍDAJÍCÍ HODNOTA!,0000,0,0,FIALA JAN,0.01,CZK,be7e91dc17177b142f30283639c4390ef0a349d2657ec3a73ca6e7dc0e9bb8c2
