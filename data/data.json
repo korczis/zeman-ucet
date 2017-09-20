@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-21",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "SCHULMEISTEROVA MAGD",
+    "zprava": "Na jednosmernou letenku do Moskvy i pro Ovcacka",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SCHULMEISTEROVA MAGD",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "3e4bd1f7a200094c16d7d8cec1fb2900f45226885001c315e2d23f051df91ce6"
+  },
+  {
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27928,20 +27942,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3ad5516d5a0e6f4bb9cbc305516a1e7cea2017ebd2202cef39099a25c83dd11e"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b"
   },
   {
     "datum": "2017-09-14",
