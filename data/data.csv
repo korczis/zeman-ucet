@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-20,"0,01 CZK",Bezhotovostní příjem,KLIMENTOVA ELISKA,"","",0,"",KLIMENTOVA ELISKA,0.01,CZK,ffc366410cabd92229d8e19125b0d05d983e290af60af09c9f43c46f86c99672
 2017-09-20,"2,22 CZK",Platba převodem uvnitř banky,"Wimmer, Josef",2313 ..Franto je to cajk... uprav jetě select na řádku 315.. dobrá práce,"","","",2313 ..Franto je to cajk... uprav jetě select na řádku 315.. dobrá práce,2.22,CZK,acb493ac7db628860f0e844d5371d8a22ae898d1eca111cf9cfe3097e59c69b5
 2017-09-20,"3,33 CZK",Platba převodem uvnitř banky,"Wimmer, Josef",Test Interface / 1414 / 2121  jeste nedoslo,"","","",Test Interface / 1414 / 2121  jeste nedoslo,3.33,CZK,230dc65d07bc8b4390dbc1a0ec71b36931a2cc4ca794da52a6c6dc4ccdd1ac2e
 2017-09-20,"6,66 CZK",Platba převodem uvnitř banky,"Wimmer, Josef",Test Interface / 1414 / 2121 / 2313,"","","",Test Interface / 1414 / 2121 / 2313,6.66,CZK,dea0c171572943085d2f80614158c18b1f6265fe12c31ec3fb955cf6f3e0bff1
@@ -1990,7 +1991,6 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,PAN BABIŠ JE NEVĚROHODNÝ! MZ,"",3017162769,4390972321,MIROSLAV MERINSKY,0.01,CZK,f74c937d0262005b6bc3a275f1646e14ef0aa963a8c4be4df2762ec78a6bdd5b
 2017-09-14,"1 000,00 CZK",Bezhotovostní příjem,KULHANEK TOMAS,"Tomas Kulhanek, Konarovice - Moudrejsi pry ustoupi, to ale muze platitkdyz se potkaji dva moudri. Blbci se nesmi ustupovat, jinak vyhraje...","",19881008,"",KULHANEK TOMAS,1.0,"000,00",fad1cd343bc4132feed66cd9da3cbbdee3f0fc7861d244e7392040e80701111b
 2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Svrček, Jiří",V neděli od 10:15 utkání Viktoria Žižkov - Baník Sokolov! Doražte podpořit naší Viktorku!,1903,1903,1903,V neděli od 10:15 utkání Viktoria Žižkov - Baník Sokolov! Doražte podpořit naší Viktorku!,0.01,CZK,3ad5516d5a0e6f4bb9cbc305516a1e7cea2017ebd2202cef39099a25c83dd11e
-2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
