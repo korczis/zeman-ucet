@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-20",
-    "castka": "0,99 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "HOFMAN MILOSLAV",
-    "zprava": "JAN BECHER, GEGR. 1807        JAN BECHER, GEGR. 1807",
-    "ks": "0008",
-    "vs": "21081968",
-    "ss": "0",
-    "poznamka": "HOFMAN MILOSLAV",
-    "mnozstvi": 0.99,
-    "mena": "CZK",
-    "id": "c6a7935cf988103f04a45fe564d26ede22a5603c4651b714363adea0e6bb94fd"
-  },
-  {
-    "datum": "2017-09-20",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "a76f49275132e3e3d184f8d65a39de649459dd0316db9d3f0c06042b3ecba1db"
+  },
+  {
+    "datum": "2017-09-14",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Pavel",
+    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "343bdd8cc3563e9f7ff9fea916129af7d36fbc2b66ca9e703f01deb29487f5bb"
   }
 ]
