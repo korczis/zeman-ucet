@@ -3,20 +3,6 @@
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sloupenský, Michal",
-    "zprava": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
-    "ks": "0258",
-    "vs": "0099",
-    "ss": "598",
-    "poznamka": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "fea399f69e63ab6034c777464ab8fbea2263c7dfed783b7ef80976fabc78ef00"
-  },
-  {
-    "datum": "2017-09-20",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šulista, Roman",
     "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
     "ks": "",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "afd633983ae5f6d247e270a52fea5c19d6455c92680a29524931d119302e6c98"
+  },
+  {
+    "datum": "2017-09-14",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Fojtík Antonín,Ing.",
+    "zprava": "Za Zemana se nám v budoucnu budou jen posmívat, ale Bureš je nebezpečný. Opravdu máme přes 20procent pitomců, kteří ho volí?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Fojtík Antonín,Ing.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "28bcfa27aa3232d6b006ab7e825046a3b5d8c142f016f807f3d75e4ef7d35679"
   }
 ]
