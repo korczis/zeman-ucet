@@ -3,6 +3,20 @@
     "datum": "2017-09-20",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Loucký Karel,Ing.",
+    "zprava": "děkuji, už ne",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Loucký Karel,Ing.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "809990f40e860542523d0c7d62da153eab99a57bac9348b8f64b68a470f3f7e2"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
     "zprava": "miloši pomoz mi k rod.fir.ČR,kleknuna ni a budeme se mít jako pol pot",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "42c0aa847314b9e718295b67196e5003d2c8e55cee7d64992b962064000f855e"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - forma protestu proti volbě Zemana prezidentem",
-    "ks": "",
-    "vs": "14630",
-    "ss": "6472488970",
-    "poznamka": "trvalý příkaz - forma protestu proti volbě Zemana prezidentem",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "bb7e60b4c010bb7d39e0e88e0b6f84c62bb1b1a0c6711e14caf4ded7082586e2"
   }
 ]
