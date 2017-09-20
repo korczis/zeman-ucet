@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Luboš",
+    "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "ks": "0007",
+    "vs": "7",
+    "ss": "7",
+    "poznamka": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a82210dc99571a4f3a5be9ff93bddb0f5e3177a830c82394c40bdd1716f246ee"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ba7b95bd10ae3e075d71af00e78089bb712c0bc1f14588d647b65b144ffc2860"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. arch. Bartoš, Ladislav",
+    "zprava": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "ks": "1378",
+    "vs": "135797531",
+    "ss": "2000000000",
+    "poznamka": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "67b91075d338c1f8e802374def72c40e610ff0a27c88ad410a15de088e28c189"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Jatič, Jasmin Jan",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d44eb04eb8245dc0b533da0897546eb3553a6c73b9ba3f8afd5a06f753974cd8"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.CARNOLT.CZ Auto na KlícSleva 2000Kc na komplet asistenciHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "aff9f1b855a74926b9306d6060ce349e40d1436a769534060d5ab10b1508f473"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.TDCi.CZ Diagnostika FordSleva 50% na diagnostikuHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d44eb04eb8245dc0b533da0897546eb3553a6c73b9ba3f8afd5a06f753974cd8"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.CARNOLT.CZ Auto na KlícSleva 2000Kc na komplet asistenciHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "aff9f1b855a74926b9306d6060ce349e40d1436a769534060d5ab10b1508f473"
   }
 ]
