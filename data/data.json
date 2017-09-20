@@ -3,6 +3,20 @@
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Jan Turner",
+    "zprava": "Pro hradního alkoholika a jeho Ovečku trochu historie: Pražská defenestrace 1419, 1483, 1618 a ...2017? Raději nohy na ramena, Miloši a uteč",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jan Turner",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "277760197a9256a2eec341a05e7978b2303c5fbc7b4433536b56a8662aa19689"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "LUKAS VINTR",
     "zprava": "PRODÁM DÁRKOVÉ POUKÁZKY DO CESTOVKY INVIA A TAKÉ DO STUDENT AGENCY, MOB:776276631 - DRAHOŠ NA HRAD",
     "ks": "",
@@ -27872,20 +27886,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "51adcd9474615f29c6064c52c0a44cb42878d59c4c03a136f3af2683f381dfb2"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b"
   },
   {
     "datum": "2017-09-14",
