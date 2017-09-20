@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jatič, Jasmin Jan",
+    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "0efd8bb4cb61aee4c5f7d3b67da3de0078c36726ce678b6bf9aaa2df3d27b8a9"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Jatič, Jasmin Jan",
+    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "0efd8bb4cb61aee4c5f7d3b67da3de0078c36726ce678b6bf9aaa2df3d27b8a9"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kříž, Lukáš",
+    "zprava": "Portál chcispolubydlici.cz pomáhá spojovat lidi a řešit jejich problémy se spolubydlením.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Portál chcispolubydlici.cz pomáhá spojovat lidi a řešit jejich problémy se spolubydlením.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f019bd9574f9b5529a00fda0c53b46f5ea7abba9b37d5f2c86ed78dbefdbc558"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "aff9f1b855a74926b9306d6060ce349e40d1436a769534060d5ab10b1508f473"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.TDCi.CZ Diagnostika FordSleva 50% na diagnostikuHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d44eb04eb8245dc0b533da0897546eb3553a6c73b9ba3f8afd5a06f753974cd8"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "1,00 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CESKA POSTA, S.P.",
-    "zprava": "posta 502739 12.09.2017 c 1011FRANTISEKYOPRSALEKMILOSTPRODR* D*RATHAEHLAS",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "CESKA POSTA, S.P.",
-    "mnozstvi": 1.0,
-    "mena": "CZK",
-    "id": "06c790051249f477e2e7eade21c57ccce429dc27e565990365a6ad86b21ca76c"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "17,00 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "RAC MARTIN",
-    "zprava": "ROZUM STOJI NAD NIEKTORYMI SMEDMINAPR. ONDREJ SMEJD, ASI CHCU MAT ZA PREZIDENTA NEJAKEHO UZERNIKA,ROZKRADACA HAVLOIDA AMICKEHO ZLODEJA",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "RAC MARTIN",
-    "mnozstvi": 17.0,
-    "mena": "CZK",
-    "id": "8bc1a44587bcf98e7906a7c34bf96ffc1c645ba9abff054e5957da77cf401bb4"
   }
 ]
