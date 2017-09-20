@@ -3,6 +3,20 @@
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "SEIDL JAN",
+    "zprava": "pro studenty MU: v PS 2017 poprvekurz  Czech Queer History , 5 kr.,kod ROM0B140, ut 12.30-14.05 K33,vyucovaci jazyk anglictina",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SEIDL JAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4b5d141615aef24e04ebe04f48a95bf1904357a79e5b71f5faaea41c917a981d"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "KOPECKY DAVID",
     "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6698c8591598191397abf024186bdb7f315f8e97652e187c1afb47c4be91fb15"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "ks": "",
-    "vs": "",
-    "ss": "1231522981",
-    "poznamka": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "284b22d21bc2bb9c5aa7e04f441ce9d1ebb995a1464c6a953ac9ad12834abca7"
   }
 ]
