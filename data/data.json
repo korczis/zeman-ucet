@@ -3,6 +3,20 @@
     "datum": "2017-09-20",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Kratěna Bohuslav",
+    "zprava": "MILOŠI KONČÍME, denní příspěvek",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kratěna Bohuslav",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "83af86ffbbddbe95462a75b9247d764c0cc4cc429f48ce2de0fdff2dd4d13e40"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
     "zprava": "průhledný eman v NY, v projevu se ovšem populisticky  vyhnul sev.Koree, nechtěl si popudit Putina a Si Ťin-pchinga, Tramp ho nikdy nepřijme",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "04b4fff22dfa0c18f4d3eafc70152e6c1265d694d7e83db5b3d49c515c74f58d"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "ks": "",
-    "vs": "6427",
-    "ss": "0257",
-    "poznamka": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "88c519fef0f6ff0fd05b21c1bed98266aa4dd42e3e24ba5f4a3716b9ce38cb7a"
   }
 ]
