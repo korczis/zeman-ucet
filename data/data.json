@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOPECKY DAVID",
+    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOPECKY DAVID",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f0ab50c21d5537c0dee8c284b45a670614bb0a077de03e412d4945db69b27e7d"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "bcc65eccc010235524c209e4a2d543d0425dc2b3523e6a892b288f7337e33b7b"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kratěna Bohuslav",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "284b22d21bc2bb9c5aa7e04f441ce9d1ebb995a1464c6a953ac9ad12834abca7"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "ks": "",
-    "vs": "3761294538",
-    "ss": "",
-    "poznamka": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c1fa92690822f596af66401720a2f83cf64397512197435fa166096a3a46cc12"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "ks": "",
-    "vs": "8523789881",
-    "ss": "6690651409",
-    "poznamka": "Nezapomínejte uvádět VS nebo SS, případně i KS pro snazší evidenci. Svůj VS/SS získáte od google po zadání \"random number generator\".",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "04b4fff22dfa0c18f4d3eafc70152e6c1265d694d7e83db5b3d49c515c74f58d"
   }
 ]
