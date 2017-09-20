@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-20",
+    "castka": "3,33 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Wimmer, Josef",
+    "zprava": "Test Interface / 1414 / 2121  jeste nedoslo",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Test Interface / 1414 / 2121  jeste nedoslo",
+    "mnozstvi": 3.33,
+    "mena": "CZK",
+    "id": "230dc65d07bc8b4390dbc1a0ec71b36931a2cc4ca794da52a6c6dc4ccdd1ac2e"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "6,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Wimmer, Josef",
+    "zprava": "Test Interface / 1414 / 2121 / 2313",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Test Interface / 1414 / 2121 / 2313",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "dea0c171572943085d2f80614158c18b1f6265fe12c31ec3fb955cf6f3e0bff1"
+  },
+  {
+    "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "LÉDR TOMÁŠ",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "51adcd9474615f29c6064c52c0a44cb42878d59c4c03a136f3af2683f381dfb2"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b"
   }
 ]

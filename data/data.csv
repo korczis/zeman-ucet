@@ -1,4 +1,6 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-20,"3,33 CZK",Platba převodem uvnitř banky,"Wimmer, Josef",Test Interface / 1414 / 2121  jeste nedoslo,"","","",Test Interface / 1414 / 2121  jeste nedoslo,3.33,CZK,230dc65d07bc8b4390dbc1a0ec71b36931a2cc4ca794da52a6c6dc4ccdd1ac2e
+2017-09-20,"6,66 CZK",Platba převodem uvnitř banky,"Wimmer, Josef",Test Interface / 1414 / 2121 / 2313,"","","",Test Interface / 1414 / 2121 / 2313,6.66,CZK,dea0c171572943085d2f80614158c18b1f6265fe12c31ec3fb955cf6f3e0bff1
 2017-09-20,"0,01 CZK",Bezhotovostní příjem,LÉDR TOMÁŠ,Dobro je prisjetiti se da prividnoprav put prema cilju predstavlja ustvari pravodlivo krivudanje.,"","","",LÉDR TOMÁŠ,0.01,CZK,051581cd4bb652bf50d8f376f8d0aca342d776df7aeda68f838ddf73d496d83e
 2017-09-20,"0,01 CZK",Bezhotovostní příjem,NEMETHOVÁ ALENA,Díky ing Kubinové za odpočet.I promne je důležitý.,"","","",NEMETHOVÁ ALENA,0.01,CZK,c2c31595bae9dca63a181c4f980b07f2b506f3dfe9ceb72d2004357f1ec8bee4
 2017-09-20,"0,01 CZK",Platba převodem uvnitř banky,"Studenovský, Karel",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,"","","",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,0.01,CZK,8a53fdb756f51199f6728ef3cc4db4806ebb2676322f8f591a2832713ac8e390
@@ -1997,5 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
 2017-09-14,"0,01 CZK",Bezhotovostní příjem,Svatopluk Bartík,na inzerci na earonetu,"",666,"",Svatopluk Bartík,0.01,CZK,51adcd9474615f29c6064c52c0a44cb42878d59c4c03a136f3af2683f381dfb2
-2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
-2017-09-14,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,642997cd3745262b11827a10e222a42735031f6707ccfd0df9a1dbd52f71fa3b
