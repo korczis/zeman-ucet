@@ -3,6 +3,34 @@
     "datum": "2017-09-20",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šulista, Roman",
+    "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "04b41a2c59c9a918e6bf2ca28e8a233be43c01617741d4a91b78b67aebbd611c"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Pavel",
+    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "69d91aa236281bd2a2a33b8de7fb7d9cd051b75409978f9984e3ed7aae6cefba"
+  },
+  {
+    "datum": "2017-09-20",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Novotný, Luboš",
     "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
     "ks": "0007",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "28bcfa27aa3232d6b006ab7e825046a3b5d8c142f016f807f3d75e4ef7d35679"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.CARNOLT.CZ Auto na KlícSleva 2000Kc na komplet asistenciHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "aff9f1b855a74926b9306d6060ce349e40d1436a769534060d5ab10b1508f473"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.TDCi.CZ Diagnostika FordSleva 50% na diagnostikuHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d44eb04eb8245dc0b533da0897546eb3553a6c73b9ba3f8afd5a06f753974cd8"
   }
 ]
