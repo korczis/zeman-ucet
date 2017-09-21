@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MILAN KAŇKOVSKÝ",
+    "zprava": "Dejte si radši KÁVU!www.kancoffee.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MILAN KAŇKOVSKÝ",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d5c3138d4557b54ac54201304ff9b904d35f2eb63bfac50c055f59641c983b2e"
+  },
+  {
+    "datum": "2017-09-21",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "79a22aaa19b318422d1d53e94b60adbbbd486917954587e69237847fc3e726aa"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "6851",
-    "vs": "3842957365",
-    "ss": "0716436487",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "f8ddf7284a8675550912da631d42f420a4c44f39c73c00fb7038bb8801ec1ac7"
   }
 ]
