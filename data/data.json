@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f49a647c899cf172ce31c1aec9031b062e125181d37ef14b1ad3c48fd5a2e6a5"
+  },
+  {
+    "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "379d862715f573654a103ae935d6358abffce1ab33e57f065c80e90cd7988c89"
+  },
+  {
+    "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7e53e0694bc20b318e6faaad1b645fb8615fa40a120f5f3b221ecaaf7fdac4fc"
+  },
+  {
+    "datum": "2017-09-21",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vorel, Martin",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "e5e9b3df745c43e5b5462e7b77d9e0564bbc3159b0b4dec10d4ab8202e9ee315"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sovová, Yvonne",
-    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "8d98f55c24c15184963b3dbfb4fb0e1d870962d100b2996a53c40ec0592850af"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sovová, Yvonne",
-    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "8d98f55c24c15184963b3dbfb4fb0e1d870962d100b2996a53c40ec0592850af"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sovová, Yvonne",
-    "zprava": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Inzerát: WWW.PRODRONY.CZ Profesionální drony pro vaše aplikace, nejen DJI.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "8d98f55c24c15184963b3dbfb4fb0e1d870962d100b2996a53c40ec0592850af"
   }
 ]
