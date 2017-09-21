@@ -1,5 +1,33 @@
 [
   {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kristýna Juránková",
+    "zprava": "děkujeme, odejděte",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Kristýna Juránková",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f68130a40bff4ddafe918f834e316aabb613733ee4cbbf5ebb4e79d594df57c1"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MICHAL PEJSKAR",
+    "zprava": "NA LETENKU DO SOČI, JEN TAM. UŽ SENEVRACEJTE, DOST BYLO OSTUDY A DESTRUKCE.",
+    "ks": "5511",
+    "vs": "56568",
+    "ss": "9532269",
+    "poznamka": "MICHAL PEJSKAR",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "71b49b574ca848367063d30eb08c6c01448d6b7e791f9dfe4e859889361e5abd"
+  },
+  {
     "datum": "2017-09-21",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "0a5aaba55753d0d25375bc671f8db2c81cb34f345c75f0ce4ca12d48c85c3221"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - Jaký dar by odpovídal mému zájmu o prezidentství pana Miloše Zemana? Ten bohužel nemohu poslat, musel by mi povolit inkaso.",
-    "ks": "2061",
-    "vs": "5850244210",
-    "ss": "1904513294",
-    "poznamka": "trvalý příkaz - Jaký dar by odpovídal mému zájmu o prezidentství pana Miloše Zemana? Ten bohužel nemohu poslat, musel by mi povolit inkaso.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "9bed298d47b29462661bcd67bb33da65be8ac7c7a2a656634106fa7b31782a1e"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - forma protestu proti volbě Zemana prezidentem",
-    "ks": "",
-    "vs": "62980",
-    "ss": "26473",
-    "poznamka": "trvalý příkaz - forma protestu proti volbě Zemana prezidentem",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a5b0977db7bc8885b54da2acda6d4c8df0e164f4428219b0edbc4f5aeb415512"
   }
 ]
