@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-21",
-    "castka": "1 000,00 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Ladislav Gabriel",
-    "zprava": "Pro vítěze voleb 2018! Pane prezidente,bude to opět lahodný pohled navelké slzy a hlasité kvičení všechtěch,kteří Vás urážejí! Těším se !",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Ladislav Gabriel",
-    "mnozstvi": 1.0,
-    "mena": "000,00",
-    "id": "93f55af5b4852abfe6d45032dc92c62c345d6937ea7f5ae93854d946d3e54773"
-  },
-  {
-    "datum": "2017-09-21",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pavel Tauer",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3e0b8c5b48a990d2ed827cd9a319ebf84f0a7411d19d61754996027e3e7e15b0"
+  },
+  {
+    "datum": "2017-09-14",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "6851",
+    "vs": "3842957308",
+    "ss": "0716436420",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6be5c4892b26b887c39725a0c97bcd71d37d98806f6dfff5a5e34a4c2483bb66"
   }
 ]
