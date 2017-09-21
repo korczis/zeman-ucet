@@ -4,6 +4,20 @@
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
+    "zprava": "ČR chce prez.s noblesou,důstojn.,charakterem a kapkou zdraví.eman degraduje funkci,je politováníhodný nemocný stařec,troska,kdo chce vidí",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "6adcd7b366afd39c0b204edbb1b65ad320623ba2e4ada3ab7a7fd38aa0ebd9e1"
+  },
+  {
+    "datum": "2017-09-21",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
     "zprava": "nechá stopu burana,křupana,lháře,opilce,ješitného,mstivého,hulváta a nekritického nabubřence,ovčané voltemně",
     "ks": "",
     "vs": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "f8ddf7284a8675550912da631d42f420a4c44f39c73c00fb7038bb8801ec1ac7"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "6851",
-    "vs": "3842957364",
-    "ss": "0716436486",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "1be37b6123e96788ec531b2f4996f843cc7fc854a5e802f2c93fb035e3d9b005"
   }
 ]
