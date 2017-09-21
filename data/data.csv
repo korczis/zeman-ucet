@@ -1,4 +1,11 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Matěj Dirr,Konec se blíží.....,3210,123456789,9876543210,Matěj Dirr,0.01,CZK,28e2db506211dffb0034979a517a9c469d95dbf52bcbea547d7f141e1a5b8558
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jakub Hlaváček,"","","","",Jakub Hlaváček,0.01,CZK,7bda66514c2b45dc04f4771bc9449e08c1ccbc2efbae68c286f65f2055b39b66
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Lukáš Štětina,"Dobry den vsem, podporte dobrou vec, prispejte na Obnovenou Schwarzenberskou granatnickou gardu. www.krumlovskagarda.cz/sponsoring/","","","",Lukáš Štětina,0.01,CZK,55c0ff97f5509fd716a171dadd3a921c353d061b63ea7ab869799ea8cec3219d
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Pavel Kadeřábek,Výsluha pro lháře,"","","",Pavel Kadeřábek,0.01,CZK,b68bc04f657486f4433f6935c18a99ddfa8bfcc835c70561c748f80a479c5acc
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,SEIDL JAN,"pro studenty MU: v PS 2017 poprvekurz  Czech Queer History , 5 kr.,kod ROM0B140, ut 12.30-14.05 K33,vyucovaci jazyk anglictina","",0,"",SEIDL JAN,0.01,CZK,a8bc10e8d3249e25619bc0dea201dfad182dac9a56cc159753d8bfe0235c3864
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,KOPECKY DAVID,Podporte slusneho prezidentahttp://www.mareknahrad.cz/,"",0,"",KOPECKY DAVID,0.01,CZK,ab2f3ee4f2d85183faeaef2b4f7fb903beb0c05c1c6902705b6472e5d50e29dd
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,LOUCKY KAREL,Stydim se za sveho prezidenta,"",0,"",LOUCKY KAREL,0.01,CZK,36802cc2cc2e84b8bb977abc5e760f5d1c00cdef540dd8c27d27fc3cc83e01d8
 2017-09-21,"0,11 CZK",Bezhotovostní příjem,Olšan Tomáš,"inzerát: drunkux.org - sleva 200,-za heslo  Becherovka Zemond v mailu","","","",Olšan Tomáš,0.11,CZK,a71112257941e5110b5d1d875f1c2879f1ba6f12583c3d9cdd10813d0bf9d90d
 2017-09-21,"0,11 CZK",Bezhotovostní příjem,Olšan Tomáš,"drunkux.org - sleva 200,- za hesloBecherovka Zemond v predmetu mailu","","","",Olšan Tomáš,0.11,CZK,af8d86a31f0ec938001d985edb6457f0bbed81eb039c21c8922f1b2c484eb7ad
 2017-09-21,"0,11 CZK",Bezhotovostní příjem,Kratěna Bohuslav,"MILOŠI KONČÍME, denní příspěvek","","","",Kratěna Bohuslav,0.11,CZK,f7261336db55faa8a51d5e8b5cc0daf3288aa80792b38b4de8778a5eae72425d
@@ -1992,10 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957316,0716436428,Miloše do koše,0.01,CZK,51e60bcd2eff7acc5d02db081300df8c3a16d4edeae30f7b199ad765a61fec7b
 2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957315,0716436427,Miloše do koše,0.01,CZK,d7dc8a8cc923bb8e9cd68bfcdb895f79e1c5480d510c57c82c4e7506ed5ea761
 2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957314,0716436426,Miloše do koše,0.01,CZK,a91ccf68220e8baceb88994d7e713f2efa3e7b312df8448a65e6f2d7de9156b9
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957313,0716436425,Miloše do koše,0.01,CZK,03601ccd60c320de881ffe229337043fc68bdd8274f298df5550bd8948ef17a0
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957312,0716436424,Miloše do koše,0.01,CZK,def50ce39824e57c1935625463756c78f232ea45f37731a4544b259d2825b00a
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957311,0716436423,Miloše do koše,0.01,CZK,da54d8c90a14f2f9f32d84b9c1369dde554fb3b3a1de254849567c485d161cdb
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957310,0716436422,Miloše do koše,0.01,CZK,67afe5e692ece1b63864120a4fb41bfca5be69eff36a7b96611cdf2f8091a5e4
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957309,0716436421,Miloše do koše,0.01,CZK,e5a1e6e1b02ab1928dfe687f73a2ac8514739b4f661bb275483309984f5ef59d
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957308,0716436420,Miloše do koše,0.01,CZK,6be5c4892b26b887c39725a0c97bcd71d37d98806f6dfff5a5e34a4c2483bb66
-2017-09-14,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,6851,3842957307,0716436419,Miloše do koše,0.01,CZK,92c5cb1207fc9e209b2982602405a1a9398634a766e5eb1691be8655cce44297
