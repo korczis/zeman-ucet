@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-21",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Kubínová Barbora",
-    "zprava": "Skrzevá tý hovadný skutkové musílivšici po smérti do pekla!",
-    "ks": "",
-    "vs": "666666",
-    "ss": "",
-    "poznamka": "Kubínová Barbora",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "97fd072e2382a17d9d15dec52eb01d11411aad13095e929c2e2d580181f16387"
-  },
-  {
-    "datum": "2017-09-21",
     "castka": "1 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Ladislav Gabriel",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "9333551a818247767fe3bcc5191c7894193075aad98e9bea3c73d8c223a6c639"
+  },
+  {
+    "datum": "2017-09-14",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "6851",
+    "vs": "3842957309",
+    "ss": "0716436469",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3e0b8c5b48a990d2ed827cd9a319ebf84f0a7411d19d61754996027e3e7e15b0"
   }
 ]
