@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MIKA ROMAN",
+    "zprava": "Proti Zemanovým milostem",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MIKA ROMAN",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "afd5b81af875a14fb53a1ddff85ed82d4db5ac57e8895c72c07c5c43b0f37485"
+  },
+  {
+    "datum": "2017-09-21",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "445f4ae7db56293166c530a4e36da7546d9d2d19ffaf8891c5ce0bb469760f70"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "6851",
-    "vs": "3842957358",
-    "ss": "0716436480",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "ccb1ac83cc9fb9ca184ae35832527ab6223e80042879568454496e3a8412cb1c"
   }
 ]
