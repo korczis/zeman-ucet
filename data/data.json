@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-21",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 166 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 166 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d56febaa58ff55ef0325c4676b21bd2b1d6f07698e6de4885a979f99601fa0a0"
+  },
+  {
+    "datum": "2017-09-21",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Matěj Dirr",
     "zprava": "Konec se blíží.....",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d7dc8a8cc923bb8e9cd68bfcdb895f79e1c5480d510c57c82c4e7506ed5ea761"
-  },
-  {
-    "datum": "2017-09-14",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "6851",
-    "vs": "3842957314",
-    "ss": "0716436426",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a91ccf68220e8baceb88994d7e713f2efa3e7b312df8448a65e6f2d7de9156b9"
   }
 ]
