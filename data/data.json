@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Zeman, Radim",
-    "zprava": "Karličko!Ty dospělá holčino!Přeju ti všechno nejlepší,štěstí,zdraví,hodně kvalitního chlastu a porna když už teď můžeš. Zůsťan stejná. :) :*",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Karličko!Ty dospělá holčino!Přeju ti všechno nejlepší,štěstí,zdraví,hodně kvalitního chlastu a porna když už teď můžeš. Zůsťan stejná. :) :*",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5692c189bf3cfbaf3355c1e98689033915ea63e579f06f1239c7df67456d23b0"
-  },
-  {
-    "datum": "2017-09-21",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kubínová Barbora",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "da54d8c90a14f2f9f32d84b9c1369dde554fb3b3a1de254849567c485d161cdb"
+  },
+  {
+    "datum": "2017-09-14",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "6851",
+    "vs": "369467310",
+    "ss": "0716436422",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9333551a818247767fe3bcc5191c7894193075aad98e9bea3c73d8c223a6c639"
   }
 ]
