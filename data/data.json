@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-22",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Kubínová Barbora",
+    "zprava": "Podaruj chuďasa stříbrňákem!",
+    "ks": "",
+    "vs": "666666",
+    "ss": "",
+    "poznamka": "Kubínová Barbora",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "c63272bc2a12b10609cd5941c929b598216c6bf90bd905acfc645c09da8c7a47"
+  },
+  {
+    "datum": "2017-09-22",
     "castka": "0,66 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "HAJEK KRYSTOF",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "368dc039ed4ecc49da2928c7e234eee007f0ddab749034b35e1ea0fc2a6b63e1"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "9045654341",
-    "ss": "8363719880",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "6d1848f617663351847d2505a50af4922ae42273f10446308442bb7ec19a2180"
   }
 ]
