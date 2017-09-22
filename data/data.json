@@ -3,6 +3,20 @@
     "datum": "2017-09-22",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Roj Pavel,Ing.",
+    "zprava": "Safra, spořka neumí poslat 1 halíř!tak to se prásknu přes kapsu ....",
+    "ks": "3531",
+    "vs": "1235748518",
+    "ss": "3535437321",
+    "poznamka": "Roj Pavel,Ing.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "a66add5f87f4c22eb2e29afbc2d5fc25d2e31d8e57224faab203a849d723d48b"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Kubínová Barbora",
     "zprava": "Podaruj chuďasa stříbrňákem!",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "36f0b93d76bf2bc0a1a362949df77d777bc375c33e3b98ad6d3d8e5625296212"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "3407007003",
-    "ss": "2862512239",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "368dc039ed4ecc49da2928c7e234eee007f0ddab749034b35e1ea0fc2a6b63e1"
   }
 ]
