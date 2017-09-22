@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-22",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pobořil, Jan",
+    "zprava": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "ks": "",
+    "vs": "42",
+    "ss": "",
+    "poznamka": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "eae7097e60722e2617eceaa98a4111ae8372cf3d00e4405eda1d4ee2ed9c7323"
+  },
+  {
+    "datum": "2017-09-22",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
@@ -27424,20 +27438,6 @@
     "mnozstvi": 0.02,
     "mena": "CZK",
     "id": "c9980ad368a95a455efa1b8a5631fdc90dea3cef996ef30cfd1c75799bd96e31"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c67670f6c3d6464d9fc3e169097e060d00df9419e6b925b3975e1410977269d1"
   },
   {
     "datum": "2017-09-15",
