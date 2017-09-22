@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pastucha, Zdeněk",
+    "zprava": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "A protože dokážu ocenit Milošovu práci, právě jsem zadal příkaz bance, aby mi 10x denně, až do silvestra strhávala částku 0,01 Kč.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e85c1c0daa04221d0c617600de2c566e65df6449a8b719012bf7b6a3442cecad"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. arch. Bartoš, Ladislav",
+    "zprava": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "ks": "1378",
+    "vs": "135797531",
+    "ss": "2000000000",
+    "poznamka": "PIKANTNÍ DETAILY Z HRADU I PODHRADÍ: www.pragdetail.wz.cz -doporučuje 5 ze 4 (sudeto)německých ovčáčků.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6b414447c6d4fdcb37aa9a6d98bd5311db8a3b94fd40e6ac2e7a7ffd64f4091a"
+  },
+  {
+    "datum": "2017-09-22",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Jatič, Jasmin Jan",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "cdbe0a390f1eb5be2cfbb36bf1b6f1fa6ab53af417a7d38d54654d8294b86d54"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "FIŠER RADOVAN",
-    "zprava": "PRASOPES                      PRASOPES",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "FIŠER RADOVAN",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e52bb82bfc710b8efb174761cce4513d52f0a55a2fe3ee90b4676fa591b35dfc"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "250,00 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "PAVLŮ ALEŠ",
-    "zprava": "PREZIDENTSKÉ VOLBY            VOLBA PREZIDENTA",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "PAVLŮ ALEŠ",
-    "mnozstvi": 250.0,
-    "mena": "CZK",
-    "id": "3d2c7565325cf82d45162faa2672f0016e42a2a3c5827dd5717bf9eae760b482"
   }
 ]
