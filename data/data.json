@@ -3,20 +3,6 @@
     "datum": "2017-09-22",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "MGR. MIROSLAV TROCHT",
-    "zprava": "MILOS ZEMAN JE SOUDEM POTVRZENY LHAR. _VIZ NAPR. PRIPADY OLOVO, BREZINA A PEROUTKA.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "MGR. MIROSLAV TROCHT",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "2b116bf62753199cb8ee76c5dfab19c6dd57150d63f76f97d308b3f3248356e5"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "TOMAS ZIMOLKA",
     "zprava": "OSTUDY JSI UŽ UDĚLAL DOST, MILOŠI!#OVČÁČEKNAPRACÁKU",
     "ks": "",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "e18ef83374e295da1cadb84e97b35513da3be2d217ae8b6ba776b25f24d45616"
+  },
+  {
+    "datum": "2017-09-15",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "9916",
+    "vs": "0257688558",
+    "ss": "7473528872",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "6d5168a0c34672de1b130c9683cc8fd2e75d202828b27d6e885185ddefa721c6"
   }
 ]
