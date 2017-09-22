@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a0793c4bb3ed7e7109f787963efd1ebcfc2c7e79149fb502f91e636918ac58ec"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "55c5c547e456697227e559691c346285b2abbd3d31ffcf4958e227d62a7979f1"
+  },
+  {
+    "datum": "2017-09-22",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Roj Pavel,Ing.",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "0f0e87e672e994774b624ba8f6fea7e39a867ce1aacd1d5413e37c4a84135f98"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "0676585678",
-    "ss": "9163613304",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "76c517d63aeca1df3a4cb5417c9301bb2f661f2fc9daa1fdf1033ee2eeabbb6a"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "5229496907",
-    "ss": "5367610317",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "36f0b93d76bf2bc0a1a362949df77d777bc375c33e3b98ad6d3d8e5625296212"
   }
 ]
