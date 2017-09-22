@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-22",
-    "castka": "0,66 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "HAJEK KRYSTOF",
-    "zprava": "Chtel bych pozdravit tetu z Liberce,moje sestry, mamu a predevsim naseho kamarada Radka, ktery ma dnes narozeniny. A prosim zahrat pisnicku!",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "HAJEK KRYSTOF",
-    "mnozstvi": 0.66,
-    "mena": "CZK",
-    "id": "13ec93c51895fc2e3591e622f2a952dc9bbab36f010d1a808e690b21e669d5f7"
-  },
-  {
-    "datum": "2017-09-22",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6d1848f617663351847d2505a50af4922ae42273f10446308442bb7ec19a2180"
+  },
+  {
+    "datum": "2017-09-15",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "0404",
+    "vs": "2955122500",
+    "ss": "4151052221",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1710666d8ed58c59fc0aafab327d66aead4855bdffdb145bb65735c370725ae5"
   }
 ]
