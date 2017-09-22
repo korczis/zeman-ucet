@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-22",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Čajánek, Václav",
+    "zprava": "Inzerát: Luxusní servisy pro vaši domácnost, restauraci či kavárnu. Clapdesign.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Inzerát: Luxusní servisy pro vaši domácnost, restauraci či kavárnu. Clapdesign.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "021da51662ff6c5b74807f9b1156f3b593f06f71135d784b4890fd0852918884"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "MGR. MIROSLAV TROCHT",
     "zprava": "MILOS ZEMAN JE SOUDEM POTVRZENY LHAR. _VIZ NAPR. PRIPADY OLOVO, BREZINA A PEROUTKA.",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "93a67ae7cf6fd50f631a5ee0ba7328e3f151b0d6e267c0ffca0386a8011db10c"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "7530337353",
-    "ss": "5902922147",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e18ef83374e295da1cadb84e97b35513da3be2d217ae8b6ba776b25f24d45616"
   }
 ]
