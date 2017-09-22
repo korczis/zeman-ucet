@@ -2,6 +2,34 @@
   {
     "datum": "2017-09-22",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Wieclaw, Jan",
+    "zprava": "Super matrace za nízkou cenu https://www.kralovske-spani.cz/matrace/levne-matrace/c-53.html",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Super matrace za nízkou cenu https://www.kralovske-spani.cz/matrace/levne-matrace/c-53.html",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "99e725afbf22759147e5af6c1867e74413f2b100045fc487f8b7f62a797c9539"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Wieclaw, Jan",
+    "zprava": "Super matrace za nízkou cenu https://www.kralovske-spani.cz/matrace/levne-matrace/c-53.html",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Super matrace za nízkou cenu https://www.kralovske-spani.cz/matrace/levne-matrace/c-53.html",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "99e725afbf22759147e5af6c1867e74413f2b100045fc487f8b7f62a797c9539"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Bc. Oldřich Turner",
     "zprava": "Na popelníček a chlast",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "54931e71bdeba620e70987b379d3660643c654301024a0afaac4b895be77c4d0"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9283",
-    "vs": "4293131904",
-    "ss": "5197968813",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "06ff5a95c2c9020d5532bffb4c50c89d142aa457cbbeb38a1e050acf8fc74f27"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "0722030237",
-    "ss": "8226052066",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "0c6eb50299d41f682bcfdbdf891af3c1dfaec55876d0cfe9a33c470a0a0d498a"
   }
 ]
