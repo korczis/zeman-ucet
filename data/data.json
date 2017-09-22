@@ -3,6 +3,20 @@
     "datum": "2017-09-22",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1d87feec8821fa5e7339e1a68e395722659b66a4e3cce6b616ce03ea129ab01a"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Wieclaw, Jan",
     "zprava": "Super matrace za nízkou cenu https://www.kralovske-spani.cz/matrace/levne-matrace/c-53.html",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "1710666d8ed58c59fc0aafab327d66aead4855bdffdb145bb65735c370725ae5"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "3268676385",
-    "ss": "0238254213",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "356b313e4b3b8aa4043a7a43faad57bbcef51ab6e82cf47903eaad804544dd7e"
   }
 ]
