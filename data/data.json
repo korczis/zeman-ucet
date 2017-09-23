@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-23",
+    "castka": "12,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pohořelský, Michal",
+    "zprava": "Miloš Zeman byl, je a opět bude HRADĚ !!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloš Zeman byl, je a opět bude HRADĚ !!!",
+    "mnozstvi": 12.0,
+    "mena": "CZK",
+    "id": "839dd8c776d5f1af872664b584f69aacb47bf8651fd809893334201c7352efbd"
+  },
+  {
+    "datum": "2017-09-23",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "0b3cc65b1b9487012084cb236f49030f72f8553bef1d4e5f471e97749649835b"
-  },
-  {
-    "datum": "2017-09-15",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0579",
-    "vs": "6898473363",
-    "ss": "9272341063",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "1f7e75044250e4e378375273a026386e649c5df68bba90991e5ee01be67847c7"
   }
 ]
