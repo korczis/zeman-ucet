@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-25",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Růžková Michaela",
+    "zprava": "MANZELE0-RUZKOVI,ROZTOKY",
+    "ks": "",
+    "vs": "7659082772",
+    "ss": "",
+    "poznamka": "Růžková Michaela",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "a1fbbcc3e520018ec57a1579934cfd83b488da23f9cd0759bbb65dc4eb28ca7f"
+  },
+  {
     "datum": "2017-09-24",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "880c0f5b916f45d7ca429d17c20e19cb14073ad7e05f2201ba508654ba8d23b1"
-  },
-  {
-    "datum": "2017-09-16",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Rezek, Milan",
-    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
-    "ks": "8960",
-    "vs": "7465626677",
-    "ss": "7554456299",
-    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "112b966923dd04ac59531f400ce510f8989a168f446cc2dbd305f538cd1d680b"
   }
 ]
