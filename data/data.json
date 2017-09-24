@@ -3,20 +3,6 @@
     "datum": "2017-09-24",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Straka, Jan",
-    "zprava": "Chcete-li nadále využívat wi-fi, přispívejte každý měsíc 70 Kč na účet 2500959970/2010.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Chcete-li nadále využívat wi-fi, přispívejte každý měsíc 70 Kč na účet 2500959970/2010.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "41543301c6e10a0b0517660e419924bd6783c17457e9d0418f918ce6ca7d66d3"
-  },
-  {
-    "datum": "2017-09-24",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "112b966923dd04ac59531f400ce510f8989a168f446cc2dbd305f538cd1d680b"
+  },
+  {
+    "datum": "2017-09-16",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "Babiš chce následně vystřídat Zemana ve funkci, ten mu s tím pak pomůže. To je oč tu běží.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c1ff9a303f82bcc95dcaa37fa8522cabec8ee786bff9d2b962106e3b0145897a"
   }
 ]
