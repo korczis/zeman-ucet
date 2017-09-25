@@ -3,6 +3,20 @@
     "datum": "2017-09-25",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fdb3cd62a33356c898271f66787ccbcaaf955784ba2eb3abbc2bc6a09009ad9c"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "b211d8576d73aad52326bb7260193064d2e59236837f5e44214a6da45d407df4"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "2 Petrův 2:22 Přihodilo se jim to, co říká pravdivé přísloví: 'Pes se vrátil k vlastnímu vývratku' a umytá svině se zase válí v bahništi.",
-    "ks": "",
-    "vs": "14",
-    "ss": "",
-    "poznamka": "2 Petrův 2:22 Přihodilo se jim to, co říká pravdivé přísloví: 'Pes se vrátil k vlastnímu vývratku' a umytá svině se zase válí v bahništi.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "abce889d8f55afcae5086656c215201f5f2819807f2c9d316807f080ecce932b"
   }
 ]
