@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-25",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "RUDOLF SLABA",
+    "zprava": "KOLABORANTSKÁ OSTUDO VÝCHODNÍHO TYPU - PROHRAJ A ZMIZ JEDNOU PRO VŽDY!!!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "RUDOLF SLABA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8ad649386f6d2a5f936e55a1d4dc6e57610cc18e0d37f83903e485bed682567b"
+  },
+  {
+    "datum": "2017-09-25",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pavlíček Jiří,Ing.",
@@ -27802,20 +27816,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "acb4ca748bbe1455c554206a5be6b633db30a384930d91a2a02f9af3b1296eeb"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "ŠPÍNA PATŘÍ DO ODPADKŮ A MILOŠ ZEMAN DO TEPLÁKŮ!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3eb4eac7107defe1e4680f01fa40b4dea3edef2b6ddca27b8f76e7dd67b95bd8"
   },
   {
     "datum": "2017-09-18",
