@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-25",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Radil, Jan",
+    "zprava": "Aby vám při pohledu na korunovační klenoty nedošla energie. Sleva 5 % na ILIN.cz, kód \"ZEMAN\"",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Aby vám při pohledu na korunovační klenoty nedošla energie. Sleva 5 % na ILIN.cz, kód \"ZEMAN\"",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f13ec88e0d5633f269b8081a41112fb0110fde1f7c606a4190c7acd964511d4b"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Turner",
     "zprava": "Pro hradního alkoholika a jeho Ovečku trochu historie: Pražská defenestrace 1419, 1483, 1618 a ...2017? Raději nohy na ramena, Miloši a uteč",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "75f9515c80f1d86d0044d17fd335d8251bdb06b09ea6d77f9b021cf6b0713cca"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "Koloským 2:9 V něm (Ježíši Kristu)je přece vtělena všechna plnost božství;",
-    "ks": "",
-    "vs": "7",
-    "ss": "",
-    "poznamka": "Koloským 2:9 V něm (Ježíši Kristu)je přece vtělena všechna plnost božství;",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a106e1996e9706ff2385e22bbfbc2b2eeab031070afa815a13bc03b0974da771"
   }
 ]
