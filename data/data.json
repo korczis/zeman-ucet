@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-25",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pobořil, Jan",
+    "zprava": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "ks": "",
+    "vs": "42",
+    "ss": "",
+    "poznamka": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "8ba2a78ae0f8eaa709a20cd6c58a8a5235955497059c04d373d3d6100bb07f20"
+  },
+  {
+    "datum": "2017-09-25",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Dřínek, Vratislav",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "c731fc5c43c58f953c6daba2548b02e10c9fca0a7d40fa20696d7d4498fdcd98"
-  },
-  {
-    "datum": "2017-09-16",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "MSNGwLabLpctx9rYnyBCVd8ssWeb/Z8/Zw8O/tWfti/toeB/Elrql58P9Ql8CXPm2V7NYyWXiG30952uba4iZZIbuGCLRZN8bAgrFnOWBAPG/hb8DvC37N3x3t/jLoPwtk/ZD+CHgXRL",
-    "ks": "",
-    "vs": "7457650036",
-    "ss": "2916125193",
-    "poznamka": "MSNGwLabLpctx9rYnyBCVd8ssWeb/Z8/Zw8O/tWfti/toeB/Elrql58P9Ql8CXPm2V7NYyWXiG30952uba4iZZIbuGCLRZN8bAgrFnOWBAPG/hb8DvC37N3x3t/jLoPwtk/ZD+CHgXRL",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "7cf988da3fcea37a322ff99baa4db08774df75e189b010e83944eabce7dd4a8b"
   }
 ]
