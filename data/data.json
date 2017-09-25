@@ -1,34 +1,6 @@
 [
   {
     "datum": "2017-09-25",
-    "castka": "0,10 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Jatič, Jasmin Jan",
-    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "5ecbc260bbb4cf149305ea8393519c629fa45ac2de08350e9093edaa352e15fc"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,10 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Jatič, Jasmin Jan",
-    "zprava": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Přírodní kartáček, který bělí zuby!  -10% KÓD:MILOS10 www.klacik.cz",
-    "mnozstvi": 0.1,
-    "mena": "CZK",
-    "id": "5ecbc260bbb4cf149305ea8393519c629fa45ac2de08350e9093edaa352e15fc"
-  },
-  {
-    "datum": "2017-09-25",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Kříž, Lukáš",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d624e676151c643f2d8b05779773e52e9f195b35f644c43f8331615a02f0c307"
+  },
+  {
+    "datum": "2017-09-16",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "V2luZG93cyI+DQoJCQk8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpDQUVDNDJDOUExMzFFMzExQjc4RUUxQzM2QTA4MEMyQSIgc3RSZWY6ZG9jdW1l",
+    "ks": "",
+    "vs": "7457650007",
+    "ss": "2916125193",
+    "poznamka": "V2luZG93cyI+DQoJCQk8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpDQUVDNDJDOUExMzFFMzExQjc4RUUxQzM2QTA4MEMyQSIgc3RSZWY6ZG9jdW1l",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f76db29cec9a85940ebbc28e977b6689300a4f8ec6457e93d4c9d3f2569cf649"
+  },
+  {
+    "datum": "2017-09-16",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "OEY1M0E1IiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjQxNzNGOEI2NkVCNDExRTQ4RTYxQThBMTEwOEY1M0E1IiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzQg",
+    "ks": "",
+    "vs": "7457650006",
+    "ss": "2916125193",
+    "poznamka": "OEY1M0E1IiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjQxNzNGOEI2NkVCNDExRTQ4RTYxQThBMTEwOEY1M0E1IiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzQg",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c1b4aeac44d774890fe24734e7f52d074662c610b88ec41def17736df062fe60"
   }
 ]
