@@ -3,6 +3,34 @@
     "datum": "2017-09-25",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "MATOUS HAJEK",
+    "zprava": "PŘÍSPĚVEK NA NOVÝ NAFUKOVACÍ ČLUN.A+M+B",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MATOUS HAJEK",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "cce6dab36803ad1a78e169025ec3a739d13f50af119fbb7d66ca83a8eda900c7"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "MGR. MIROSLAV TROCHT",
+    "zprava": "'NOVINARI BY SE MELI LIKVIDOVAT.' MILOS ZEMAN, PREZIDENT CR",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "MGR. MIROSLAV TROCHT",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f0b8b912c5965c8a21af9cb187bdc043153959a6f05fd699d40c59f4963beb99"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "MIROSLAV MERINSKY",
     "zprava": "PŘIJEL JSEM DO ČÍNY, ABYCH SE OD ČÍNY UČIL, JAK ZVÝŠIT HOSPODÁŘSKÝ RŮST A JAK STABILIZOVAT SPOLEČNOST. MZ",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "497d3a53def537f8a7dd2bb79af2b2944faf8e44d9c81e2baa0a9b6dc380bae7"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "SKUCIUS TOMÁŠ",
-    "zprava": "Budu tě volit. Chci vidět, co se stane, když prezident během funkčního období umře.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "SKUCIUS TOMÁŠ",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "049d29c7544d235ee12e4eee7bb8c31a31e63793af781676b74c953c60ef37e3"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CARNOLT COMPANY S.R.",
-    "zprava": "WWW.CARNOLT.CZ Auto na KlícSleva 2000Kc na komplet asistenciHeslo NEVOLIM MILOSE",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "CARNOLT COMPANY S.R.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "575722654747dcd467d9c40d59a6e4a8bf221bd71fe8a24a44bcb99bf95eec63"
   }
 ]
