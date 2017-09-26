@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-26",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "85b0b086c23e2b072c2e98116093406d8c22db6c65a0145be9bca851e3fe4e11"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TACEA S.R.O.",
     "zprava": "pro  ceskeh Trumpa  at se chyti za nos !",
@@ -27970,20 +27984,6 @@
     "mnozstvi": 60.0,
     "mena": "CZK",
     "id": "38abdbb2aba7c5165bb486224a562d7391b1a3bc954299f50489448a1e463f21"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Ručka",
-    "zprava": "Inzerát: Doučuji francouzštinu na jakékoli úrovni zdarma, Ostrava a okolí,dojíždím na vlastní náklady. jeanmain1952@gmail.com",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Ručka",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cbd001ad7748e507628a310bbbab0f3ff757601dca8a54f31fd838618ba17e76"
   },
   {
     "datum": "2017-09-18",
