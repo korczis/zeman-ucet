@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-26",
     "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TACEA S.R.O.",
+    "zprava": "pro  ceskeh Trumpa  at se chyti za nos !",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "TACEA S.R.O.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c8875107752bd9bb663f46a7e2ec1cd292bd56d3cac4a335d5dcf04160acf4f5"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Trunec, Václav",
     "zprava": "Miloušku, prozraď jak to bylo s Ruskou trikolórou na tvé kravatě při inauguračním projevu. Asi to nebyl omyl protokolu, že?",
@@ -27956,20 +27970,6 @@
     "mnozstvi": 60.0,
     "mena": "CZK",
     "id": "38abdbb2aba7c5165bb486224a562d7391b1a3bc954299f50489448a1e463f21"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Ručka",
-    "zprava": "Inzerát: Doučuji francouzštinu na jakékoli úrovni zdarma, Ostrava a okolí,dojíždím na vlastní náklady. jeanmain1952@gmail.com",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Ručka",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cbd001ad7748e507628a310bbbab0f3ff757601dca8a54f31fd838618ba17e76"
   },
   {
     "datum": "2017-09-18",
