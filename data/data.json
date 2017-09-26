@@ -88,6 +88,34 @@
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ad9d86babb4274d3d621e2e393120b3b1deee45fcc679bb54d0f81631580d76c"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.ziskejte.cz/?doporucuje=STUDENAK    Získejte peníze zpět z vašich nákupů.  200 korun bonus !",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ad9d86babb4274d3d621e2e393120b3b1deee45fcc679bb54d0f81631580d76c"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
     "vs": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3eb4eac7107defe1e4680f01fa40b4dea3edef2b6ddca27b8f76e7dd67b95bd8"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "ŠPÍNA PATŘÍ DO ODPADKŮ A MILOŠ ZEMAN DO TEPLÁKŮ!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3eb4eac7107defe1e4680f01fa40b4dea3edef2b6ddca27b8f76e7dd67b95bd8"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "ONDREJ SMID",
-    "zprava": "KAŽDÁ ZEMĚ MÁ TAKOVOU VLÁDU, KTEROU SI ZASLOUŽÍ. TAKOVÉHO OŽRALU A HULVÁTA SI ALE VÁŽNĚ NEZASLOUŽÍME!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "ONDREJ SMID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "30c39f94a99bfc82f824866fd0293cbc903f6b0c69b8e48c9292b242292d52c6"
   }
 ]
