@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-27",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Košíček, Petr",
+    "zprava": "******* KLIKNI ZDARMA A NAPLŇ MISKU - www.clickandfeed.cz -----Sice tím nenakrmíš Ovčáčka, ale zato nějaké potřebnější zvířátko. *******",
+    "ks": "9658",
+    "vs": "3524874521",
+    "ss": "1458274452",
+    "poznamka": "******* KLIKNI ZDARMA A NAPLŇ MISKU - www.clickandfeed.cz -----Sice tím nenakrmíš Ovčáčka, ale zato nějaké potřebnější zvířátko. *******",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "9625c90def0c62bd71aa576354f01e56d531693a033f8354e08fe14722d71f99"
+  },
+  {
     "datum": "2017-09-26",
     "castka": "0,10 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "1c3e041dee9517ad78236de67d64c30b33462db69e3e3b0da2383304b2726df5"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Ing. Zdeněk Brýdl",
-    "zprava": "Upřímně se děsím, co tento elementna své cestě do USA zase pronese... Tipl bych, že svému velkému Já doporučí střílet přistěhovalce z",
-    "ks": "0000",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Ing. Zdeněk Brýdl",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "151c6180899a1c8438cca433df607516f755250ccae287e27b0dbdaf4389279f"
   }
 ]
