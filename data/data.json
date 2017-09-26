@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-26",
+    "castka": "30,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pohořelský, Michal",
+    "zprava": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "mnozstvi": 30.0,
+    "mena": "CZK",
+    "id": "61466cd87758eaec28719f191eb0b62ca03e9f56cd39150072463652089e229f"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "20,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pohořelský, Michal",
+    "zprava": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "mnozstvi": 20.0,
+    "mena": "CZK",
+    "id": "7a6f9ffd8f85bbe1085b9f8ad52c6054f06e33b8438b246fe568f92f48dba0ab"
+  },
+  {
+    "datum": "2017-09-26",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "1e6490ccdb0568d4412051aa92e621f8e51475035b28ce318be685ffce2980f3"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "MATOUS HAJEK",
-    "zprava": "PŘÍSPĚVEK NA NOVÝ NAFUKOVACÍ ČLUN.A+M+B",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "MATOUS HAJEK",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d57f0d1ed629009888c78959bd92fa91b8f7de117b2a98a4b4b6f0bf55e98bb3"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "MGR. MIROSLAV TROCHT",
-    "zprava": "'NOVINARI BY SE MELI LIKVIDOVAT.' MILOS ZEMAN, PREZIDENT CR",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "MGR. MIROSLAV TROCHT",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "281bf10dcf8fab4b1bf26b4a57e1c5455ca3ccdaa0fbd8d7c9a19e231499d19c"
   }
 ]
