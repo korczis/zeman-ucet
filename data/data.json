@@ -3,6 +3,20 @@
     "datum": "2017-09-26",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Rezek, Milan",
+    "zprava": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "ks": "8960",
+    "vs": "7465626677",
+    "ss": "7554456299",
+    "poznamka": "!!!!  PIŠTE ..VS.. pište ..SS..pište..KS.. at má hradní opisovač trochu práce  !!!!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "f0e76c44db399b7361e46219fa82c904d19468690a897b400934774321facffa"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Klein, Bohumil",
     "zprava": "Ve čtvrtek 26.11.2017 sraz 4.F ve Dnu Pytle od 18:00",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "763882e5abe370117b93c066fd06775e159d56dff91c4f781fa358ac3044b1c2"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Radomír Chromík",
-    "zprava": "Je mi z Vás na zvracení!",
-    "ks": "0000",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Radomír Chromík",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "71ef409351e2c9b4cc9e1792c0732adaa7393e50f97ac067d48a5ebe8f33031d"
   }
 ]
