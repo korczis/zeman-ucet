@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-26",
-    "castka": "40,00 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Pohořelský, Michal",
-    "zprava": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
-    "mnozstvi": 40.0,
-    "mena": "CZK",
-    "id": "96321648191e61a51a13000b721794c107fe6a186b77059e269f5691415d0589"
-  },
-  {
-    "datum": "2017-09-26",
     "castka": "30,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pohořelský, Michal",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "a6b64dc1bf284ee059a31eb796e9fcc36da0fccdbba4b8d85ee39a6adb2b89fd"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "MUDr. Vávra, Pavel",
+    "zprava": "Doma rádi pijeme kvalitní kávu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Doma rádi pijeme kvalitní kávu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1e6490ccdb0568d4412051aa92e621f8e51475035b28ce318be685ffce2980f3"
   }
 ]
