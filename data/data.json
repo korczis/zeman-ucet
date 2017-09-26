@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-26",
+    "castka": "0,10 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Petrovová, Markéta",
+    "zprava": "příspěvek na lobotomii",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "příspěvek na lobotomii",
+    "mnozstvi": 0.1,
+    "mena": "CZK",
+    "id": "5ac174f4089717cce62cf4349c8da32e3c8e33fee1211fdfd2da2d26037e29bd"
+  },
+  {
+    "datum": "2017-09-26",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Rezek, Milan",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "151c6180899a1c8438cca433df607516f755250ccae287e27b0dbdaf4389279f"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Ing. Zdeněk Brýdl",
-    "zprava": "A co pronese v OSN, to si ani představit nedokáži... P.S. Nemám nic společného s pražskou kavárnou a animne nikdo neplatí.",
-    "ks": "0000",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Ing. Zdeněk Brýdl",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "763882e5abe370117b93c066fd06775e159d56dff91c4f781fa358ac3044b1c2"
   }
 ]
