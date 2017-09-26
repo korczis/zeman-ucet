@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Klein, Bohumil",
-    "zprava": "Ve čtvrtek 26.11.2017 sraz 4.F ve Dnu Pytle od 18:00",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Ve čtvrtek 26.11.2017 sraz 4.F ve Dnu Pytle od 18:00",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a6896d81e4e16f96d507ecfa33858f06debb771a03206f01e9ce689e3b440a95"
-  },
-  {
-    "datum": "2017-09-26",
     "castka": "40,00 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pohořelský, Michal",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "71ef409351e2c9b4cc9e1792c0732adaa7393e50f97ac067d48a5ebe8f33031d"
+  },
+  {
+    "datum": "2017-09-18",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Kubinová, Dagmar",
+    "zprava": "Ještě se 169 krát vyspím a Miloš jde z Hradu!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Ještě se 169 krát vyspím a Miloš jde z Hradu!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "a6b64dc1bf284ee059a31eb796e9fcc36da0fccdbba4b8d85ee39a6adb2b89fd"
   }
 ]
