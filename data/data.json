@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-27",
+    "castka": "500,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kolařík, Miroslav",
+    "zprava": "Za zájmy Čechů a Moravanů.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Za zájmy Čechů a Moravanů.",
+    "mnozstvi": 500.0,
+    "mena": "CZK",
+    "id": "41960b46549372d4717f16edd0843f515050b2b581b54ada2205c5745db02a0a"
+  },
+  {
+    "datum": "2017-09-27",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "LUKAS VINTR",
@@ -27942,20 +27956,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "7daf08607c75535ad2f597a2396a67d455de1b02cfb68b493b900a327176ae17"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",

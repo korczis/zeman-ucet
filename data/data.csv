@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-09-27,"500,00 CZK",Platba převodem uvnitř banky,"Kolařík, Miroslav",Za zájmy Čechů a Moravanů.,"","","",Za zájmy Čechů a Moravanů.,500.0,CZK,41960b46549372d4717f16edd0843f515050b2b581b54ada2205c5745db02a0a
 2017-09-27,"0,01 CZK",Bezhotovostní příjem,LUKAS VINTR,"PRODÁM DÁRKOVÉ POUKÁZKY DO CESTOVKY INVIA A TAKÉ DO STUDENT AGENCY, MOB:776276631 - DRAHOŠ NA HRAD","",776276631,"",LUKAS VINTR,0.01,CZK,391b1e4bf87318112d88072b00dfe56d6b7c5726daa8b06a31b5098c7604e651
 2017-09-27,"0,01 CZK",Bezhotovostní příjem,LUKAS VINTR,"KOUPÍM POUKÁZKY STRAVENKY TYPU FLEXI PASS, UNIŠEK, TICKET MULTI MOB:776276631, PŘEDÁNÍ OSTRAVA, PRAHA","",776276631,"",LUKAS VINTR,0.01,CZK,731de17fd7dfdbd97c9f934ef367332b1a704226c15834da97b276ada21e2ffb
 2017-09-27,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,PAN BABIŠ JE NEVĚROHODNÝ! MZ,"",3363704956,5059246787,MIROSLAV MERINSKY,0.01,CZK,fea90f5161852a3b9e962512fa07ca029e905234a9af5a959417863fb2d05d3b
@@ -1995,7 +1996,6 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Jablunka,http://www.zemancountdown.cz/,"","","",Jan Jablunka,0.01,CZK,7daf08607c75535ad2f597a2396a67d455de1b02cfb68b493b900a327176ae17
-2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
 2017-09-19,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111
