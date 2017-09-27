@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-09-28",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Košíček, Petr",
+    "zprava": "Tak pane prezidente,přeji hodně zdraví k Vaším posledním narozeninám na Hradě. A nezapomeňte je pořádně zapít,příští již budou na Vysočině!!",
+    "ks": "1944",
+    "vs": "28091944",
+    "ss": "28091944",
+    "poznamka": "Tak pane prezidente,přeji hodně zdraví k Vaším posledním narozeninám na Hradě. A nezapomeňte je pořádně zapít,příští již budou na Vysočině!!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3a305f9ef22a656cc34a550decddb24ffe69012454fdd58e68f5eacee1fa6eac"
+  },
+  {
     "datum": "2017-09-27",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27900,20 +27914,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "ea38ac520b9c275dd33d6abb1f77e3eff098f6a598ed13bf2ca25a9eae2bfbbe"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
