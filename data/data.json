@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-27",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1671717c5b77b80cb64aefcc73ffc6806827ec1964eb8736ec29660639ba3475"
+  },
+  {
+    "datum": "2017-09-27",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1671717c5b77b80cb64aefcc73ffc6806827ec1964eb8736ec29660639ba3475"
+  },
+  {
+    "datum": "2017-09-27",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "7ca25b85ec421768c3925aa06f44f70a7b2a8a87efbf7bd91ea845e4bd5a9380"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9283",
-    "vs": "4293131904",
-    "ss": "5197968813",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "11adc70435373af29ca094f25e0f2f5b4fb20e4e9869c6ee3a5a1ae3a9fad5c9"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "0722030237",
-    "ss": "8226052066",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3e67f1b35fd99df763ba833e764567b10b886deab7990d04488a6fad3080b8db"
   }
 ]
