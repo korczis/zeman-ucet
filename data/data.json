@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-09-27",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "ovar plantá-Sobotka je svině,pussy,zkurvil-proto etiketa na slivovicirozkydlá odporná kvákající ropuchaa to jsem ropuchu urazil",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "4e8863fb70cd1ce54db1c68b6b35b3f975a7ad304cf50e06bd9f73ebb48ff66c"
+  },
+  {
+    "datum": "2017-09-27",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "ovar plantá-Sobotka je svině,pussy,zkurvil-proto etiketa na slivovicirozkydlá odporná kvákající ropuchaa to jsem ropuchu urazil",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "4e8863fb70cd1ce54db1c68b6b35b3f975a7ad304cf50e06bd9f73ebb48ff66c"
+  },
+  {
+    "datum": "2017-09-27",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3e67f1b35fd99df763ba833e764567b10b886deab7990d04488a6fad3080b8db"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "5369676429",
-    "ss": "0612191834",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "07bc9d800450962af05e05710187978586165cf56238c54cd06f50453b587af3"
-  },
-  {
-    "datum": "2017-09-18",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "2111105923",
-    "ss": "5496043166",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e3c8110865c1013d5a047303b629dd53fc438455318ec68a2a985f363303b048"
   }
 ]
