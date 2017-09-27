@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-27",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Kelecsényi, Maxim",
+    "zprava": "Tvoje oči svítí jako světla z valmax.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Tvoje oči svítí jako světla z valmax.cz",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "97fba5d2b506520b38e38d87be08127772449b8ba06bafcf2a2abafb7c61e970"
+  },
+  {
+    "datum": "2017-09-27",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jan Turner",
     "zprava": "Pro hradního alkoholika a jeho Ovečku trochu historie: Pražská defenestrace 1419, 1483, 1618 a ...2017? Raději nohy na ramena, Miloši a uteč",
@@ -27886,20 +27900,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "ea38ac520b9c275dd33d6abb1f77e3eff098f6a598ed13bf2ca25a9eae2bfbbe"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
