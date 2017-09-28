@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-29",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "Zeman st.zástup.odmítl naklusat nadaču,přijde trest,př.kardinál Vlk,Brady,židli 28.10.obsadí náhradník,bezmezná pomstychtivost",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "efb4236c15691d81500309dd527b07a69793f24215ed2397fe09594056deb18f"
+  },
+  {
+    "datum": "2017-09-29",
     "castka": "3,14 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "ING. IVANA RIPPLOVÁ",
@@ -27690,20 +27704,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6756a6c25f1e60eaf85c680b2fafd3155f12c701efe6074b7148e232b9c3b484"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
