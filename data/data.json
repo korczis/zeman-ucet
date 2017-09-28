@@ -3,6 +3,20 @@
     "datum": "2017-09-29",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "SMRZ JOSEF",
+    "zprava": "13QuR4iVYbqzqSrnq16XNdMKvgvWeiKgTU",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "SMRZ JOSEF",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "80269aa733bc2a347e490c17ef0080d3b20c97d08b7c40261fd29249596c7cf4"
+  },
+  {
+    "datum": "2017-09-29",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Tomáš Martynek",
     "zprava": "Odvod z výplaty, níž už to nešlo..Sbohem a šáteček #DDOS-ústavy #malware-na-hradě #milose-do-kose",
     "ks": "",
@@ -27648,20 +27662,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6756a6c25f1e60eaf85c680b2fafd3155f12c701efe6074b7148e232b9c3b484"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
