@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-29",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Machovský Robert",
+    "zprava": "Miloši, jestli jsi vlastenec, tak okamžitě umři! Udělej jednou něco užitečného a my na tebe budeme vzpomínat se slzou v oku.",
+    "ks": "",
+    "vs": "666",
+    "ss": "",
+    "poznamka": "Machovský Robert",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "04ffbbe6af05a2916f0f9cc8cd0d0a269b102ce0622880c28ceb8eb40a089f82"
+  },
+  {
+    "datum": "2017-09-29",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "SMRZ JOSEF",
@@ -27662,20 +27676,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6756a6c25f1e60eaf85c680b2fafd3155f12c701efe6074b7148e232b9c3b484"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
