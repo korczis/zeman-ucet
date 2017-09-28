@@ -3,6 +3,20 @@
     "datum": "2017-09-28",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Režný, Martin",
+    "zprava": "Přeji panu Zemanovi i nám všem, aby se o další působení v roli prezidenta už neucházel. Máme tady lepší kandidáty, a Zeman si aspoň odpočine",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přeji panu Zemanovi i nám všem, aby se o další působení v roli prezidenta už neucházel. Máme tady lepší kandidáty, a Zeman si aspoň odpočine",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d86632a2c464b637e5acd553fedf7c5ac18bb6b4ab89dbdb3ef1cb83188252a6"
+  },
+  {
+    "datum": "2017-09-28",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27620,20 +27634,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6756a6c25f1e60eaf85c680b2fafd3155f12c701efe6074b7148e232b9c3b484"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
