@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-09-29",
+    "castka": "3,14 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ING. IVANA RIPPLOVÁ",
+    "zprava": "Na bonmotky",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "ING. IVANA RIPPLOVÁ",
+    "mnozstvi": 3.14,
+    "mena": "CZK",
+    "id": "bae1f6a483095a2738dea89f78a487c362102ee765ac2fdb5f013e924d373112"
+  },
+  {
+    "datum": "2017-09-29",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Machovský Robert",
@@ -27676,20 +27690,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6756a6c25f1e60eaf85c680b2fafd3155f12c701efe6074b7148e232b9c3b484"
-  },
-  {
-    "datum": "2017-09-19",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cc26d7e17feb409fbc243abe47e94460beb9ae72b5d9e779b51c64534bf27111"
   },
   {
     "datum": "2017-09-19",
