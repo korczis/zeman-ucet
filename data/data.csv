@@ -1,11 +1,4 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,MYNÁŘE ODVOLÁM! MZ,"",6928679091,2461493241,MIROSLAV MERINSKY,0.01,CZK,fed95410e129b1a2844171c8b23e1090679b87ff7760b990658529e1f11f272d
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,DONALD TRUMP MĚ POZVAL DO BÍLÉHO DOMU. MZ,"",8180233762,2088677626,MIROSLAV MERINSKY,0.01,CZK,97a2f0beba42a139911292ba315ea05b51d18747480ab999997338d8a5a185e4
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,"A PROTOŽE MÁM FOTOGRAFICKOU PAMĚŤ,PŘESNĚ SI PAMATUJI, ŽE ČLÁNEK S TÍMTO TITULKEM BYL VLEVO DOLE. MZ","",2868838569,9602434411,MIROSLAV MERINSKY,0.01,CZK,f0d7fbe8d67e58b5dfe6ed6dbac966c8a46d849c35a379069c71ba0869ff06f0
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,MIROSLAV MERINSKY,"PŘIJEL JSEM DO ČÍNY, ABYCH SE OD ČÍNY UČIL, JAK ZVÝŠIT HOSPODÁŘSKÝ RŮST A JAK STABILIZOVAT SPOLEČNOST. MZ","",7688000596,2232510114,MIROSLAV MERINSKY,0.01,CZK,8e5702478905762acf5fc50e22aa2656852c0580410e26a6f6e334463cd4c6fa
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,JAN STYKAR,"STYDÍM SE ZA PREZIDENTA ČR, POSÍLÁM PŘÍSPĚVEK NA CESTU DO P.. PELHŘIMOVA","","","",JAN STYKAR,0.01,CZK,7337a8caa32a7b5a5f5107fabab6ce6aa2c49def721d38fb073bac3d0a84bece
-2017-09-29,"0,02 CZK",Bezhotovostní příjem,JAROSLAV NOVAK,PŘÍSPĚVEK NA CESTU ZA ŠÉFEM DO MOSKVY. DRUHÝ HALÉŘ NA NÁKUP LUBRIKANTU PŘI NÁVŠTĚVĚ PEKINGU.,"","","",JAROSLAV NOVAK,0.02,CZK,4e7c03a96005f40997f03443459a2ef5707e66c54159c7b1fb25d4815aeb8673
-2017-09-29,"0,01 CZK",Bezhotovostní příjem,MILAN LACHOUT,OPRAVDU CHCETE NA HRADĚ FANATICKÉHO OVČÁČKA? MYNÁŘE BEZ PROVĚRKY? A PREZIDENTA. KTERÝ MLUVÍ SPROSTĚ?,7894,789456123,321654987,MILAN LACHOUT,0.01,CZK,830f5bf468d3b03d6d0fe15e843cf0bc539ffde1857bd17ec5b9fb97e5a44f0d
 2017-09-29,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,3771cfcea698bead4cb8a0cc20068b1816a6c86268e57903dcddb96cabef9c06
 2017-09-29,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,3771cfcea698bead4cb8a0cc20068b1816a6c86268e57903dcddb96cabef9c06
 2017-09-29,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,3771cfcea698bead4cb8a0cc20068b1816a6c86268e57903dcddb96cabef9c06
@@ -1993,6 +1986,13 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
+2017-09-21,"0,01 CZK",Bezhotovostní příjem,Lukáš Vintr,"Koupím poukázky stravenky Flexi pass, Unišek, apod. 776 276 631 Drahoš na hrad","","","",Lukáš Vintr,0.01,CZK,340b688391ae1bee8092d28e84d24f1dbaabbeb95ecd497be5b5868326a063e7
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
 2017-09-21,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574
