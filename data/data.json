@@ -2,6 +2,20 @@
   {
     "datum": "2017-09-29",
     "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Doležal, Petr",
+    "zprava": "Tak EU je třetí říše ? ... no z kupky hnoje to zní opravdu věrohodně :-)",
+    "ks": "1148",
+    "vs": "8523111",
+    "ss": "456456133",
+    "poznamka": "Tak EU je třetí říše ? ... no z kupky hnoje to zní opravdu věrohodně :-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2ec41a53117baf924f4d9643ce20ed9a5f71343d57f9f3ebd3d708cacc9d4bb2"
+  },
+  {
+    "datum": "2017-09-29",
+    "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Pavel Tauer",
     "zprava": "Hledáme aktivní bojovníky do Clashof Clans. Válčíme neustále. CODE WARRIORS, kód klanu #JVV0CGRL. Do chatu Miloušek a jste elder :)",
@@ -27620,20 +27634,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "e69f1df94bf89d6d7175d275738bdfea8799e39b195cc83644e68f06a525729b"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574"
   },
   {
     "datum": "2017-09-21",
