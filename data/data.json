@@ -1,5 +1,33 @@
 [
   {
+    "datum": "2017-09-30",
+    "castka": "0,22 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Garský, Petr",
+    "zprava": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "mnozstvi": 0.22,
+    "mena": "CZK",
+    "id": "ad2dd3d1f44661e409e10f1b97fdaf4da29e0f6655bead0212ffe3ac58a98332"
+  },
+  {
+    "datum": "2017-09-30",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "399e01c651b2fd3606e0662df916fd711f957cb5244704732b3aa88ee97cdddf"
+  },
+  {
     "datum": "2017-09-29",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
@@ -27648,34 +27676,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "e69f1df94bf89d6d7175d275738bdfea8799e39b195cc83644e68f06a525729b"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "11d497149eaad89497ddb6bf443a416c50e0df74a65e3b9095ff57f3e5027574"
   },
   {
     "datum": "2017-09-21",
