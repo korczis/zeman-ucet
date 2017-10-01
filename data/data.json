@@ -1,6 +1,34 @@
 [
   {
     "datum": "2017-10-02",
+    "castka": "150,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "BURIAN JAN",
+    "zprava": "VOLÍM ZEMANA",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "BURIAN JAN",
+    "mnozstvi": 150.0,
+    "mena": "CZK",
+    "id": "d336a10bc0ed51aec33ea00e8086a3595c062be0ef9e279fe1205626bd26295f"
+  },
+  {
+    "datum": "2017-10-02",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "ŠOBR ŠIMON",
+    "zprava": "KUP SI NĚCO NA SEBE",
+    "ks": "0000",
+    "vs": "0",
+    "ss": "0",
+    "poznamka": "ŠOBR ŠIMON",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0bc23a49282f209463a2c88103dddb44f78b16071af8d9bd32eb49581b50b71a"
+  },
+  {
+    "datum": "2017-10-02",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Marek Josef",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "d20e0aca728b08f818ad023cc279b299c9cd039e465ae2dbe0886b4fd60f107d"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0936",
-    "vs": "3872121831",
-    "ss": "3115023591",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a5c3e3282e1d8e87666c45aa4aff82a90572def47c4aa2489b48109a5b7d12da"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0858",
-    "vs": "5372378431",
-    "ss": "4118655444",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "cb85bfdac8762b1dab9374ab5fa2065e4354fc2c02fd02953bdf4fb0f13e4b47"
   }
 ]

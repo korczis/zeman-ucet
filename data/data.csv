@@ -1,4 +1,6 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-02,"150,00 CZK",Bezhotovostní příjem,BURIAN JAN,VOLÍM ZEMANA,0000,0,0,BURIAN JAN,150.0,CZK,d336a10bc0ed51aec33ea00e8086a3595c062be0ef9e279fe1205626bd26295f
+2017-10-02,"0,01 CZK",Bezhotovostní příjem,ŠOBR ŠIMON,KUP SI NĚCO NA SEBE,0000,0,0,ŠOBR ŠIMON,0.01,CZK,0bc23a49282f209463a2c88103dddb44f78b16071af8d9bd32eb49581b50b71a
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"švestky nebudou,doporučuji becherovku","","","",Marek Josef,0.11,CZK,7cd11fb308376e1e95e77dd888bbf641da00528ebe70f996028c46cb7bfe47f0
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"Zeman se na Vysočině užíral nenávistí a propadal alkoholismu, říká jeho bývalý poradce","","","",Marek Josef,0.11,CZK,1265cfa77e226d5e34885e1b87a00f37d678a13e4b91f326704969bc902552aa
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"řekni mi zrcátko kdo je ješitný pomstychtivýhulvát,zpitý narcis,ředitel zeměkoule ... nó,dělej","","","",Marek Josef,0.11,CZK,60e50a9cf23cd1d20d205f3e6117410e34a84e63588c20ae6660ec34be582f96
@@ -1997,5 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0859,8240038287,7700393475,Miloše do koše,0.01,CZK,9481173d9d39ea62e0317b8477326390df5077e2460bd0acd0c141a31ddbb4b0
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0858,8589781901,0156290674,Miloše do koše,0.01,CZK,de633daa2d6f6f63df266c1181929abb48b2858bd17dcce998faedbbc904b24f
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0936,2429900312,1373840613,Miloše do koše,0.01,CZK,d20e0aca728b08f818ad023cc279b299c9cd039e465ae2dbe0886b4fd60f107d
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0936,3872121831,3115023591,Miloše do koše,0.01,CZK,a5c3e3282e1d8e87666c45aa4aff82a90572def47c4aa2489b48109a5b7d12da
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0858,5372378431,4118655444,Miloše do koše,0.01,CZK,cb85bfdac8762b1dab9374ab5fa2065e4354fc2c02fd02953bdf4fb0f13e4b47
