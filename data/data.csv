@@ -1,4 +1,10 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"švestky nebudou,doporučuji becherovku","","","",Marek Josef,0.11,CZK,7cd11fb308376e1e95e77dd888bbf641da00528ebe70f996028c46cb7bfe47f0
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"Zeman se na Vysočině užíral nenávistí a propadal alkoholismu, říká jeho bývalý poradce","","","",Marek Josef,0.11,CZK,1265cfa77e226d5e34885e1b87a00f37d678a13e4b91f326704969bc902552aa
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"řekni mi zrcátko kdo je ješitný pomstychtivýhulvát,zpitý narcis,ředitel zeměkoule ... nó,dělej","","","",Marek Josef,0.11,CZK,60e50a9cf23cd1d20d205f3e6117410e34a84e63588c20ae6660ec34be582f96
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"na chlast,cígo,popelníček,pořádné bačkory a mnoho dalšího,rozdělit ses čtveráčkem,ať nezávidí","","","",Marek Josef,0.11,CZK,2a698d823f2ad8e8c8482fcfb0e4890442ce89bf67f96f8d8f4e33c7c1121302
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,na nové červené trenýrky nad pevností,"","","",Marek Josef,0.11,CZK,8dc3b9cca09791bbd97f39f2887443598177941a2d247235e5d6ab5980bbf462
+2017-10-02,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"kmotr Mrázek měl kartotéku,kmotr bureš má složky,spisy, pohrdá parlamentem a parlamentní demokracií,chobotnice roztahuje drápy nad ČR","","","",Marek Josef,0.11,CZK,6258ead20a2e064b656648f584787d6e50a0ed7800d3836212dbc04fd0efe4b0
 2017-10-02,"100,00 CZK",Bezhotovostní příjem,KOZIOREK MIROSLAV,"Milosu,preji hodne zdravi a vitezstvi ve volbach.","",0,"",KOZIOREK MIROSLAV,100.0,CZK,a6895cea1f5ca16ae226790e3c19d14393cccfe400f67ff59c22d60def30af16
 2017-10-02,"0,01 CZK",Bezhotovostní příjem,Jarmila Holušová,Na ovar pro senilního idiota a jeho debilní boys,"","","",Jarmila Holušová,0.01,CZK,646a26122bcf3d602aa733ad14bb5fac807350c0e4d61b982c90d6297e8ceade
 2017-10-02,"0,01 CZK",Bezhotovostní příjem,Jarmila Holušová,Na ovar pro senilního idiota a jeho debilní boys,"","","",Jarmila Holušová,0.01,CZK,646a26122bcf3d602aa733ad14bb5fac807350c0e4d61b982c90d6297e8ceade
@@ -1993,9 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0936,2429900312,1373840613,Miloše do koše,0.01,CZK,d20e0aca728b08f818ad023cc279b299c9cd039e465ae2dbe0886b4fd60f107d
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0936,3872121831,3115023591,Miloše do koše,0.01,CZK,a5c3e3282e1d8e87666c45aa4aff82a90572def47c4aa2489b48109a5b7d12da
 2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0858,5372378431,4118655444,Miloše do koše,0.01,CZK,cb85bfdac8762b1dab9374ab5fa2065e4354fc2c02fd02953bdf4fb0f13e4b47
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0858,5090356891,2066508576,Miloše do koše,0.01,CZK,d8a58f7b22bce85671b5f39375fc52be635c6d12cc282c0a3bcbcab388b1645e
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0006,7475170870,4056951083,Miloše do koše,0.01,CZK,428d4da4e42110e9f87a265f895518f86a596f6c2b6849645302407a14675e3a
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0006,5037009405,3526819022,Miloše do koše,0.01,CZK,c391f1addb028a72e8ae3358a35aa5beacaf1c9b13321a1736cc6e8b7366f1fb
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0006,4306480727,7380750364,Miloše do koše,0.01,CZK,23ad0c3abd5e94b96570969762c084927a91a61be3d368f3db7eb7dfedd37b08
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0006,8782668229,6070088191,Miloše do koše,0.01,CZK,e40fdfef82e2f773d23b331905590fbff048ef00c5a524679ed551331ddcc605
-2017-09-21,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",Miloše do koše,0004,1978628884,2539878744,Miloše do koše,0.01,CZK,3b9cd03e10b7539d4d31a6c3faed92a908b922e6def5868828a4c3b8261daef5
