@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-10-01",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "58230dc53858b06a5105d21526f2de4f56421b67097ce9ab1a43a34e066153f2"
+  },
+  {
+    "datum": "2017-10-01",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "58230dc53858b06a5105d21526f2de4f56421b67097ce9ab1a43a34e066153f2"
+  },
+  {
+    "datum": "2017-10-01",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "58230dc53858b06a5105d21526f2de4f56421b67097ce9ab1a43a34e066153f2"
+  },
+  {
+    "datum": "2017-10-01",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2f379e8ca71063d90a8d710157d8eb6afc14d03a1a874cfb5f367f017afa3890"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9283",
-    "vs": "4859907518",
-    "ss": "3380393457",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "627dfd8c6b669ef7b56d26eba2a0ca5f9033546784ccaffce7a948ed212ed899"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9283",
-    "vs": "3529721908",
-    "ss": "5748272681",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "24bcdd8846bbf20aa609c0e8c203f4cc74e7c6c3865ba6195c2fc8565531d8aa"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "9916",
-    "vs": "2984151594",
-    "ss": "7854442073",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5a1d4142560131e5c40817d98b3ae384e38f9ed9117ed66711c7e2aa9a849050"
   }
 ]
