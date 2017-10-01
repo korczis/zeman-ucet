@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-02",
+    "castka": "100,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KOZIOREK MIROSLAV",
+    "zprava": "Milosu,preji hodne zdravi a vitezstvi ve volbach.",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "KOZIOREK MIROSLAV",
+    "mnozstvi": 100.0,
+    "mena": "CZK",
+    "id": "a6895cea1f5ca16ae226790e3c19d14393cccfe400f67ff59c22d60def30af16"
+  },
+  {
+    "datum": "2017-10-02",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Jarmila Holušová",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "3b9cd03e10b7539d4d31a6c3faed92a908b922e6def5868828a4c3b8261daef5"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0004",
-    "vs": "2975635211",
-    "ss": "3439484204",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "bc6439dac291c0a462892ce4e0e4579e473944177071e2e17199cc311435e34d"
   }
 ]
