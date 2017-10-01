@@ -4,20 +4,6 @@
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Sviták, František",
-    "zprava": "Pro Zemana, kolaborujícího protektorátního prezidenta v EU.",
-    "ks": "0558",
-    "vs": "19470625",
-    "ss": "",
-    "poznamka": "Pro Zemana, kolaborujícího protektorátního prezidenta v EU.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "295e343b23013296648988cdb7c442c05158b720acf3a1d8d2b36b4c71d0ebff"
-  },
-  {
-    "datum": "2017-10-01",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Sviták, František",
     "zprava": "Pro Ovčáčka, který Vás srovnáním Třetí říše a EU připravil o značný počet voličů.",
     "ks": "0558",
     "vs": "19470625",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "4fb369ba1c85cbab8e4fbc9a4d600d580da52ae203ba69d9a45dae8c3ed872be"
+  },
+  {
+    "datum": "2017-09-21",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "Miloše do koše",
+    "ks": "0036",
+    "vs": "3069329906",
+    "ss": "8968535924",
+    "poznamka": "Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "7a8e116b85b778219d9ee45618624d0b21ab12b13d59d74d2bb55f691f1a7795"
   }
 ]
