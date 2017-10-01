@@ -3,6 +3,20 @@
     "datum": "2017-10-01",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sviták, František",
+    "zprava": "Pro Ovčáčka, který Vás srovnáním Třetí říše a EU připravil o značný počet voličů.",
+    "ks": "0558",
+    "vs": "19470625",
+    "ss": "",
+    "poznamka": "Pro Ovčáčka, který Vás srovnáním Třetí říše a EU připravil o značný počet voličů.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "94b182b6a091c04d9351f3773f5c7ff410a6129736e47df87debfc1d2b307b49"
+  },
+  {
+    "datum": "2017-10-01",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Bielawski, Jaroslav",
     "zprava": "Příspěvek na cestu do Ruska",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "7a8e116b85b778219d9ee45618624d0b21ab12b13d59d74d2bb55f691f1a7795"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0404",
-    "vs": "8635558882",
-    "ss": "4291780153",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "6d5c1f221966a2424ba806364c46afcd81b57a06d875b32b98ca2f98537509fa"
   }
 ]
