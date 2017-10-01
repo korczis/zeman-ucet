@@ -3,6 +3,20 @@
     "datum": "2017-10-01",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Bielawski, Jaroslav",
+    "zprava": "Příspěvek na cestu do Ruska",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Příspěvek na cestu do Ruska",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fe21566685d9dea8c5b02042822887aa7516d661775807cd18f2371a5a953cd0"
+  },
+  {
+    "datum": "2017-10-01",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "6d5c1f221966a2424ba806364c46afcd81b57a06d875b32b98ca2f98537509fa"
-  },
-  {
-    "datum": "2017-09-21",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "Miloše do koše",
-    "ks": "0036",
-    "vs": "4632094139",
-    "ss": "2755724179",
-    "poznamka": "Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "2f379e8ca71063d90a8d710157d8eb6afc14d03a1a874cfb5f367f017afa3890"
   }
 ]
