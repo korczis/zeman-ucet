@@ -1,6 +1,48 @@
 [
   {
     "datum": "2017-10-03",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "halí belí eman v zelí a čtveráček vpetrželi",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "1f003a74dd7f656e3037201f02fa53291fb91015bc34f84be86954afd2ff2571"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "jednosměrná rychlodráha na Vysočinu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "1a4e82d865e667f021cd61e9a9f7dacb2168b7c654f6c42218d0e4b70453c269"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "soutěž v urážení nekývačů má jasného vítěze",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "037f5d488610845c1fb572633741a7b8d06c5b82daf4a7419fbb4e8e82cbe6f6"
+  },
+  {
+    "datum": "2017-10-03",
     "castka": "1 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KELNAR MIROSLAV, ING",
@@ -27956,47 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Svatopluk Bartík",
-    "zprava": "na léčbu demence",
-    "ks": "",
-    "vs": "666",
-    "ss": "",
-    "poznamka": "Svatopluk Bartík",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "4aebdfd1749c9a320bec33d2b4e28e95602de88349bf7fe9f5dac2acc00c710c"
   }
 ]

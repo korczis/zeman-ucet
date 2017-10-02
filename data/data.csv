@@ -1,4 +1,7 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-03,"0,11 CZK",Bezhotovostní příjem,Marek Josef,halí belí eman v zelí a čtveráček vpetrželi,"","","",Marek Josef,0.11,CZK,1f003a74dd7f656e3037201f02fa53291fb91015bc34f84be86954afd2ff2571
+2017-10-03,"0,11 CZK",Bezhotovostní příjem,Marek Josef,jednosměrná rychlodráha na Vysočinu,"","","",Marek Josef,0.11,CZK,1a4e82d865e667f021cd61e9a9f7dacb2168b7c654f6c42218d0e4b70453c269
+2017-10-03,"0,11 CZK",Bezhotovostní příjem,Marek Josef,soutěž v urážení nekývačů má jasného vítěze,"","","",Marek Josef,0.11,CZK,037f5d488610845c1fb572633741a7b8d06c5b82daf4a7419fbb4e8e82cbe6f6
 2017-10-03,"1 000,00 CZK",Bezhotovostní příjem,"KELNAR MIROSLAV, ING","volby, Ing. Miroslav Kelnar",0000,"","","KELNAR MIROSLAV, ING",1.0,"000,00",00613d6a36ca44f3c90657f7737e478972c924e809838d4dfb2584a08f50fa5b
 2017-10-02,"0,01 CZK",Platba převodem uvnitř banky,"Studenovský, Karel",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,"","","",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,0.01,CZK,a56c8c86e318ac383a8eb5227c1815b0c36a3dbff212e023752b37a01710c36c
 2017-10-02,"0,01 CZK",Platba převodem uvnitř banky,"Studenovský, Karel",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,"","","",www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!,0.01,CZK,a56c8c86e318ac383a8eb5227c1815b0c36a3dbff212e023752b37a01710c36c
@@ -1996,6 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-22,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc
 2017-09-22,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc
 2017-09-22,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc
-2017-09-22,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc
-2017-09-22,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc
-2017-09-22,"0,01 CZK",Bezhotovostní příjem,Svatopluk Bartík,na léčbu demence,"",666,"",Svatopluk Bartík,0.01,CZK,4aebdfd1749c9a320bec33d2b4e28e95602de88349bf7fe9f5dac2acc00c710c
