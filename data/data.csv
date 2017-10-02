@@ -1,4 +1,5 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-02,"0,01 CZK",Bezhotovostní příjem,LOUCKY KAREL,Stydim se za sveho prezidenta,"",0,"",LOUCKY KAREL,0.01,CZK,b59b96d4e6a55cec57ef54a39e0b2892121e0498b723ce4dd941c26e1134c30b
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Kratěna Bohuslav,"MILOŠI KONČÍME, denní příspěvek","","","",Kratěna Bohuslav,0.11,CZK,948dada4125ea82cdc510dbfbc44182ee16e0a5645ad2c870ef9cd66cf75d858
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Kratěna Bohuslav,"MILOŠI KONČÍME, denní příspěvek","","","",Kratěna Bohuslav,0.11,CZK,948dada4125ea82cdc510dbfbc44182ee16e0a5645ad2c870ef9cd66cf75d858
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,"Pokorný Pavel,RNDr.","Pane prezidente, už, prosím, nekandidujte. Když prohrajete, bude to vaše ostuda. Když vyhrajete, bude toostuda pro nás pro všechny.","","","","Pokorný Pavel,RNDr.",0.11,CZK,7fd63c7c971d6c9ce0d2c4162bbe1c204dfae933b9f860beb0712dfb4fbb39a6
@@ -1998,4 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-22,"0,05 CZK",Platba převodem uvnitř banky,"Pobořil, Jan",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,"",42,"",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,0.05,CZK,eae7097e60722e2617eceaa98a4111ae8372cf3d00e4405eda1d4ee2ed9c7323
 2017-09-22,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",3233107861,6200372332,trvalý příkaz - Miloše do koše,0.01,CZK,ef0298515367a5fb9d005c06b7d51223e39e58935577143633d436412ba55d23
 2017-09-22,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",1528020757,7813230316,trvalý příkaz - Miloše do koše,0.01,CZK,eb82cd97010cff9e857d9aa9baea89324226efc75e08fda6c1b5bf7d1f30b8b3
-2017-09-22,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,0123,1488318752,9895851523,trvalý příkaz - Miloše do koše,0.01,CZK,d2e246480540d4cdd90dd41594597aa2011092ce323bdfd35cdbd9b5dfda2c33

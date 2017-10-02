@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-02",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "LOUCKY KAREL",
+    "zprava": "Stydim se za sveho prezidenta",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "LOUCKY KAREL",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b59b96d4e6a55cec57ef54a39e0b2892121e0498b723ce4dd941c26e1134c30b"
+  },
+  {
+    "datum": "2017-10-02",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Kratěna Bohuslav",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "eb82cd97010cff9e857d9aa9baea89324226efc75e08fda6c1b5bf7d1f30b8b3"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - Miloše do koše",
-    "ks": "0123",
-    "vs": "1488318752",
-    "ss": "9895851523",
-    "poznamka": "trvalý příkaz - Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d2e246480540d4cdd90dd41594597aa2011092ce323bdfd35cdbd9b5dfda2c33"
   }
 ]
