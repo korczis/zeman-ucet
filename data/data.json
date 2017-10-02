@@ -3,20 +3,6 @@
     "datum": "2017-10-02",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "Svatopluk Bartík",
-    "zprava": "příspěvek na politickou smrt",
-    "ks": "",
-    "vs": "666",
-    "ss": "",
-    "poznamka": "Svatopluk Bartík",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c249ef87e2a0f83226bea4aa2c99b902e30c21eb73f9bb48bd6f119323a21df9"
-  },
-  {
-    "datum": "2017-10-02",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "Matěj Dirr",
     "zprava": "Konec se blíží.....",
     "ks": "3210",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "994aa1b5a584e09349d2313374689cc054737f4794812da427aeee41cca43d5b"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "důležitý emane šupej tryskem hradnížumpou,každý jiný prez.bude lepší",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "7a0cdeb324e8159166c73184871fc482149db98289092286fd5cca3ae8750b3d"
   }
 ]
