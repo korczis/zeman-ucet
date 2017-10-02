@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-02",
+    "castka": "0,76 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Borski, Michal",
+    "zprava": "Doufam ze nevyrajete",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Doufam ze nevyrajete",
+    "mnozstvi": 0.76,
+    "mena": "CZK",
+    "id": "febffa8707882c53bf63387aa8d4e36c10ee4be783a29312752adb506697cc7a"
+  },
+  {
+    "datum": "2017-10-02",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27928,20 +27942,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "4aebdfd1749c9a320bec33d2b4e28e95602de88349bf7fe9f5dac2acc00c710c"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
   },
   {
     "datum": "2017-09-22",
