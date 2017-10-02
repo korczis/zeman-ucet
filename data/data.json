@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-10-03",
+    "castka": "1 000,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "KELNAR MIROSLAV, ING",
+    "zprava": "volby, Ing. Miroslav Kelnar",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "KELNAR MIROSLAV, ING",
+    "mnozstvi": 1.0,
+    "mena": "000,00",
+    "id": "00613d6a36ca44f3c90657f7737e478972c924e809838d4dfb2584a08f50fa5b"
+  },
+  {
     "datum": "2017-10-02",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "4aebdfd1749c9a320bec33d2b4e28e95602de88349bf7fe9f5dac2acc00c710c"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
   }
 ]
