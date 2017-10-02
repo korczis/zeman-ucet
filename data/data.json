@@ -3,6 +3,20 @@
     "datum": "2017-10-02",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Pokorný Pavel,RNDr.",
+    "zprava": "Pane prezidente, už, prosím, nekandidujte. Když prohrajete, bude to vaše ostuda. Když vyhrajete, bude toostuda pro nás pro všechny.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pokorný Pavel,RNDr.",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "7fd63c7c971d6c9ce0d2c4162bbe1c204dfae933b9f860beb0712dfb4fbb39a6"
+  },
+  {
+    "datum": "2017-10-02",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "Olšan Tomáš",
     "zprava": "inzerát: drunkux.org - sleva 200,-za heslo  Becherovka Zemond v mailu",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "92801870b91fe0a481301d2c1c69aa904538adf00e09194d08b32f348b5cc954"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - Miloše do koše",
-    "ks": "0934",
-    "vs": "6873259537",
-    "ss": "1526530121",
-    "poznamka": "trvalý příkaz - Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "89cab32138b23b3b46942fca3598f2080cb0e4702fda626a0cdd26dbe7fc6c06"
   }
 ]
