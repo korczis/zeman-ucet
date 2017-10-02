@@ -1,6 +1,4 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
-2017-10-02,"0,01 CZK",Bezhotovostní příjem,KRACMAN MARTIN,na ovciho mluvcacka a jeho 3. risi,"",0,"",KRACMAN MARTIN,0.01,CZK,381d2f22cc0ce489315384cbd8387706f4fdc424dda784329914e5060bc1125c
-2017-10-02,"0,01 CZK",Bezhotovostní příjem,KOPECKY DAVID,Podporte slusneho prezidentahttp://www.mareknahrad.cz/,"",0,"",KOPECKY DAVID,0.01,CZK,34304bd3770fe778e84ff902f17a685284d475d74fc0b9777ca55c26083d9d10
 2017-10-02,"0,01 CZK",Bezhotovostní příjem,LOUCKY KAREL,Stydim se za sveho prezidenta,"",0,"",LOUCKY KAREL,0.01,CZK,b59b96d4e6a55cec57ef54a39e0b2892121e0498b723ce4dd941c26e1134c30b
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Kratěna Bohuslav,"MILOŠI KONČÍME, denní příspěvek","","","",Kratěna Bohuslav,0.11,CZK,948dada4125ea82cdc510dbfbc44182ee16e0a5645ad2c870ef9cd66cf75d858
 2017-10-02,"0,11 CZK",Bezhotovostní příjem,Kratěna Bohuslav,"MILOŠI KONČÍME, denní příspěvek","","","",Kratěna Bohuslav,0.11,CZK,948dada4125ea82cdc510dbfbc44182ee16e0a5645ad2c870ef9cd66cf75d858
@@ -1999,3 +1997,5 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-22,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"teď jsi si to posral úplně,vidíš,žetě Tramp nikdy nepozve,hodil tě tam kam patříš,do kopru, proto ho kritizuješ hrdino","","","",Marek Josef,0.11,CZK,b8cdbb6e2465b2dbfd0a5933f418d25fd0a73c70f0c9538ce09c4f0da1405b46
 2017-09-22,"0,11 CZK",Bezhotovostní příjem,Hynčica Jakub,"Dobrý den, prosil bych prosím jednušunkovou a jednu žampionovou s cibulí navíc. Děkuji.","",24601,"",Hynčica Jakub,0.11,CZK,0c2c4740236c2b8dc4825f67d1b1e6b4067e5e24ab34d1de73f617e290b6accf
 2017-09-22,"0,05 CZK",Platba převodem uvnitř banky,"Pobořil, Jan",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,"",42,"",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,0.05,CZK,eae7097e60722e2617eceaa98a4111ae8372cf3d00e4405eda1d4ee2ed9c7323
+2017-09-22,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",3233107861,6200372332,trvalý příkaz - Miloše do koše,0.01,CZK,ef0298515367a5fb9d005c06b7d51223e39e58935577143633d436412ba55d23
+2017-09-22,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",1528020757,7813230316,trvalý příkaz - Miloše do koše,0.01,CZK,eb82cd97010cff9e857d9aa9baea89324226efc75e08fda6c1b5bf7d1f30b8b3

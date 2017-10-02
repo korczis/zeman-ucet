@@ -3,34 +3,6 @@
     "datum": "2017-10-02",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "KRACMAN MARTIN",
-    "zprava": "na ovciho mluvcacka a jeho 3. risi",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "KRACMAN MARTIN",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "381d2f22cc0ce489315384cbd8387706f4fdc424dda784329914e5060bc1125c"
-  },
-  {
-    "datum": "2017-10-02",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KOPECKY DAVID",
-    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "KOPECKY DAVID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "34304bd3770fe778e84ff902f17a685284d475d74fc0b9777ca55c26083d9d10"
-  },
-  {
-    "datum": "2017-10-02",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "LOUCKY KAREL",
     "zprava": "Stydim se za sveho prezidenta",
     "ks": "",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.05,
     "mena": "CZK",
     "id": "eae7097e60722e2617eceaa98a4111ae8372cf3d00e4405eda1d4ee2ed9c7323"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "trvalý příkaz - Miloše do koše",
+    "ks": "",
+    "vs": "3233107861",
+    "ss": "6200372332",
+    "poznamka": "trvalý příkaz - Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ef0298515367a5fb9d005c06b7d51223e39e58935577143633d436412ba55d23"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "trvalý příkaz - Miloše do koše",
+    "ks": "",
+    "vs": "1528020757",
+    "ss": "7813230316",
+    "poznamka": "trvalý příkaz - Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "eb82cd97010cff9e857d9aa9baea89324226efc75e08fda6c1b5bf7d1f30b8b3"
   }
 ]
