@@ -3,6 +3,34 @@
     "datum": "2017-10-03",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šulista, Roman",
+    "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "c6ab77ccbe51267901e6199dc0f9bd54bb790b95352a07d40386cb34d68149fc"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Pavel",
+    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "4a2bbb3152066ba9a8995c5f6d94aa45d47a510a897c4258ff91bbe80d59e58e"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Novotný, Luboš",
     "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
     "ks": "0007",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "0a29e95114747154499e59fea64f6d0f1e8e49bf6428dde3d8ab1a91231fe32f"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c15d57e5f7507808990b985481e9058f61e9b82c24b719c4ae11124ae10e3bdc"
   }
 ]
