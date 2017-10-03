@@ -3,6 +3,34 @@
     "datum": "2017-10-03",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
+    "protiucet": "Bc. Oldřich Turner",
+    "zprava": "Na popelníček a chlast",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bc. Oldřich Turner",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "fd46f518a4e46e37241c2116306d3617c0c53dd8e8a88d7039df60c2cd5dd821"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Bc. Oldřich Turner",
+    "zprava": "Na cestu na Vysočinu, lháři bezcharakterní",
+    "ks": "0000",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Bc. Oldřich Turner",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "d97893a5bf29787b99eeddd63f89bdccc59991903ba39420df2f134529f38a80"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
     "protiucet": "MGR. MIROSLAV TROCHT",
     "zprava": "PREZIDENT VZKAZUJE FANYNKAM S NADVAHOU: 'NEKTERE ZENY BY SE MELY ZAHALOVAT KVULI PROPORCIM.'",
     "ks": "",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 0.05,
     "mena": "CZK",
     "id": "346e342b5216b5b17f1161ee0cbd5cb1b288dff5e108870a0ab88eafadd886d1"
-  },
-  {
-    "datum": "2017-09-24",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - Miloše do koše",
-    "ks": "",
-    "vs": "3233107861",
-    "ss": "6200372332",
-    "poznamka": "trvalý příkaz - Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "55dcc3b23660ad50dd5606d4dc1485b276c6639886cdb6230d9a92ddf88d01bc"
-  },
-  {
-    "datum": "2017-09-24",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Dřínek, Vratislav",
-    "zprava": "trvalý příkaz - Miloše do koše",
-    "ks": "",
-    "vs": "1528020757",
-    "ss": "7813230316",
-    "poznamka": "trvalý příkaz - Miloše do koše",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "3f9ada93e92fe7e1c9029195ebd7b81eec2b9c5768ddd9d6fc50709d26f0edb8"
   }
 ]
