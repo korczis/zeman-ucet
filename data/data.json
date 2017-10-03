@@ -3,34 +3,6 @@
     "datum": "2017-10-03",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "ALES ZVOLANEK",
-    "zprava": "CINSKEJ DRAK SNI HERMANA, TEN POTKA V ZALUDKU ZEMANA. VAS TAKY SEZRAL? NE PRISEL JSEM DRUHYM SMEREM.",
-    "ks": "0453",
-    "vs": "15899545",
-    "ss": "131234566",
-    "poznamka": "ALES ZVOLANEK",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "76e71adfabcde571bc7e886202aca3fa9bceca9368cb05ac2fb05d420e4e6594"
-  },
-  {
-    "datum": "2017-10-03",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "MILAN LACHOUT",
-    "zprava": "PANE PRASEDENTE, ÚSTAVNÍ PRZNITELI, PÍŠU VÁM VZKAZ, ŽE BY JSME RÁDI NA VÁS ZAPOMNĚLI!",
-    "ks": "7894",
-    "vs": "789456123",
-    "ss": "321654987",
-    "poznamka": "MILAN LACHOUT",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "e9e8e4e24a051675232ee9c33a4659ae71c44ac69145b2946ef3dd864b45e6be"
-  },
-  {
-    "datum": "2017-10-03",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "Svatopluk Bartík",
     "zprava": "na prohrané soudy za lži a urážky lidí",
     "ks": "",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "9eb1283f39166e904c9bb6ac4e5ce817873efef5a84e8a9fdecb8a9c05385efe"
+  },
+  {
+    "datum": "2017-09-24",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "trvalý příkaz - Miloše do koše",
+    "ks": "7589",
+    "vs": "8694003066",
+    "ss": "9078637235",
+    "poznamka": "trvalý příkaz - Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2508326ea2dade895bc5288d6c7b3bfecd7f3560a16aeaeb0b532a23641e50af"
+  },
+  {
+    "datum": "2017-09-24",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Dřínek, Vratislav",
+    "zprava": "trvalý příkaz - Miloše do koše",
+    "ks": "2719",
+    "vs": "1651864073",
+    "ss": "0736269523",
+    "poznamka": "trvalý příkaz - Miloše do koše",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "8e35834ff67bc6967e4e689ec9def6d0f9520f2c495bbeb5de291b8d45cc66ef"
   }
 ]
