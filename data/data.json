@@ -1,5 +1,19 @@
 [
   {
+    "datum": "2017-10-04",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jiří Mlejnek",
+    "zprava": "nechcete jít spammovat radši sem?",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jiří Mlejnek",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "e12183a180f93691fe28e3add56a2ce95b205d921ea6c63ab841bd01e47a64bd"
+  },
+  {
     "datum": "2017-10-03",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
@@ -27732,20 +27746,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "41543301c6e10a0b0517660e419924bd6783c17457e9d0418f918ce6ca7d66d3"
-  },
-  {
-    "datum": "2017-09-24",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Studenovský, Karel",
-    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b10f09ea79aa04770ff7ead8c3afaca29ccfdb8913dd9d5918a7a87b564a0340"
   },
   {
     "datum": "2017-09-24",
