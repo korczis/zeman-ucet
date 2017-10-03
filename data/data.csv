@@ -1,4 +1,6 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-03,"0,01 CZK",Bezhotovostní příjem,ALES ZVOLANEK,"CINSKEJ DRAK SNI HERMANA, TEN POTKA V ZALUDKU ZEMANA. VAS TAKY SEZRAL? NE PRISEL JSEM DRUHYM SMEREM.",0453,15899545,131234566,ALES ZVOLANEK,0.01,CZK,76e71adfabcde571bc7e886202aca3fa9bceca9368cb05ac2fb05d420e4e6594
+2017-10-03,"0,01 CZK",Bezhotovostní příjem,MILAN LACHOUT,"PANE PRASEDENTE, ÚSTAVNÍ PRZNITELI, PÍŠU VÁM VZKAZ, ŽE BY JSME RÁDI NA VÁS ZAPOMNĚLI!",7894,789456123,321654987,MILAN LACHOUT,0.01,CZK,e9e8e4e24a051675232ee9c33a4659ae71c44ac69145b2946ef3dd864b45e6be
 2017-10-03,"0,01 CZK",Bezhotovostní příjem,Svatopluk Bartík,na prohrané soudy za lži a urážky lidí,"",666,"",Svatopluk Bartík,0.01,CZK,9f51c76b3826bd06dbcf1f387cf8ae1a167d238f9744c12fa8fcfe20fb2f25f7
 2017-10-03,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,4db929285733ed59e74181d3232fb295d7ac9419da6ec0a10fbd27524cc7d141
 2017-10-03,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,4db929285733ed59e74181d3232fb295d7ac9419da6ec0a10fbd27524cc7d141
@@ -1997,5 +1999,3 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-24,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",9200607356,3435547483,trvalý příkaz - Miloše do koše,0.01,CZK,6c232b0d2004ae0a24bb7c5b7b10b266a4a548e0dd42073f79dbf8b06d86afb8
 2017-09-24,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",6645,8284299486,trvalý příkaz - Miloše do koše,0.01,CZK,2f31f3c463d20933b10f087cf6582f08dfd8016d55b67d001de9efb4bab5d87e
 2017-09-24,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,0558,7527047810,8214541681,trvalý příkaz - Miloše do koše,0.01,CZK,9eb1283f39166e904c9bb6ac4e5ce817873efef5a84e8a9fdecb8a9c05385efe
-2017-09-24,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,7589,8694003066,9078637235,trvalý příkaz - Miloše do koše,0.01,CZK,2508326ea2dade895bc5288d6c7b3bfecd7f3560a16aeaeb0b532a23641e50af
-2017-09-24,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,2719,1651864073,0736269523,trvalý příkaz - Miloše do koše,0.01,CZK,8e35834ff67bc6967e4e689ec9def6d0f9520f2c495bbeb5de291b8d45cc66ef
