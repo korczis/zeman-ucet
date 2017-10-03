@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-10-03",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "FASTER PETR",
-    "zprava": "STYDÍM SE ZA NAŠEHO PREZIDENTA",
-    "ks": "0000",
-    "vs": "0",
-    "ss": "0",
-    "poznamka": "FASTER PETR",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "55ea4c0923c601d3d42a4f74149300d7f55d79bee871da457e90f30693815060"
-  },
-  {
-    "datum": "2017-10-03",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Olšan Tomáš",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2b116bf62753199cb8ee76c5dfab19c6dd57150d63f76f97d308b3f3248356e5"
+  },
+  {
+    "datum": "2017-09-22",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "TOMAS ZIMOLKA",
+    "zprava": "OSTUDY JSI UŽ UDĚLAL DOST, MILOŠI!#OVČÁČEKNAPRACÁKU",
+    "ks": "",
+    "vs": "2018",
+    "ss": "",
+    "poznamka": "TOMAS ZIMOLKA",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ae0645ca90f11073f67814037dd2683b044d9706f735a90ac995bbae5bbba8b8"
   }
 ]
