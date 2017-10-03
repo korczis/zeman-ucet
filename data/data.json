@@ -4,6 +4,20 @@
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Olšan Tomáš",
+    "zprava": "inzerát: drunkux.org - sleva 200,-za heslo  Becherovka Zemond v mailu",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Olšan Tomáš",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "1665ff237ec77d0ef9ba3d20beeeb765645c8f56e6ec2c0f3e6164700bfb57fc"
+  },
+  {
+    "datum": "2017-10-03",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Olšan Tomáš",
     "zprava": "drunkux.org - sleva 200,- za hesloBecherovka Zemond v predmetu mailu",
     "ks": "",
     "vs": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "ae0645ca90f11073f67814037dd2683b044d9706f735a90ac995bbae5bbba8b8"
-  },
-  {
-    "datum": "2017-09-22",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "MIROSLAV MERINSKY",
-    "zprava": "MYNÁŘE ODVOLÁM! MZ",
-    "ks": "",
-    "vs": "6928679091",
-    "ss": "2461493241",
-    "poznamka": "MIROSLAV MERINSKY",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "72ca093ca18826fca7da9cb9f011173e87773787e520aa2a687bad34b23780a5"
   }
 ]
