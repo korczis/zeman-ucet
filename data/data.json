@@ -3,34 +3,6 @@
     "datum": "2017-10-03",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Turner",
-    "zprava": "Pro hradního alkoholika a jeho Ovečku trochu historie: Pražská defenestrace 1419, 1483, 1618 a ...2017? Raději nohy na ramena, Miloši a uteč",
-    "ks": "0000",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Turner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "8555a6935e08f490e2877f7c2666749f88942079632211311dc7bd85202ef8bf"
-  },
-  {
-    "datum": "2017-10-03",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Pavel Tauer",
-    "zprava": "Hledáme aktivní bojovníky do Clashof Clans. Válčíme neustále. CODE WARRIORS, kód klanu #JVV0CGRL. Do chatu Miloušek a jste elder :)",
-    "ks": "0558",
-    "vs": "666",
-    "ss": "",
-    "poznamka": "Pavel Tauer",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c623b2f9febf1d8d556d7b58cdea1ee5782fe27f5022ce311da478e120c2b992"
-  },
-  {
-    "datum": "2017-10-03",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "Bc. Oldřich Turner",
     "zprava": "Na popelníček a chlast",
     "ks": "0000",
@@ -27998,5 +27970,33 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "b10f09ea79aa04770ff7ead8c3afaca29ccfdb8913dd9d5918a7a87b564a0340"
+  },
+  {
+    "datum": "2017-09-24",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "b10f09ea79aa04770ff7ead8c3afaca29ccfdb8913dd9d5918a7a87b564a0340"
+  },
+  {
+    "datum": "2017-09-24",
+    "castka": "0,05 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pobořil, Jan",
+    "zprava": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "ks": "",
+    "vs": "42",
+    "ss": "",
+    "poznamka": "Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz",
+    "mnozstvi": 0.05,
+    "mena": "CZK",
+    "id": "346e342b5216b5b17f1161ee0cbd5cb1b288dff5e108870a0ab88eafadd886d1"
   }
 ]
