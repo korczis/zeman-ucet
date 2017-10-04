@@ -3,6 +3,20 @@
     "datum": "2017-10-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mgr. Malinovský, Jakub",
+    "zprava": "www.vlasteneckenoviny.cz/?p=185713 - Otřesný kandidát. Zlé je, že ostatní favorizovaní kandidáti (Horáček, Drahoš) jsou ještě horší.",
+    "ks": "",
+    "vs": "",
+    "ss": "14",
+    "poznamka": "www.vlasteneckenoviny.cz/?p=185713 - Otřesný kandidát. Zlé je, že ostatní favorizovaní kandidáti (Horáček, Drahoš) jsou ještě horší.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "86a2377185edbdf966a05003d00e6935156e5a7cb8f0d2499af5848d3274a20a"
+  },
+  {
+    "datum": "2017-10-04",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mgr. Chmelař, Jan",
     "zprava": "",
     "ks": "",
@@ -27956,20 +27970,6 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "4e00a241627d5891cf9d48efd8c66177aa7c9047ca2776aa3ed99a4c067f1c27"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "den, kdy odtáhneš do prdele, je třeba slavit jako Státní svátek",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "2fffbf45b467262f7237cea78c7584940c9963aa094185a49d53a44d68cd6b43"
   },
   {
     "datum": "2017-09-25",
