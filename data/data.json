@@ -1,48 +1,6 @@
 [
   {
     "datum": "2017-10-04",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KRACMAN MARTIN",
-    "zprava": "na ovciho mluvcacka a jeho 3. risi",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "KRACMAN MARTIN",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "b0910dbcd68a2c631f14077f464a92b5a015e821c5c38fdbbc1a92f894393f8a"
-  },
-  {
-    "datum": "2017-10-04",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KOPECKY DAVID",
-    "zprava": "Podporte slusneho prezidentahttp://www.mareknahrad.cz/",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "KOPECKY DAVID",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "c9a8e7f983a5a08c352ee4bf9c0d8a847e344c52ea1e23f457ad09dcd4146780"
-  },
-  {
-    "datum": "2017-10-04",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "LOUCKY KAREL",
-    "zprava": "Stydim se za sveho prezidenta",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "LOUCKY KAREL",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "224667316898c0168ad82d940fa454c00bfbc80e5a3b7f6fecc241facae85b12"
-  },
-  {
-    "datum": "2017-10-04",
     "castka": "0,11 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "Olšan Tomáš",
@@ -27998,5 +27956,47 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "523e56f60179333cbfda9b75a59f3262913fab0f60d9b08525a091fba69a22ca"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "politováníhodný nemocný stařec,troska",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "523e56f60179333cbfda9b75a59f3262913fab0f60d9b08525a091fba69a22ca"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "miloši pomoz mi k rod.fir.ČR,kleknuna ni a budeme se mít jako pol pot",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "3023aafcc2d8f791fa78379f3a3b056870df1b6798632c6866714f9cc8c9d289"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,11 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Marek Josef",
+    "zprava": "miloši pomoz mi k rod.fir.ČR,kleknuna ni a budeme se mít jako pol pot",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Marek Josef",
+    "mnozstvi": 0.11,
+    "mena": "CZK",
+    "id": "3023aafcc2d8f791fa78379f3a3b056870df1b6798632c6866714f9cc8c9d289"
   }
 ]
