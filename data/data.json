@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-05",
+    "castka": "1,00 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "GAJDŮŠEK ALEŠ",
+    "zprava": "MILUJU ROUSNICKU.A.G",
+    "ks": "",
+    "vs": "9",
+    "ss": "",
+    "poznamka": "GAJDŮŠEK ALEŠ",
+    "mnozstvi": 1.0,
+    "mena": "CZK",
+    "id": "43059f2cce5e4b20f03cc35c490415f9ad24f0a9f2bb74dee174d00efa2d2d00"
+  },
+  {
+    "datum": "2017-10-05",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "KRACMAN MARTIN",
@@ -27858,20 +27872,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "312c652f19642045958f35097f660b8c3bae513b9320c4876267a3ba15840c05"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1"
   },
   {
     "datum": "2017-09-25",
