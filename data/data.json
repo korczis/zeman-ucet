@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Studenovský, Karel",
+    "zprava": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "http://www.powerplaymanager.com/r18079  nejlepsi sportovní manažer na svete zdarma",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "2608afd7e15eb44ee033baf945cb0104c7cc95b3143b75119aaa87dd48a2fcf2"
+  },
+  {
+    "datum": "2017-10-05",
     "castka": "0,02 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Vorel, Martin",
@@ -27970,20 +27984,6 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "9a3f59d1cc5071633c1a88c11366206509bb5a48c0e62db0db64f4879315d784"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "ožrala,křupan CHUCPE-drzé výsměšnéchování,které se  zdá být korektní",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "6c76797a8b131edb3ba8247afa0f92c94461e5791eb9c823171be8a7a9d3afb8"
   },
   {
     "datum": "2017-09-25",
