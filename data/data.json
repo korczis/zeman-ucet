@@ -1,5 +1,33 @@
 [
   {
+    "datum": "2017-10-05",
+    "castka": "0,22 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Garský, Petr",
+    "zprava": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Hurá do zahraničí se špičkovými mezinárodními e-shopy od www.weby24.cz! Nastartujte mezinárodní prodej, napište nám na obchod@weby24.cz",
+    "mnozstvi": 0.22,
+    "mena": "CZK",
+    "id": "72340918640707335f6b0df5a997afa9eadf9376070a8da478772b85996499f3"
+  },
+  {
+    "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Beran, Miroslav",
+    "zprava": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Slevový kupon \"miloszeman\" na 50Kč pro vašeho mazlíčka. Uplatněte na caskrmeni.cz. Bez omezení platnosti, min. objednávky ani sortimentu.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "03c92c170f4abd91a28ceb7df3abf3975a7f999f8a3dd49042bb360c719e528e"
+  },
+  {
     "datum": "2017-10-04",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
@@ -27928,34 +27956,6 @@
     "mnozstvi": 0.11,
     "mena": "CZK",
     "id": "649542264a3f3bd4dab0cb3ef24ef837f82253e9c718446b674d124ae4f5e96a"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "táhni,nepřekážej vládě a poslancům,rozděluješ,zapouzdří se do chlastu",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "4e00a241627d5891cf9d48efd8c66177aa7c9047ca2776aa3ed99a4c067f1c27"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "táhni,nepřekážej vládě a poslancům,rozděluješ,zapouzdří se do chlastu",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "4e00a241627d5891cf9d48efd8c66177aa7c9047ca2776aa3ed99a4c067f1c27"
   },
   {
     "datum": "2017-09-25",
