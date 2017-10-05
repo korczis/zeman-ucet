@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-10-05",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Mgr. Malinovský, Jakub",
-    "zprava": "www.vlasteneckenoviny.cz/?p=185713 - Otřesný kandidát. Zlé je, že ostatní favorizovaní kandidáti (Horáček, Drahoš) jsou ještě horší.",
-    "ks": "",
-    "vs": "",
-    "ss": "14",
-    "poznamka": "www.vlasteneckenoviny.cz/?p=185713 - Otřesný kandidát. Zlé je, že ostatní favorizovaní kandidáti (Horáček, Drahoš) jsou ještě horší.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "95d4ff2afbb93b9ddb8d122a9be63435542550c0156c4188d8c77e2cc3e2df4a"
-  },
-  {
-    "datum": "2017-10-05",
     "castka": "5 000,00 CZK",
     "typ": "Bezhotovostní příjem",
     "protiucet": "TRUBACOVA IVANA",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1"
+  },
+  {
+    "datum": "2017-09-25",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Petr Novotný",
+    "zprava": "Ať tě síla opustí a volby nadobro zatratí.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Petr Novotný",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "65e02ef3250b034e20e5a300a309f8e7e3dc0bef8eabfd7ed57b25e070c6a13c"
   }
 ]
