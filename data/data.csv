@@ -1,4 +1,14 @@
 datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Machovský Robert,"Mimochodem, dlouho jsem neslyšel žádný moudro z hradu! ...neni von užmrtvej?","",666,"",Machovský Robert,0.11,CZK,3d8c20834091120b7c2704496bc2d9c2d8ceb08bc28c1338ce25f67f57cf639f
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Machovský Robert,"Lidi, pište za diskuzní příspěvky čísla svých účtů, ať můžeme reagovatve vláknech na konkrétní diskutující. ...jinak vznikne chaos","",666,"",Machovský Robert,0.11,CZK,46008c9e56be8b4b81d9a55b76580eb43ba0d003b415cd89afb0c1028e559e0a
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"hus byl upálen za pravdu,to našemulháři nehrozí","","","",Marek Josef,0.11,CZK,14172a23c1fc19f413ab0af7a785906097fb11754f9217532c7d93e6f992b91f
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,bavič a komik pětiletky,"","","",Marek Josef,0.11,CZK,4c787d1f9473c72afa79e2572a4bc5d98acc200e2b83ecb4224eed3eeaf583d3
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,bavič a komik pětiletky,"","","",Marek Josef,0.11,CZK,4c787d1f9473c72afa79e2572a4bc5d98acc200e2b83ecb4224eed3eeaf583d3
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,bavič a komik pětiletky,"","","",Marek Josef,0.11,CZK,4c787d1f9473c72afa79e2572a4bc5d98acc200e2b83ecb4224eed3eeaf583d3
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,bavič a komik pětiletky,"","","",Marek Josef,0.11,CZK,4c787d1f9473c72afa79e2572a4bc5d98acc200e2b83ecb4224eed3eeaf583d3
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,bavič a komik pětiletky,"","","",Marek Josef,0.11,CZK,4c787d1f9473c72afa79e2572a4bc5d98acc200e2b83ecb4224eed3eeaf583d3
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,musím stmelit společnost a budu bojovat dokud nezůstane kámen na kameni,"","","",Marek Josef,0.11,CZK,2bd105d1e35599e87f72ce319497d40a92525445d0abc5bff53d4612f233bde5
+2017-10-05,"0,11 CZK",Bezhotovostní příjem,Marek Josef,"tchoř se usadí v noře a křičí, neuteču dokud tady bude smrad","","","",Marek Josef,0.11,CZK,802fc4af40d7b53ddc1f7836af21f4f956e81974865985c919c337015e28685d
 2017-10-05,"0,05 CZK",Platba převodem uvnitř banky,"Pobořil, Jan",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,"",42,"",Nevíš koho ve volbách VYKROUŽKOVAT? Seznam zajímavých osobností najdeš na: KrouzkujemeOsobnosti.cz,0.05,CZK,b5407fd89c1ef5b006a913fb3aecb40fb74b677bc06340b9072e55cec507b399
 2017-10-05,"0,01 CZK",Platba převodem uvnitř banky,"Šolc, Jakub",Na jednosměrnou letenku do Ruska!,"","","",Na jednosměrnou letenku do Ruska!,0.01,CZK,629c312d03e35462221db6993c270fc48f3756db76c51ee47b6d6eac13f1b495
 2017-10-05,"0,01 CZK",Platba převodem uvnitř banky,"Dřínek, Vratislav",trvalý příkaz - Miloše do koše,"",3233107861,6200372332,trvalý příkaz - Miloše do koše,0.01,CZK,20b4b5f5578c8ec5b75765cbcbcad5a4abf9c2d733d7c6973e4740e2e03d4fbd
@@ -1984,16 +1994,6 @@ datum,castka,typ,protiucet,zprava,ks,vs,ss,poznamka,mnozstvi,mena,id
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Petr Novotný,Ať tě síla opustí a volby nadobro zatratí.,"","","",Petr Novotný,0.01,CZK,65e02ef3250b034e20e5a300a309f8e7e3dc0bef8eabfd7ed57b25e070c6a13c
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
-2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
 2017-09-25,"0,01 CZK",Bezhotovostní příjem,Jan Maixner,Miloše do koše,"","","",Jan Maixner,0.01,CZK,32f36295f34cae1984a4d57cf2d9165f2371869658809c94bb5d674e8a1fc3b1
