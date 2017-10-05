@@ -3,6 +3,20 @@
     "datum": "2017-10-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Sloupenský, Michal",
+    "zprava": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
+    "ks": "0258",
+    "vs": "0099",
+    "ss": "598",
+    "poznamka": "Sedací soupravy za 5990, akce....od 14,9. do 14,10,,..rohová, rozkládací..barva šedá a hnědá..pište sem..,,",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "455bd49e400b2f0a4b13822d38bd1d15638b6778e445c8cf1df84753a93929c0"
+  },
+  {
+    "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Ing. Šulista, Roman",
     "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 1.11,
     "mena": "CZK",
     "id": "3faff46648f08946c57750d9bf552ff82bd102e1b5fe0bfd3ed2d5c380ba8d39"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "500,00 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "KRAJC JAROSLAV",
-    "zprava": "Pane presidente, vyhrajete v prvnimkole",
-    "ks": "",
-    "vs": "1",
-    "ss": "",
-    "poznamka": "KRAJC JAROSLAV",
-    "mnozstvi": 500.0,
-    "mena": "CZK",
-    "id": "a7b1fb9a6e4756cd72ec8812b12e2ef0d4b12352b66fa6cbcdf71e2c27823362"
   }
 ]
