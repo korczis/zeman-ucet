@@ -3,6 +3,34 @@
     "datum": "2017-10-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Šulista, Roman",
+    "zprava": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Pro neomylného a slušného gentlemana, který se omluví za svůj omyl, drží dané slovo a nelže. A obklopuje se stejně charakterními kolegy. ;-)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "0104820ddb0003ef564ec4b03c9c526f8915b4189e8821831719b815b9d82d3c"
+  },
+  {
+    "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Novotný, Pavel",
+    "zprava": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "ks": "0308",
+    "vs": "666",
+    "ss": "666",
+    "poznamka": "0101000001110010011000010111011001100100011000010010000001100001001000000110110001100001011100110110101101100001",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "ca100ce1348c3292481cad551f2c45adda1b50d3479e3d62cc76f383bfddbdaf"
+  },
+  {
+    "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Novotný, Luboš",
     "zprava": "Každý správný anarchista bude volit prezidenta, který má potenciál udělat co největší ostudu. Miloši do toho!",
     "ks": "0007",
@@ -27970,33 +27998,5 @@
     "mnozstvi": 500.0,
     "mena": "CZK",
     "id": "a7b1fb9a6e4756cd72ec8812b12e2ef0d4b12352b66fa6cbcdf71e2c27823362"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "CELKO VLADIMIR",
-    "zprava": "Mel tak vyznamne postaveni, ze sebevetsi blbost, kterou rekl, byly povazovana za moudrost.",
-    "ks": "",
-    "vs": "0",
-    "ss": "",
-    "poznamka": "CELKO VLADIMIR",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a448a66e7c84d4da12dce700edf3c24c61df16908d1208f2c37b6c4261d6af71"
-  },
-  {
-    "datum": "2017-09-25",
-    "castka": "0,11 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Marek Josef",
-    "zprava": "slovníkem vulg.sprosťáka-rozkydlá odporná bezcharakt.ožralá ropucha,tlamuškin,narcis bažící po moci a kvazi důležitosti kváká na dače Lány",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Marek Josef",
-    "mnozstvi": 0.11,
-    "mena": "CZK",
-    "id": "b0aa2cf94b06e4ff2fb49506e52dac0c7ed1891aa2207cd225f95e861b638bab"
   }
 ]
