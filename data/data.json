@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Mikl, Petr",
+    "zprava": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1a3e90348cf565103a3fdec3beb5484bdda3f97880559590f8fc32a36cb8c266"
+  },
+  {
+    "datum": "2017-10-05",
     "castka": "6,66 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Nekola, Jan",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "34ca725e197ebb2c1e88a7a7c072f4ec46d9e9534d1595a9539c9b24bea4e5c5"
-  },
-  {
-    "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "Římanům 10:9 Vyznáš-li svými ústy Ježíše jako Pána a uvěříš-li ve svém srdci, že ho Bůh vzkřísil z mrtvých, budeš spasen.",
-    "ks": "",
-    "vs": "5",
-    "ss": "",
-    "poznamka": "Římanům 10:9 Vyznáš-li svými ústy Ježíše jako Pána a uvěříš-li ve svém srdci, že ho Bůh vzkřísil z mrtvých, budeš spasen.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "2f6541d145c127c3db6804a6435a43098d7fb4b37db83e037379f060ede9aa82"
   }
 ]
