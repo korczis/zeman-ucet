@@ -3,6 +3,20 @@
     "datum": "2017-10-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Režný, Martin",
+    "zprava": "Přeji panu Zemanovi i nám všem, aby se o další působení v roli prezidenta už neucházel. Máme tady lepší kandidáty, a Zeman si aspoň odpočine",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Přeji panu Zemanovi i nám všem, aby se o další působení v roli prezidenta už neucházel. Máme tady lepší kandidáty, a Zeman si aspoň odpočine",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "3bc980147d387d640075be7c760ed7c31f4e6b650c1d2f3f1b2a6f790741d019"
+  },
+  {
+    "datum": "2017-10-05",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mikl, Petr",
     "zprava": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "62f1de9c9308229a25156a1918071312e8493b84c6563c92c8c742e84e9e9a40"
-  },
-  {
-    "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "Zjevení Janovo 19:13 Má na sobě plášť zbrocený krví a jeho jméno je Slovo Boží. Jan 1:1 Na počátku bylo Slovo, to Slovo bylo u Boha,",
-    "ks": "",
-    "vs": "6",
-    "ss": "",
-    "poznamka": "Zjevení Janovo 19:13 Má na sobě plášť zbrocený krví a jeho jméno je Slovo Boží. Jan 1:1 Na počátku bylo Slovo, to Slovo bylo u Boha,",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "34ca725e197ebb2c1e88a7a7c072f4ec46d9e9534d1595a9539c9b24bea4e5c5"
   }
 ]
