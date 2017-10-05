@@ -1,6 +1,20 @@
 [
   {
     "datum": "2017-10-05",
+    "castka": "6,66 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Nekola, Jan",
+    "zprava": "Miloš, to je ďábel",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Miloš, to je ďábel",
+    "mnozstvi": 6.66,
+    "mena": "CZK",
+    "id": "601928db0b1712a49ab2127401c9281c05064e0723ef4afeaa30c154321f182d"
+  },
+  {
+    "datum": "2017-10-05",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "2f6541d145c127c3db6804a6435a43098d7fb4b37db83e037379f060ede9aa82"
-  },
-  {
-    "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Vaňáček, Jan",
-    "zprava": "Jan 3:16 Neboť Bůh tak miloval svět, že dal svého jediného Syna, aby žádný, kdo v něho věří, nezahynul, ale měl život věčný.",
-    "ks": "",
-    "vs": "3",
-    "ss": "",
-    "poznamka": "Jan 3:16 Neboť Bůh tak miloval svět, že dal svého jediného Syna, aby žádný, kdo v něho věří, nezahynul, ale měl život věčný.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "0f326dea9ead836124ec383fd8efd5598236e8f28e8a3239b90c3c42331c9ed4"
   }
 ]
