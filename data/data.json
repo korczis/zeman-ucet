@@ -3,20 +3,6 @@
     "datum": "2017-10-06",
     "castka": "0,01 CZK",
     "typ": "Bezhotovostní příjem",
-    "protiucet": "MGR. MIROSLAV TROCHT",
-    "zprava": "MILOS ZEMAN JE SOUDEM POTVRZENY LHAR. _VIZ NAPR. PRIPADY OLOVO, BREZINA A PEROUTKA.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "MGR. MIROSLAV TROCHT",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "d699c6678f809f398b4f9a7e112505da8af0c9f25abf07c37c362b1ba740e984"
-  },
-  {
-    "datum": "2017-10-06",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
     "protiucet": "TOMAS ZIMOLKA",
     "zprava": "OSTUDY JSI UŽ UDĚLAL DOST, MILOŠI!#OVČÁČEKNAPRACÁKU",
     "ks": "",
@@ -27830,6 +27816,20 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "bc78d90f530ddc21edb9ae1f96aa1dba708c38ff9981e9e01e3b6d420264a15f"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "0,01 CZK",
+    "typ": "Bezhotovostní příjem",
+    "protiucet": "Jan Maixner",
+    "zprava": "Miloše do koše",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Jan Maixner",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "78006da0e7217089e4a4c1abe065bf1eb8d7b1cecc195f876d65602d35aff0df"
   },
   {
     "datum": "2017-09-26",
