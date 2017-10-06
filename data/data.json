@@ -3,6 +3,20 @@
     "datum": "2017-10-06",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Pištěk, Petr",
+    "zprava": "@Karel Studenovský: ten bonus není 1000, ale jen 725 přece ;)",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "@Karel Studenovský: ten bonus není 1000, ale jen 725 přece ;)",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "1477f35952bebb7a0fa6dfc9a1a1ec7d7fb1d5621fabebc75217ab758b74724e"
+  },
+  {
+    "datum": "2017-10-06",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Studenovský, Karel",
     "zprava": "www.airbnb.cz/c/karels32  1000 korun bonus přes tento odkaz!",
     "ks": "",
@@ -27704,20 +27718,6 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "5ea4eb05004a645f680ff3492426d413f76c021c2adf32f7df3f9a42ba7ba497"
-  },
-  {
-    "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Bezhotovostní příjem",
-    "protiucet": "Jan Maixner",
-    "zprava": "Miloše do koše",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Jan Maixner",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "78006da0e7217089e4a4c1abe065bf1eb8d7b1cecc195f876d65602d35aff0df"
   },
   {
     "datum": "2017-09-26",
