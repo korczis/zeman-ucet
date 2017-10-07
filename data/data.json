@@ -1,20 +1,6 @@
 [
   {
     "datum": "2017-10-07",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Mikl, Petr",
-    "zprava": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "5840d4ab27eb5a9aa81d1cbc12398af61583ca8843a5d1b9bc1e0a7e2e1f0d85"
-  },
-  {
-    "datum": "2017-10-07",
     "castka": "0,05 CZK",
     "typ": "Platba převodem uvnitř banky",
     "protiucet": "Pobořil, Jan",
@@ -27998,5 +27984,19 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "a6896d81e4e16f96d507ecfa33858f06debb771a03206f01e9ce689e3b440a95"
+  },
+  {
+    "datum": "2017-09-26",
+    "castka": "40,00 CZK",
+    "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Pohořelský, Michal",
+    "zprava": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "ks": "",
+    "vs": "",
+    "ss": "",
+    "poznamka": "Čistě česká encyklopedie + www.Multimediaexpo.cz + Vám drží palce ! Ostatní do koše !",
+    "mnozstvi": 40.0,
+    "mena": "CZK",
+    "id": "96321648191e61a51a13000b721794c107fe6a186b77059e269f5691415d0589"
   }
 ]
