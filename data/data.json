@@ -3,6 +3,20 @@
     "datum": "2017-10-07",
     "castka": "0,01 CZK",
     "typ": "Platba převodem uvnitř banky",
+    "protiucet": "Ing. Fischer, Petr",
+    "zprava": "Prodám sadu kol na Pajero Sport / L200 https://aukro.cz/sada-4ks-kol-mitsubishi-pajero-sport-l200-6914719735",
+    "ks": "",
+    "vs": "0",
+    "ss": "",
+    "poznamka": "Prodám sadu kol na Pajero Sport / L200 https://aukro.cz/sada-4ks-kol-mitsubishi-pajero-sport-l200-6914719735",
+    "mnozstvi": 0.01,
+    "mena": "CZK",
+    "id": "47424f19172162867d64a550cf5b3d840df70def3070f4762ac8b5a0a1f3aa47"
+  },
+  {
+    "datum": "2017-10-07",
+    "castka": "0,01 CZK",
+    "typ": "Platba převodem uvnitř banky",
     "protiucet": "Mikl, Petr",
     "zprava": "Mstivý lhář, demagog, buran bez noblesy, apelující na nejnižší lidské pudy, bez vize a základní obecné morálky.",
     "ks": "",
@@ -27984,19 +27998,5 @@
     "mnozstvi": 0.01,
     "mena": "CZK",
     "id": "f0e76c44db399b7361e46219fa82c904d19468690a897b400934774321facffa"
-  },
-  {
-    "datum": "2017-09-26",
-    "castka": "0,01 CZK",
-    "typ": "Platba převodem uvnitř banky",
-    "protiucet": "Klein, Bohumil",
-    "zprava": "Ve čtvrtek 26.11.2017 sraz 4.F ve Dnu Pytle od 18:00",
-    "ks": "",
-    "vs": "",
-    "ss": "",
-    "poznamka": "Ve čtvrtek 26.11.2017 sraz 4.F ve Dnu Pytle od 18:00",
-    "mnozstvi": 0.01,
-    "mena": "CZK",
-    "id": "a6896d81e4e16f96d507ecfa33858f06debb771a03206f01e9ce689e3b440a95"
   }
 ]
